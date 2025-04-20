@@ -6,7 +6,7 @@ GH_TAG=$(date +%Y-%m-%d-%H-%M)
 
 create_registry() {
   (cd scripts && bun . &&  zip -r ../neovim-registry.json.zip ../web/static/neovim-registry.json) || exit 1
-  sha256sum ../neovim-registry.json ../neovim-registry.json.zip > ../neovim-registry-checksums.txt || exit 1
+  sha256sum ../web/static/neovim-registry.json ../neovim-registry.json.zip > ../neovim-registry-checksums.txt || exit 1
 }
 
 set_release_action() {
