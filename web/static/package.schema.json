@@ -38,6 +38,54 @@
 			"items": {
 				"type": "string"
 			}
+		},
+		"media": {
+			"type": "object",
+			"properties": {
+				"images": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"url": {
+								"type": "string",
+								"format": "uri"
+							},
+							"title": {
+								"type": "string"
+							},
+							"type": {
+								"type": "string",
+								"enum": ["image/gif", "image/png", "image/jpeg", "image/webp"]
+							}
+						},
+						"required": ["url", "title", "type"],
+						"additionalProperties": false
+					}
+				},
+				"videos": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"url": {
+								"type": "string",
+								"format": "uri"
+							},
+							"title": {
+								"type": "string"
+							},
+							"type": {
+								"type": "string",
+								"enum": ["youtube", "video/mp4", "video/ogv"]
+							}
+						},
+						"required": ["url", "title", "type"],
+						"additionalProperties": false
+					}
+				}
+			},
+			"additionalProperties": false
 		}
 	},
 	"required": ["name", "description", "homepage", "repository", "licenses", "category", "tags"],

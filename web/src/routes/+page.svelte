@@ -17,7 +17,11 @@
 		licenses: [],
 		languages: [],
 		tags: [],
-		category: ''
+		category: '',
+		media: {
+			images: [],
+			videos: []
+		}
 	};
 
 	const onHomepageIconClick = (e: Event) => {
@@ -208,6 +212,23 @@
 					<td>Categories:</td>
 					<td>{activePackageData.tags.join(', ')}</td>
 				</tr>
+				{#if activePackageData.media && activePackageData.media.images && activePackageData.media.images.length > 0}
+					<tr>
+						<td>Media:</td>
+						<td>
+							<div class="tabs tabs-lift">
+								<label class="tab">
+									<input type="radio" checked />
+									<span class="icon">
+										<i class="fa-solid fa-images"></i>
+									</span>
+									<span>Images</span>
+								</label>
+								<div class="tab-content bg-base-100 border-base-300 p-6">Tab content 1</div>
+							</div>
+						</td>
+					</tr>
+				{/if}
 			</tbody>
 		</table>
 		<div class="modal-action">
@@ -219,7 +240,7 @@
 </dialog>
 
 <div class="flex flex-col items-center">
-	<h1 class="text-3xl font-bold">The Neovim Registry</h1>
+	<h1 class="mt-2 text-3xl font-bold">The Neovim Registry</h1>
 	<p class="mt-2 text-lg">
 		Easily find plugins 📦, themes 🎨 and anything related to your favourite editor ♥️.
 	</p>
@@ -271,9 +292,15 @@
 	{#each $sharedStore.tags as tag}
 		<div class="tag">
 			<span>{tag}</span>
-			<button class="btn btn-sm btn-circle bg-secondary ml-2" on:click={() => removeTag(tag)}>✕</button>
+			<button class="btn btn-sm btn-circle bg-secondary ml-2" on:click={() => removeTag(tag)}
+				>✕</button
+			>
 		</div>
 	{/each}
+</div>
+
+<div class="flex flex-col items-center">
+	<h2 class="mt-2 text-2xl font-bold">Results</h2>
 </div>
 
 <div class="overflow-x-auto">
@@ -303,16 +330,16 @@
 	td {
 		vertical-align: top;
 	}
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .tag {
-    display: flex;
-    align-items: center;
-    background-color: var(--color-primary);
-    padding: 0.5rem;
-    border-radius: 0.5rem;
-  }
+	.tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+	.tag {
+		display: flex;
+		align-items: center;
+		background-color: var(--color-primary);
+		padding: 0.5rem;
+		border-radius: 0.5rem;
+	}
 </style>

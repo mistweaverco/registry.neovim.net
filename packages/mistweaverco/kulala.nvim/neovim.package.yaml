@@ -1,9 +1,15 @@
 ---
+# yaml-language-server: $schema=https://registry.neovim.net/package.schema.json
 name: mistweaverco/kulala.nvim
 description: |
-  kulala.nvim is a Neovim plugin that provides a set of tools
-  for working with HTTP files.
+  A fully-featured REST Client Interface for Neovim.
+
+  ## Features
+
+  - Protocols: HTTP, GRPC, GraphQL, WebSocket, Streaming
+  - Specs: HTTP File Spec and IntelliJ HTTP Client compliant
 homepage: https://neovim.getkulala.net
+repository: https://github.com/mistweaverco/kulala.nvim
 licenses:
   - MIT
 languages:
@@ -14,3 +20,9 @@ tags:
   - graphql
   - websocket
   - grpc
+  - curl
+media:
+  images:
+    - title: Demo
+      url: https://raw.githubusercontent.com/mistweaverco/kulala.nvim/refs/heads/main/assets/demo.gif
+      type: image/gif
