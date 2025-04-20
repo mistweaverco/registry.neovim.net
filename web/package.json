@@ -16,6 +16,7 @@
 	"devDependencies": {
 		"@eslint/compat": "1.2.8",
 		"@eslint/js": "9.25.0",
+		"@fortawesome/fontawesome-free": "6.7.2",
 		"@sveltejs/adapter-static": "3.0.8",
 		"@sveltejs/kit": "2.20.7",
 		"@sveltejs/vite-plugin-svelte": "5.0.3",

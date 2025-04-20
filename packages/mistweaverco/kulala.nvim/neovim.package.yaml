@@ -1,0 +1,16 @@
+---
+name: mistweaverco/kulala.nvim
+description: |
+  kulala.nvim is a Neovim plugin that provides a set of tools
+  for working with HTTP files.
+homepage: https://neovim.getkulala.net
+licenses:
+  - MIT
+languages:
+  - http
+categories:
+  - Plugin
+  - REST Client
+  - GraphQL
+  - WebSocket
+  - gRPC
