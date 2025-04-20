@@ -13,9 +13,11 @@
 		name: '',
 		description: '',
 		homepage: '',
+		repository: '',
 		licenses: [],
 		languages: [],
-		categories: []
+		tags: [],
+		category: ''
 	};
 
 	const onHomepageIconClick = (e: Event) => {
@@ -46,17 +48,70 @@
 	};
 
 	const filterPackages = () => {
-		if ($sharedStore.searchValue === '') {
+		if ($sharedStore.tags.length > 0) {
+			$sharedStore.filteredPackages = packages.filter((pkg) => {
+				return pkg.tags.some((tag) => $sharedStore.tags.includes(tag));
+			});
+		} else {
 			$sharedStore.filteredPackages = packages;
+		}
+		if ($sharedStore.showColorschemes) {
+			$sharedStore.filteredPackages = $sharedStore.filteredPackages.filter((pkg) => {
+				if ($sharedStore.showPlugins) {
+					return pkg.category === 'colorscheme' || pkg.category === 'plugin';
+				} else {
+					return pkg.category === 'colorscheme';
+				}
+			});
+		}
+		if ($sharedStore.showPlugins) {
+			$sharedStore.filteredPackages = $sharedStore.filteredPackages.filter((pkg) => {
+				if ($sharedStore.showColorschemes) {
+					return pkg.category === 'plugin' || pkg.category === 'colorscheme';
+				} else {
+					return pkg.category === 'plugin';
+				}
+			});
+		}
+		if ($sharedStore.searchValue === '') {
 			return;
 		}
-		$sharedStore.filteredPackages = packages;
 		$sharedStore.filteredPackages = $sharedStore.filteredPackages.filter((pkg) => {
 			return pkg.name.toLowerCase().includes($sharedStore.searchValue.toLowerCase());
 		});
 	};
 
 	$: $sharedStore.searchValue, filterPackages();
+
+	const toggleCategory = (e: Event) => {
+		const target = e.currentTarget as HTMLInputElement;
+		const name = target.name;
+		const checked = target.checked;
+		if (name === 'colorschemes') {
+			$sharedStore.showColorschemes = checked;
+		} else if (name === 'plugins') {
+			$sharedStore.showPlugins = checked;
+		}
+	};
+
+	const addTag = (e: Event) => {
+		const target = e.currentTarget as HTMLInputElement;
+		const input = target.closest('input') as HTMLInputElement;
+		const value = input.value;
+		if (value === '') {
+			return;
+		}
+		if ($sharedStore.tags.includes(value)) {
+			input.value = '';
+			return;
+		}
+		$sharedStore.tags = [...$sharedStore.tags, value];
+		input.value = '';
+	};
+
+	const removeTag = (tag: string) => {
+		$sharedStore.tags = $sharedStore.tags.filter((t) => t !== tag);
+	};
 
 	onMount(async () => {
 		const res = await fetch('/neovim-registry.json');
@@ -151,7 +206,7 @@
 				{/if}
 				<tr>
 					<td>Categories:</td>
-					<td>{activePackageData.categories.join(', ')}</td>
+					<td>{activePackageData.tags.join(', ')}</td>
 				</tr>
 			</tbody>
 		</table>
@@ -163,12 +218,69 @@
 	</div>
 </dialog>
 
+<div class="flex flex-col items-center">
+	<h1 class="text-3xl font-bold">The Neovim Registry</h1>
+	<p class="mt-2 text-lg">
+		Easily find plugins 📦, themes 🎨 and anything related to your favourite editor ♥️.
+	</p>
+	<div class="alert alert-info mt-2 w-auto">
+		<span class="icon">
+			<i class="fa-solid fa-info"></i>
+		</span>
+		<span>{packages.length} packages in this registry.</span>
+	</div>
+</div>
+
+<fieldset class="fieldset bg-base-100 border-base-300 rounded-box w-64 border p-4">
+	<legend class="fieldset-legend">Search options</legend>
+	<label class="label">
+		<input
+			type="checkbox"
+			name="colorschemes"
+			checked
+			class="toggle toggle-success"
+			on:change={toggleCategory}
+		/>
+		Colorschemes
+	</label>
+	<label class="label">
+		<input
+			type="checkbox"
+			name="plugins"
+			checked
+			class="toggle toggle-success"
+			on:change={toggleCategory}
+		/>
+		Plugins
+	</label>
+	<label class="label">
+		Tags
+		<input list="tags" class="input" name="tags" on:change={addTag} />
+		<datalist id="tags">
+			{#each $sharedStore.filteredPackages as pkg, i (pkg.name)}
+				{#each pkg.tags as tag}
+					<option value={tag}>
+						{tag}
+					</option>
+				{/each}
+			{/each}
+		</datalist>
+	</label>
+</fieldset>
+<div class="tags mt-2 p-2">
+	{#each $sharedStore.tags as tag}
+		<div class="tag">
+			<span>{tag}</span>
+			<button class="btn btn-sm btn-circle bg-secondary ml-2" on:click={() => removeTag(tag)}>✕</button>
+		</div>
+	{/each}
+</div>
+
 <div class="overflow-x-auto">
 	<table class="table w-full">
 		<thead>
 			<tr>
 				<th>Name</th>
-				<th>Version</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -181,9 +293,6 @@
 					data-index={i}
 				>
 					<td>{pkg.name}</td>
-					<td>
-						<span>{pkg.version}</span>
-					</td>
 				</tr>
 			{/each}
 		</tbody>
@@ -194,4 +303,16 @@
 	td {
 		vertical-align: top;
 	}
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .tag {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-primary);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+  }
 </style>

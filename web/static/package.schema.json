@@ -13,6 +13,10 @@
 			"type": "string",
 			"format": "uri"
 		},
+		"repository": {
+			"type": "string",
+			"format": "uri"
+		},
 		"licenses": {
 			"type": "array",
 			"items": {
@@ -25,13 +29,17 @@
 				"type": "string"
 			}
 		},
-		"categories": {
+		"category": {
+			"type": "string",
+			"enum": ["plugin", "colorscheme"]
+		},
+		"tags": {
 			"type": "array",
 			"items": {
 				"type": "string"
 			}
 		}
 	},
-	"required": ["name", "description", "homepage", "licenses", "categories"],
+	"required": ["name", "description", "homepage", "repository", "licenses", "category", "tags"],
 	"additionalProperties": false
 }

@@ -8,9 +8,9 @@ licenses:
   - MIT
 languages:
   - http
-categories:
-  - Plugin
-  - REST Client
-  - GraphQL
-  - WebSocket
-  - gRPC
+category: plugin
+tags:
+  - rest
+  - graphql
+  - websocket
+  - grpc

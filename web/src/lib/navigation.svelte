@@ -23,17 +23,12 @@
 <div class="navbar bg-base-300 sticky top-0 z-10">
 	<div class="flex-1">
 		<a href="/">
-			<div class="indicator">
-				<button class="btn {currentRoute === '/' ? 'btn-primary' : ''}">
-					<span class="icon">
-						<i class="fa-solid fa-cloud"></i>
-					</span>
-					{#if $sharedStore.packagesCount !== 0}
-						<span class="indicator-item badge badge-secondary">{$sharedStore.packagesCount}</span>
-					{/if}
-					<strong>Search</strong>
-				</button>
-			</div>
+			<button class="btn {currentRoute === '/' ? 'btn-primary' : ''}">
+				<span class="icon">
+					<i class="fa-solid fa-cloud"></i>
+				</span>
+				<strong>Search</strong>
+			</button>
 		</a>
 		<a href="/about">
 			<button class="btn">
