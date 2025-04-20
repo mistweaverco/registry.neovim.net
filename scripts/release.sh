@@ -22,10 +22,10 @@ set_release_action() {
 do_gh_release() {
   if [ "$RELEASE_ACTION" == "edit" ]; then
     echo "Overwriting existing release $GH_TAG"
-    gh release upload --clobber "$GH_TAG" neovim-registry.json.zip neovim-registry-checksums.txt
+    gh release upload --clobber "$GH_TAG" ../neovim-registry.json.zip ../neovim-registry-checksums.txt
   else
     echo "Creating new release $GH_TAG"
-    gh release create --generate-notes "$GH_TAG" neovim-registry.json.zip neovim-registry-checksums.txt
+    gh release create --generate-notes "$GH_TAG" ../neovim-registry.json.zip ../neovim-registry-checksums.txt
   fi
 }
 
