@@ -10,8 +10,7 @@ description: |
   - Specs: HTTP File Spec and IntelliJ HTTP Client compliant
 homepage: https://neovim.getkulala.net
 repository: https://github.com/mistweaverco/kulala.nvim
-licenses:
-  - MIT
+license: MIT
 languages:
   - http
 category: plugin

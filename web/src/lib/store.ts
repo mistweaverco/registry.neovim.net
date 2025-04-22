@@ -6,5 +6,6 @@ export const sharedStore = writable({
 	showColorschemes: true,
 	filteredPackages: [],
 	packagesCount: 0,
-	tags: []
+	tags: [],
+	availableTags: []
 });

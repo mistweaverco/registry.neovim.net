@@ -51,13 +51,19 @@
 		modalInfoCloseButton.focus();
 	};
 
+  let availableTags = [];
+
 	const filterPackages = () => {
 		if ($sharedStore.tags.length > 0) {
 			$sharedStore.filteredPackages = packages.filter((pkg) => {
 				return pkg.tags.some((tag) => $sharedStore.tags.includes(tag));
 			});
+			$sharedStore.availableTags = $sharedStore.availableTags.filter((tag) => {
+				return $sharedStore.filteredPackages.some((pkg) => pkg.tags.includes(tag));
+			});
 		} else {
 			$sharedStore.filteredPackages = packages;
+      $sharedStore.availableTags = availableTags;
 		}
 		if ($sharedStore.showColorschemes) {
 			$sharedStore.filteredPackages = $sharedStore.filteredPackages.filter((pkg) => {
@@ -129,6 +135,14 @@
 			}
 			return 0;
 		});
+    const uniqueTags = new Set();
+    sortedData.forEach((pkg) => {
+      pkg.tags.forEach((tag) => {
+        uniqueTags.add(tag);
+      });
+    });
+    availableTags = Array.from(uniqueTags);
+    $sharedStore.availableTags = availableTags;
 		packages = sortedData;
 		$sharedStore.filteredPackages = sortedData;
 		$sharedStore.packagesCount = sortedData.length;
@@ -210,7 +224,7 @@
 					</tr>
 				{/if}
 				<tr>
-					<td>Categories:</td>
+					<td>Tags:</td>
 					<td>{activePackageData.tags.join(', ')}</td>
 				</tr>
 				{#if activePackageData.media && activePackageData.media.images && activePackageData.media.images.length > 0}
@@ -225,7 +239,24 @@
 									</span>
 									<span>Images</span>
 								</label>
-								<div class="tab-content bg-base-100 border-base-300 p-6">Tab content 1</div>
+								<div class="tab-content bg-base-100 border-base-300 p-6">
+                  {#each activePackageData.media.images as image}
+                    <a 
+                      href={image.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >
+                      <div class="flex flex-col items-center">
+                        <img
+                          src={image.url}
+                          alt={image.title}
+                          class="rounded-lg shadow-lg"
+                          style="max-width: 200px; max-height: 200px;"
+                        />
+                        <span>{image.title}</span>
+                    </a>
+                  {/each}
+                </div>
 							</div>
 						</td>
 					</tr>
@@ -245,12 +276,9 @@
 	<p class="mt-2 text-lg">
 		Easily find plugins 📦, themes 🎨 and anything related to your favourite editor ♥️.
 	</p>
-	<div class="alert alert-info mt-2 w-auto">
-		<span class="icon">
-			<i class="fa-solid fa-info"></i>
-		</span>
-		<span>{packages.length} packages in this registry.</span>
-	</div>
+	<p class="mt-2 text-lg">
+	  {packages.length} packages in this registry.
+	</p>
 </div>
 
 <fieldset class="fieldset bg-base-100 border-base-300 rounded-box w-64 border p-4">
@@ -279,12 +307,10 @@
 		Tags
 		<input list="tags" class="input" name="tags" on:change={addTag} />
 		<datalist id="tags">
-			{#each $sharedStore.filteredPackages as pkg, i (pkg.name)}
-				{#each pkg.tags as tag}
-					<option value={tag}>
-						{tag}
-					</option>
-				{/each}
+			{#each $sharedStore.availableTags as tag}
+        <option value={tag}>
+          {tag}
+        </option>
 			{/each}
 		</datalist>
 	</label>
