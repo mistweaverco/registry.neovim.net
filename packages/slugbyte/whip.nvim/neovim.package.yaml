@@ -1,7 +1,7 @@
-name: /slugbyte
+name: slugbyte/whip.nvim
 description: A super fast minimal scratchpad management plugin, biew biew biew.
-homepage: https://github.com//slugbyte
-repository: https://github.com//slugbyte
+homepage: https://github.com/slugbyte/whip.nvim
+repository: https://github.com/slugbyte/whip.nvim
 license: unknown
 category: plugin
 tags:

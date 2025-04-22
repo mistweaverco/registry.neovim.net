@@ -132,6 +132,7 @@
 		packages = sortedData;
 		$sharedStore.filteredPackages = sortedData;
 		$sharedStore.packagesCount = sortedData.length;
+    filterPackages();
 	});
 </script>
 
@@ -202,7 +203,7 @@
 					<td>License:</td>
 					<td>{activePackageData.license}</td>
 				</tr>
-				{#if activePackageData.languages.length > 0}
+				{#if activePackageData.languages && activePackageData.languages.length > 0}
 					<tr>
 						<td>Languages:</td>
 						<td>{activePackageData.languages.join(', ')}</td>
