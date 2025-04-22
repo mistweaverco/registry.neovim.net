@@ -1,0 +1,21 @@
+---
+# yaml-language-server: $schema=https://registry.neovim.net/package.schema.json
+name: mistweaverco/bafa.nvim
+description: |
+  A minimal BufExplorer alternative for lazy people for your favorite editor.
+
+  Bafa is swahili for "buffer".
+
+  It allows you to quickly switch between buffers and delete them.
+homepage: https://github.com/mistweaverco/bafa.nvim
+repository: https://github.com/mistweaverco/bafa.nvim
+license: MIT
+category: plugin
+tags:
+  - buffer
+  - buffermanagement
+media:
+  images:
+    - title: Screenshot
+      url: https://raw.githubusercontent.com/mistweaverco/bafa.nvim/refs/heads/main/demo.png
+      type: image/png

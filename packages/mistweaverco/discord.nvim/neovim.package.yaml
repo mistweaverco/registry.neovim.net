@@ -1,0 +1,18 @@
+---
+# yaml-language-server: $schema=https://registry.neovim.net/package.schema.json
+name: mistweaverco/discord.nvim
+description: |
+  An unobtrusive Discord Rich Presence plugin that just works.
+homepage: https://github.com/mistweaverco/discord.nvim
+repository: https://github.com/mistweaverco/discord.nvim
+license: MIT
+category: plugin
+tags:
+  - discord
+  - status
+  - social
+media:
+  images:
+    - title: Screenshot
+      url: https://raw.githubusercontent.com/mistweaverco/discord.nvim/refs/heads/main/assets/screenshot.png
+      type: image/png
