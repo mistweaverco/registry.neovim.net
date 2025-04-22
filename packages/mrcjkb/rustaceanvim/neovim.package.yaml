@@ -1,0 +1,9 @@
+name: mrcjkb/rustaceanvim
+description: A heavily modified fork of rust-tools.nvim that does not require asetupcall and does not depend on nvim-lspconfig.
+homepage: https://github.com/mrcjkb/rustaceanvim
+repository: https://github.com/mrcjkb/rustaceanvim
+license: GPL-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

@@ -1,0 +1,8 @@
+name: m4xshen/smartcolumn.nvim
+description: Hide your colorcolumn when unneeded.
+homepage: https://github.com/m4xshen/smartcolumn.nvim
+repository: https://github.com/m4xshen/smartcolumn.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

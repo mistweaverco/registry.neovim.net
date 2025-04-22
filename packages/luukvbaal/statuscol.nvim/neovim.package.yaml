@@ -1,0 +1,8 @@
+name: luukvbaal/statuscol.nvim
+description: Configurable 'statuscolumn' with builtin segments and click handlers.
+homepage: https://github.com/luukvbaal/statuscol.nvim
+repository: https://github.com/luukvbaal/statuscol.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

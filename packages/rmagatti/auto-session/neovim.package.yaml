@@ -1,0 +1,8 @@
+name: rmagatti/auto-session
+description: A small automated session manager.
+homepage: https://github.com/rmagatti/auto-session
+repository: https://github.com/rmagatti/auto-session
+license: MIT
+category: plugin
+tags:
+  - session

@@ -1,0 +1,8 @@
+name: koenverburg/peepsight.nvim
+description: Focus only the function your cursor is in.
+homepage: https://github.com/koenverburg/peepsight.nvim
+repository: https://github.com/koenverburg/peepsight.nvim
+license: unknown
+category: plugin
+tags:
+  - color

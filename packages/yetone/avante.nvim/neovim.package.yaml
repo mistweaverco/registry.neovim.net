@@ -1,0 +1,8 @@
+name: yetone/avante.nvim
+description: Chat with your code as if you are in Cursor AI IDE.
+homepage: https://github.com/yetone/avante.nvim
+repository: https://github.com/yetone/avante.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - ai

@@ -1,0 +1,9 @@
+name: yaocccc/nvim-hlchunk
+description: Highlight a{}chunk.
+homepage: https://github.com/yaocccc/nvim-hlchunk
+repository: https://github.com/yaocccc/nvim-hlchunk
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

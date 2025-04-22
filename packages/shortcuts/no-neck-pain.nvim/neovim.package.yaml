@@ -1,0 +1,8 @@
+name: shortcuts/no-neck-pain.nvim
+description: Center the currently focused buffer to the middle of your terminal.
+homepage: https://github.com/shortcuts/no-neck-pain.nvim
+repository: https://github.com/shortcuts/no-neck-pain.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: krady21/compiler-explorer.nvim
+description: Async Lua plugin for interacting withcompiler-explorer.
+homepage: https://github.com/krady21/compiler-explorer.nvim
+repository: https://github.com/krady21/compiler-explorer.nvim
+license: MIT
+category: plugin
+tags:
+  - media

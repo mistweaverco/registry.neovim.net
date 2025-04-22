@@ -1,0 +1,8 @@
+name: ziontee113/color-picker.nvim
+description: Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+homepage: https://github.com/ziontee113/color-picker.nvim
+repository: https://github.com/ziontee113/color-picker.nvim
+license: MIT
+category: plugin
+tags:
+  - color

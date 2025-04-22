@@ -1,0 +1,8 @@
+name: Zeioth/distroupdate.nvim
+description: Distro agnostic updater to get the latest changes from the Git repository of your config.
+homepage: https://github.com/Zeioth/distroupdate.nvim
+repository: https://github.com/Zeioth/distroupdate.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

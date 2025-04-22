@@ -1,0 +1,8 @@
+name: kelly-lin/ranger.nvim
+description: Rangerintegration for Neovim.
+homepage: https://github.com/kelly-lin/ranger.nvim
+repository: https://github.com/kelly-lin/ranger.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

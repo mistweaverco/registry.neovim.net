@@ -1,0 +1,8 @@
+name: Kurama622/profile.nvim
+description: Your personal homepage.
+homepage: https://github.com/Kurama622/profile.nvim
+repository: https://github.com/Kurama622/profile.nvim
+license: unknown
+category: plugin
+tags:
+  - startup

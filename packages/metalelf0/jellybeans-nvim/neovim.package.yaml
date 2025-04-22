@@ -1,0 +1,8 @@
+name: metalelf0/jellybeans-nvim
+description: A port of jellybeans colorscheme.
+homepage: https://github.com/metalelf0/jellybeans-nvim
+repository: https://github.com/metalelf0/jellybeans-nvim
+license: MIT
+category: colorscheme
+tags:
+  - lua-colorscheme

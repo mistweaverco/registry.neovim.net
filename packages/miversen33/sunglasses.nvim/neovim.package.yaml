@@ -1,0 +1,8 @@
+name: miversen33/sunglasses.nvim
+description: Dynamic Colorscheme/highlight adjuster on window switching.
+homepage: https://github.com/miversen33/sunglasses.nvim
+repository: https://github.com/miversen33/sunglasses.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - color

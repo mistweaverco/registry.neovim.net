@@ -1,0 +1,9 @@
+name: linrongbin16/lsp-progress.nvim
+description: A performant LSP progress status.
+homepage: https://github.com/linrongbin16/lsp-progress.nvim
+repository: https://github.com/linrongbin16/lsp-progress.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

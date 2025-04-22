@@ -1,0 +1,9 @@
+name: cjodo/convert.nvim
+description: A tool for CSS unit conversions.
+homepage: https://github.com/cjodo/convert.nvim
+repository: https://github.com/cjodo/convert.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

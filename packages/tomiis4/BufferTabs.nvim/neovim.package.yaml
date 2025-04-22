@@ -1,0 +1,9 @@
+name: tomiis4/BufferTabs.nvim
+description: Simple and Fancy tabline.
+homepage: https://github.com/tomiis4/BufferTabs.nvim
+repository: https://github.com/tomiis4/BufferTabs.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

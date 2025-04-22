@@ -1,0 +1,9 @@
+name: kiyoon/tmux-send.nvim
+description: Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+homepage: https://github.com/kiyoon/tmux-send.nvim
+repository: https://github.com/kiyoon/tmux-send.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

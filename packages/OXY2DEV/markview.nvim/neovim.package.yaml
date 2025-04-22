@@ -1,0 +1,9 @@
+name: OXY2DEV/markview.nvim
+description: A hackable markdown, typst, LaTeX, html(inline) & YAML renderer.
+homepage: https://github.com/OXY2DEV/markview.nvim
+repository: https://github.com/OXY2DEV/markview.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

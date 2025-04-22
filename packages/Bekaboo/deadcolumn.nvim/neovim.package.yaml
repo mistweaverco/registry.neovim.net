@@ -1,0 +1,8 @@
+name: Bekaboo/deadcolumn.nvim
+description: Shows your colorcolumn dynamically.
+homepage: https://github.com/Bekaboo/deadcolumn.nvim
+repository: https://github.com/Bekaboo/deadcolumn.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - bars-and-lines

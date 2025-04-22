@@ -1,0 +1,8 @@
+name: okuuva/auto-save.nvim
+description: Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+homepage: https://github.com/okuuva/auto-save.nvim
+repository: https://github.com/okuuva/auto-save.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

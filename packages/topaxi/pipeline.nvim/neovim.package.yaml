@@ -1,0 +1,9 @@
+name: topaxi/pipeline.nvim
+description: View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+homepage: https://github.com/topaxi/pipeline.nvim
+repository: https://github.com/topaxi/pipeline.nvim
+license: unknown
+category: plugin
+tags:
+  - git
+  - github

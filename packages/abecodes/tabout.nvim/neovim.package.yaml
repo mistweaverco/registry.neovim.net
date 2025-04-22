@@ -1,0 +1,8 @@
+name: abecodes/tabout.nvim
+description: Jump out of brackets, quotes, objects, etc.
+homepage: https://github.com/abecodes/tabout.nvim
+repository: https://github.com/abecodes/tabout.nvim
+license: Unlicense
+category: plugin
+tags:
+  - motion

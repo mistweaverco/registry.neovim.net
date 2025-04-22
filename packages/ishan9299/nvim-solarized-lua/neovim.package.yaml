@@ -1,0 +1,8 @@
+name: ishan9299/nvim-solarized-lua
+description: Solarized colorscheme in Lua (Neovim >= 0.5).
+homepage: https://github.com/ishan9299/nvim-solarized-lua
+repository: https://github.com/ishan9299/nvim-solarized-lua
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

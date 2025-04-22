@@ -1,0 +1,8 @@
+name: mrjones2014/smart-splits.nvim
+description: Smart, seamless, directional navigation and resizing of splits.
+homepage: https://github.com/mrjones2014/smart-splits.nvim
+repository: https://github.com/mrjones2014/smart-splits.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

@@ -1,0 +1,8 @@
+name: samharju/yeet.nvim
+description: Run shell commands in terminal buffers or tmux panes.
+homepage: https://github.com/samharju/yeet.nvim
+repository: https://github.com/samharju/yeet.nvim
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

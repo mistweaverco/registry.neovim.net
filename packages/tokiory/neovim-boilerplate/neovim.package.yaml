@@ -1,0 +1,8 @@
+name: tokiory/neovim-boilerplate
+description: Starter boilerplate for making new configurations.
+homepage: https://github.com/tokiory/neovim-boilerplate
+repository: https://github.com/tokiory/neovim-boilerplate
+license: MIT
+category: plugin
+tags:
+  - starter-templates

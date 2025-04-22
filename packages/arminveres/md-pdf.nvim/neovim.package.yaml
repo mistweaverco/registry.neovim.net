@@ -1,0 +1,9 @@
+name: arminveres/md-pdf.nvim
+description: Preview markdown files and convert to PDF.
+homepage: https://github.com/arminveres/md-pdf.nvim
+repository: https://github.com/arminveres/md-pdf.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

@@ -1,0 +1,8 @@
+name: olimorris/persisted.nvim
+description: Simple session management with Git branching, autosave/autoload and Telescope support.
+homepage: https://github.com/olimorris/persisted.nvim
+repository: https://github.com/olimorris/persisted.nvim
+license: MIT
+category: plugin
+tags:
+  - session

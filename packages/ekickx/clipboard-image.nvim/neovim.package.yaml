@@ -1,0 +1,8 @@
+name: ekickx/clipboard-image.nvim
+description: Neovim Lua plugin to paste image from clipboard.
+homepage: https://github.com/ekickx/clipboard-image.nvim
+repository: https://github.com/ekickx/clipboard-image.nvim
+license: MIT
+category: plugin
+tags:
+  - media

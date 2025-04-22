@@ -1,0 +1,8 @@
+name: pianocomposer321/consolation.nvim
+description: A general-purpose terminal wrapper and management plugin, written in Lua.
+homepage: https://github.com/pianocomposer321/consolation.nvim
+repository: https://github.com/pianocomposer321/consolation.nvim
+license: unknown
+category: plugin
+tags:
+  - terminal-integration

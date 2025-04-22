@@ -1,0 +1,8 @@
+name: linrongbin16/fzfx.nvim
+description: A fuzzy finder that updates on every keystroke.
+homepage: https://github.com/linrongbin16/fzfx.nvim
+repository: https://github.com/linrongbin16/fzfx.nvim
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

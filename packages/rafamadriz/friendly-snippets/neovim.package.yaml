@@ -1,0 +1,8 @@
+name: rafamadriz/friendly-snippets
+description: Set of preconfigured snippets for different languages.
+homepage: https://github.com/rafamadriz/friendly-snippets
+repository: https://github.com/rafamadriz/friendly-snippets
+license: MIT
+category: plugin
+tags:
+  - snippet

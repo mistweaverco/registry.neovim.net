@@ -1,0 +1,8 @@
+name: GeorgesAlkhouri/nvim-aider
+description: Seamlessly integrate Aider for an AI-assisted coding experience.
+homepage: https://github.com/GeorgesAlkhouri/nvim-aider
+repository: https://github.com/GeorgesAlkhouri/nvim-aider
+license: MIT
+category: plugin
+tags:
+  - ai

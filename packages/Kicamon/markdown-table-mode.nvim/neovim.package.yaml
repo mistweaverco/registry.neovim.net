@@ -1,0 +1,9 @@
+name: Kicamon/markdown-table-mode.nvim
+description: Markdown format plugin like vim-table-mode but write in Lua.
+homepage: https://github.com/Kicamon/markdown-table-mode.nvim
+repository: https://github.com/Kicamon/markdown-table-mode.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

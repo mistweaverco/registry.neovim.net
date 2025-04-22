@@ -1,0 +1,8 @@
+name: norcalli/nvim-terminal.lua
+description: A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
+homepage: https://github.com/norcalli/nvim-terminal.lua
+repository: https://github.com/norcalli/nvim-terminal.lua
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

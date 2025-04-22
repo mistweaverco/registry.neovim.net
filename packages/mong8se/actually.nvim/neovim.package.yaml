@@ -1,0 +1,8 @@
+name: mong8se/actually.nvim
+description: Load the file you actually meant to load.
+homepage: https://github.com/mong8se/actually.nvim
+repository: https://github.com/mong8se/actually.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - startup

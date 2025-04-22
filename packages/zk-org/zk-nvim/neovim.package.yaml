@@ -1,0 +1,8 @@
+name: zk-org/zk-nvim
+description: Neovim extension for zk, a plain text note-taking assistant.
+homepage: https://github.com/zk-org/zk-nvim
+repository: https://github.com/zk-org/zk-nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

@@ -1,0 +1,8 @@
+name: jonathandion/web-dev.nvim
+description: Small, simple and flexible configuration for web development.
+homepage: https://github.com/jonathandion/web-dev.nvim
+repository: https://github.com/jonathandion/web-dev.nvim
+license: unknown
+category: plugin
+tags:
+  - preconfigured-configuration

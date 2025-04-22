@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-tinygit
+description: Lightweight and nimble Git client.
+homepage: https://github.com/chrisgrieser/nvim-tinygit
+repository: https://github.com/chrisgrieser/nvim-tinygit
+license: MIT
+category: plugin
+tags:
+  - git

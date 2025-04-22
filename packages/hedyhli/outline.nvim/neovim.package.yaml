@@ -1,0 +1,9 @@
+name: hedyhli/outline.nvim
+description: A significantly enhanced and refactored fork ofsymbols-outline.nvim.
+homepage: https://github.com/hedyhli/outline.nvim
+repository: https://github.com/hedyhli/outline.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

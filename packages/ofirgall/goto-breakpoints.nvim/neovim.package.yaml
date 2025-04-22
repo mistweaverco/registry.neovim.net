@@ -1,0 +1,8 @@
+name: ofirgall/goto-breakpoints.nvim
+description: Cycle between breakpoints for nvim-dap.
+homepage: https://github.com/ofirgall/goto-breakpoints.nvim
+repository: https://github.com/ofirgall/goto-breakpoints.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging

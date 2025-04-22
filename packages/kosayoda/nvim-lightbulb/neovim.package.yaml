@@ -1,0 +1,9 @@
+name: kosayoda/nvim-lightbulb
+description: The plugin shows a lightbulb in the sign column whenever atextDocument/codeActionis available at the current cursor position.
+homepage: https://github.com/kosayoda/nvim-lightbulb
+repository: https://github.com/kosayoda/nvim-lightbulb
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

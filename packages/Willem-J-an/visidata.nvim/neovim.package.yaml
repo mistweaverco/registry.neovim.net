@@ -1,0 +1,8 @@
+name: Willem-J-an/visidata.nvim
+description: Render pandas dataframes in nvim-dap using the power of visidata.
+homepage: https://github.com/Willem-J-an/visidata.nvim
+repository: https://github.com/Willem-J-an/visidata.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - debugging

@@ -1,0 +1,8 @@
+name: axkirillov/hbac.nvim
+description: Automatically close buffers you are not working on.
+homepage: https://github.com/axkirillov/hbac.nvim
+repository: https://github.com/axkirillov/hbac.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

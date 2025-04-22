@@ -1,0 +1,8 @@
+name: Tsuzat/NeoSolarized.nvim
+description: NeoSolarized colorscheme with full transparency.
+homepage: https://github.com/Tsuzat/NeoSolarized.nvim
+repository: https://github.com/Tsuzat/NeoSolarized.nvim
+license: Apache-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

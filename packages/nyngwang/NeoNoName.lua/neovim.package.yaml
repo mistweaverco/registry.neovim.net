@@ -1,0 +1,8 @@
+name: nyngwang/NeoNoName.lua
+description: Layout preserving buffer deletion.
+homepage: https://github.com/nyngwang/NeoNoName.lua
+repository: https://github.com/nyngwang/NeoNoName.lua
+license: MIT
+category: plugin
+tags:
+  - split-and-window

@@ -1,0 +1,8 @@
+name: is0n/jaq-nvim
+description: Just Another Quickrun Plugin in Lua.
+homepage: https://github.com/is0n/jaq-nvim
+repository: https://github.com/is0n/jaq-nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,8 @@
+name: h-hg/fcitx.nvim
+description: Switching and restoring fcitx state for each buffer separately.
+homepage: https://github.com/h-hg/fcitx.nvim
+repository: https://github.com/h-hg/fcitx.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

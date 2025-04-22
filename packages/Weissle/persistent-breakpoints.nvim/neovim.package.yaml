@@ -1,0 +1,8 @@
+name: Weissle/persistent-breakpoints.nvim
+description: Persistent breakpoints for nvim-dap.
+homepage: https://github.com/Weissle/persistent-breakpoints.nvim
+repository: https://github.com/Weissle/persistent-breakpoints.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging

@@ -1,0 +1,8 @@
+name: rlychrisg/truncateline.nvim
+description: Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+homepage: https://github.com/rlychrisg/truncateline.nvim
+repository: https://github.com/rlychrisg/truncateline.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

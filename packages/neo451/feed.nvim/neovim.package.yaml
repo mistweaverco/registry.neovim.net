@@ -1,0 +1,8 @@
+name: neo451/feed.nvim
+description: Web feed reader written in Lua (RSS, atom, json feed).
+homepage: https://github.com/neo451/feed.nvim
+repository: https://github.com/neo451/feed.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - media

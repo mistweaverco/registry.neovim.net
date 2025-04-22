@@ -1,0 +1,8 @@
+name: t-troebst/perfanno.nvim
+description: Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+homepage: https://github.com/t-troebst/perfanno.nvim
+repository: https://github.com/t-troebst/perfanno.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging

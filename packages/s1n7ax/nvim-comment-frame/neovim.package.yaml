@@ -1,0 +1,9 @@
+name: s1n7ax/nvim-comment-frame
+description: Adds a comment frame based on the source file.
+homepage: https://github.com/s1n7ax/nvim-comment-frame
+repository: https://github.com/s1n7ax/nvim-comment-frame
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

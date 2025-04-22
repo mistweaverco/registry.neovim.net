@@ -1,0 +1,8 @@
+name: 3rd/image.nvim
+description: Add image support through Kitty's graphics protocol or ueberzugpp.
+homepage: https://github.com/3rd/image.nvim
+repository: https://github.com/3rd/image.nvim
+license: MIT
+category: plugin
+tags:
+  - media

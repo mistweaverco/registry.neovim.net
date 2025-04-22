@@ -1,0 +1,9 @@
+name: crusj/structrue-go.nvim
+description: A better structured display of Golang symbols information.
+homepage: https://github.com/crusj/structrue-go.nvim
+repository: https://github.com/crusj/structrue-go.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

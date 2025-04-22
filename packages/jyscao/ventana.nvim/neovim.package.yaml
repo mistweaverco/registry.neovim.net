@@ -1,0 +1,8 @@
+name: jyscao/ventana.nvim
+description: Convenient flips & shifts for your windows layout.
+homepage: https://github.com/jyscao/ventana.nvim
+repository: https://github.com/jyscao/ventana.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

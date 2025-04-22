@@ -1,0 +1,8 @@
+name: monaqa/dial.nvim
+description: Extended increment/decrement.
+homepage: https://github.com/monaqa/dial.nvim
+repository: https://github.com/monaqa/dial.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

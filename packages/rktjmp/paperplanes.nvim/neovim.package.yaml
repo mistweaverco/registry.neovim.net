@@ -1,0 +1,8 @@
+name: rktjmp/paperplanes.nvim
+description: Post selections or buffers to online paste bins.
+homepage: https://github.com/rktjmp/paperplanes.nvim
+repository: https://github.com/rktjmp/paperplanes.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

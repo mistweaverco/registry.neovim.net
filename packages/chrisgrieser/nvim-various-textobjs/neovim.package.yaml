@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-various-textobjs
+description: Bundle of more than 30 new text objects.
+homepage: https://github.com/chrisgrieser/nvim-various-textobjs
+repository: https://github.com/chrisgrieser/nvim-various-textobjs
+license: MIT
+category: plugin
+tags:
+  - editing-support

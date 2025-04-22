@@ -1,0 +1,8 @@
+name: deathbeam/autocomplete.nvim
+description: Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+homepage: https://github.com/deathbeam/autocomplete.nvim
+repository: https://github.com/deathbeam/autocomplete.nvim
+license: MIT
+category: plugin
+tags:
+  - completion

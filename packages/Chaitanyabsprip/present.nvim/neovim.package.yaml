@@ -1,0 +1,8 @@
+name: Chaitanyabsprip/present.nvim
+description: A Presentation plugin written in Lua.
+homepage: https://github.com/Chaitanyabsprip/present.nvim
+repository: https://github.com/Chaitanyabsprip/present.nvim
+license: MIT
+category: plugin
+tags:
+  - media

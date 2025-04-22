@@ -1,0 +1,9 @@
+name: fredrikaverpil/godoc.nvim
+description: Fuzzy search Go packages/symbols and view docs.
+homepage: https://github.com/fredrikaverpil/godoc.nvim
+repository: https://github.com/fredrikaverpil/godoc.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

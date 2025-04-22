@@ -1,0 +1,8 @@
+name: linrongbin16/gitlinker.nvim
+description: Maintained fork of "ruifm's gitlinker", refactored with bug fixes, ssh aliases, blame support and other improvements.
+homepage: https://github.com/linrongbin16/gitlinker.nvim
+repository: https://github.com/linrongbin16/gitlinker.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - git

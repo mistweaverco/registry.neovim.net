@@ -1,0 +1,8 @@
+name: y3owk1n/dotmd.nvim
+description: Managing notes, todos, journal entries and inbox all with markdown.
+homepage: https://github.com/y3owk1n/dotmd.nvim
+repository: https://github.com/y3owk1n/dotmd.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

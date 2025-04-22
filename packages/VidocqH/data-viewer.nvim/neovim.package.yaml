@@ -1,0 +1,9 @@
+name: VidocqH/data-viewer.nvim
+description: Provide a simple table view to inspect data files such ascsv,tsv.
+homepage: https://github.com/VidocqH/data-viewer.nvim
+repository: https://github.com/VidocqH/data-viewer.nvim
+license: MIT
+category: plugin
+tags:
+  - utility
+  - csv-files

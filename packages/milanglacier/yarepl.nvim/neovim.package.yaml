@@ -1,0 +1,8 @@
+name: milanglacier/yarepl.nvim
+description: Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
+homepage: https://github.com/milanglacier/yarepl.nvim
+repository: https://github.com/milanglacier/yarepl.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,8 @@
+name: stevearc/overseer.nvim
+description: A task runner and job management plugin.
+homepage: https://github.com/stevearc/overseer.nvim
+repository: https://github.com/stevearc/overseer.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

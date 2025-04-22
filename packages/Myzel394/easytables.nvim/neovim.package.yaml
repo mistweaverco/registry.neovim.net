@@ -1,0 +1,9 @@
+name: Myzel394/easytables.nvim
+description: Easily insert and edit markdown tables with a live preview and useful helpers.
+homepage: https://github.com/Myzel394/easytables.nvim
+repository: https://github.com/Myzel394/easytables.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

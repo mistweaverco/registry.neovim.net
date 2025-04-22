@@ -1,0 +1,8 @@
+name: fenetikm/falcon
+description: A colour scheme for terminals, Vim and friends.
+homepage: https://github.com/fenetikm/falcon
+repository: https://github.com/fenetikm/falcon
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

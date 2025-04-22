@@ -1,0 +1,8 @@
+name: dense-analysis/neural
+description: Integrate LLMs for generating code, interacting with chat bots, and more.
+homepage: https://github.com/dense-analysis/neural
+repository: https://github.com/dense-analysis/neural
+license: MIT
+category: plugin
+tags:
+  - ai

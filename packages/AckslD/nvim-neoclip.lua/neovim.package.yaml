@@ -1,0 +1,8 @@
+name: AckslD/nvim-neoclip.lua
+description: Clipboard manager Neovim plugin with telescope integration.
+homepage: https://github.com/AckslD/nvim-neoclip.lua
+repository: https://github.com/AckslD/nvim-neoclip.lua
+license: unknown
+category: plugin
+tags:
+  - register

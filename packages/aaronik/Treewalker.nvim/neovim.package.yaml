@@ -1,0 +1,8 @@
+name: aaronik/Treewalker.nvim
+description: Move seamlessly around the abstract syntax tree.
+homepage: https://github.com/aaronik/Treewalker.nvim
+repository: https://github.com/aaronik/Treewalker.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

@@ -1,0 +1,8 @@
+name: OXY2DEV/bars.nvim
+description: A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
+homepage: https://github.com/OXY2DEV/bars.nvim
+repository: https://github.com/OXY2DEV/bars.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

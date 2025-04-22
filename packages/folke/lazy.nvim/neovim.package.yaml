@@ -1,0 +1,8 @@
+name: folke/lazy.nvim
+description: A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
+homepage: https://github.com/folke/lazy.nvim
+repository: https://github.com/folke/lazy.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - plugin-manager

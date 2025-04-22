@@ -1,0 +1,8 @@
+name: hackorum/VapourNvim
+description: A Neovim config for THE ULTIMATE Vim IDE-like experience.
+homepage: https://github.com/hackorum/VapourNvim
+repository: https://github.com/hackorum/VapourNvim
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

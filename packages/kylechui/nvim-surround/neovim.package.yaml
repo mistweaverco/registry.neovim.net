@@ -1,0 +1,8 @@
+name: kylechui/nvim-surround
+description: A plugin for adding/changing/deleting surrounding delimiter pairs.
+homepage: https://github.com/kylechui/nvim-surround
+repository: https://github.com/kylechui/nvim-surround
+license: MIT
+category: plugin
+tags:
+  - syntax

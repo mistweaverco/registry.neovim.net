@@ -1,0 +1,9 @@
+name: ray-x/web-tools.nvim
+description: Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
+homepage: https://github.com/ray-x/web-tools.nvim
+repository: https://github.com/ray-x/web-tools.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

@@ -1,0 +1,9 @@
+name: nvim-lualine/lualine.nvim
+description: A blazing fast and easy to configure Neovim statusline.
+homepage: https://github.com/nvim-lualine/lualine.nvim
+repository: https://github.com/nvim-lualine/lualine.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

@@ -1,0 +1,8 @@
+name: slugbyte/unruly-worker.nvim
+description: A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua.
+homepage: https://github.com/slugbyte/unruly-worker.nvim
+repository: https://github.com/slugbyte/unruly-worker.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

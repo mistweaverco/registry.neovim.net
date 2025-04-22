@@ -1,0 +1,9 @@
+name: jghauser/auto-pandoc.nvim
+description: Easy pandoc conversion leveraging YAML blocks.
+homepage: https://github.com/jghauser/auto-pandoc.nvim
+repository: https://github.com/jghauser/auto-pandoc.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

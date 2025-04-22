@@ -1,0 +1,8 @@
+name: roobert/palette.nvim
+description: A beautiful, versatile, systematic, theme system.
+homepage: https://github.com/roobert/palette.nvim
+repository: https://github.com/roobert/palette.nvim
+license: unknown
+category: colorscheme
+tags:
+  - colorscheme-creation

@@ -1,0 +1,8 @@
+name: catgoose/nvim-colorizer.lua
+description: A high-performance color highlighter which has no external dependencies.
+homepage: https://github.com/catgoose/nvim-colorizer.lua
+repository: https://github.com/catgoose/nvim-colorizer.lua
+license: NOASSERTION
+category: plugin
+tags:
+  - color

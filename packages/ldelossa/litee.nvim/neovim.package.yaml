@@ -1,0 +1,9 @@
+name: ldelossa/litee.nvim
+description: Neovim's missing IDE features.
+homepage: https://github.com/ldelossa/litee.nvim
+repository: https://github.com/ldelossa/litee.nvim
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

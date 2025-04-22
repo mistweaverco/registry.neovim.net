@@ -1,0 +1,8 @@
+name: MagicDuck/grug-far.nvim
+description: Buffer-based live search and replace with full power ofrgflags. Grug like!
+homepage: https://github.com/MagicDuck/grug-far.nvim
+repository: https://github.com/MagicDuck/grug-far.nvim
+license: MIT
+category: plugin
+tags:
+  - search

@@ -1,0 +1,8 @@
+name: rasulomaroff/telepath.nvim
+description: Another Leap extension for performing remote actions with a different approach.
+homepage: https://github.com/rasulomaroff/telepath.nvim
+repository: https://github.com/rasulomaroff/telepath.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - motion

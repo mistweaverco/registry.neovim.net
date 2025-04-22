@@ -1,0 +1,8 @@
+name: samharju/serene.nvim
+description: A soothing and dark Tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+homepage: https://github.com/samharju/serene.nvim
+repository: https://github.com/samharju/serene.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

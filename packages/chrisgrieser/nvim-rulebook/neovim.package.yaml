@@ -1,0 +1,10 @@
+name: chrisgrieser/nvim-rulebook
+description: Add inline-comments to ignore rules, or lookup rule documentation online.
+homepage: https://github.com/chrisgrieser/nvim-rulebook
+repository: https://github.com/chrisgrieser/nvim-rulebook
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

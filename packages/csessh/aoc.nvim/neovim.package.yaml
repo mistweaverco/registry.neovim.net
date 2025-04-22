@@ -1,0 +1,8 @@
+name: csessh/aoc.nvim
+description: Simple little elf who fetches Advent of Code puzzle input for you.
+homepage: https://github.com/csessh/aoc.nvim
+repository: https://github.com/csessh/aoc.nvim
+license: MIT
+category: plugin
+tags:
+  - game

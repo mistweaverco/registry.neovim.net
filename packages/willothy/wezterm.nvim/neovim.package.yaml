@@ -1,0 +1,8 @@
+name: willothy/wezterm.nvim
+description: Functions for interacting with Wezterm.
+homepage: https://github.com/willothy/wezterm.nvim
+repository: https://github.com/willothy/wezterm.nvim
+license: unknown
+category: plugin
+tags:
+  - terminal-integration

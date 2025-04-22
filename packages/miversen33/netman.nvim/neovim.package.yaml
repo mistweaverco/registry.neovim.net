@@ -1,0 +1,8 @@
+name: miversen33/netman.nvim
+description: Lua powered Network Resource Manager.
+homepage: https://github.com/miversen33/netman.nvim
+repository: https://github.com/miversen33/netman.nvim
+license: MIT
+category: plugin
+tags:
+  - remote-development

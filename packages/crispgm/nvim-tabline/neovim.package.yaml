@@ -1,0 +1,9 @@
+name: crispgm/nvim-tabline
+description: Neovim port of tabline.vim with Lua.
+homepage: https://github.com/crispgm/nvim-tabline
+repository: https://github.com/crispgm/nvim-tabline
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

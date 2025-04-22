@@ -1,0 +1,8 @@
+name: Iron-E/nvim-cartographer
+description: a more convenient:mapping syntax for Lua environments.
+homepage: https://github.com/Iron-E/nvim-cartographer
+repository: https://github.com/Iron-E/nvim-cartographer
+license: NOASSERTION
+category: plugin
+tags:
+  - keybinding

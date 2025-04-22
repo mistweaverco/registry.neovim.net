@@ -1,0 +1,9 @@
+name: chrisgrieser/alfred-neovim-utilities
+description: Search Neovim plugins and online:helpvia Alfred (macOS).
+homepage: https://github.com/chrisgrieser/alfred-neovim-utilities
+repository: https://github.com/chrisgrieser/alfred-neovim-utilities
+license: MIT
+category: plugin
+tags:
+  - external
+  - os-specific

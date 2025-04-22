@@ -1,0 +1,8 @@
+name: fnune/recall.nvim
+description: Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+homepage: https://github.com/fnune/recall.nvim
+repository: https://github.com/fnune/recall.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

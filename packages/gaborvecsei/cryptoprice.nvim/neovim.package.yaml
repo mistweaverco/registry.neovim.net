@@ -1,0 +1,8 @@
+name: gaborvecsei/cryptoprice.nvim
+description: Check the price of the defined cryptocurrencies.
+homepage: https://github.com/gaborvecsei/cryptoprice.nvim
+repository: https://github.com/gaborvecsei/cryptoprice.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

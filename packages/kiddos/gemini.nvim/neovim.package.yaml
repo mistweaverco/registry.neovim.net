@@ -1,0 +1,8 @@
+name: kiddos/gemini.nvim
+description: Bindings to Google Gemini API.
+homepage: https://github.com/kiddos/gemini.nvim
+repository: https://github.com/kiddos/gemini.nvim
+license: unknown
+category: plugin
+tags:
+  - ai

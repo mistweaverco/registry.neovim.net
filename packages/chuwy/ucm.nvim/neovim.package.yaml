@@ -1,0 +1,8 @@
+name: chuwy/ucm.nvim
+description: NavigatingUnisonprojects.
+homepage: https://github.com/chuwy/ucm.nvim
+repository: https://github.com/chuwy/ucm.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - programming-languages-support

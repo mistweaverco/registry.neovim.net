@@ -1,0 +1,9 @@
+name: LukasPietzschmann/boo.nvim
+description: Quickly pop-up some LSP-powered information of the thing your cursor is on.
+homepage: https://github.com/LukasPietzschmann/boo.nvim
+repository: https://github.com/LukasPietzschmann/boo.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

@@ -1,0 +1,8 @@
+name: trevorhauter/gitportal.nvim
+description: Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
+homepage: https://github.com/trevorhauter/gitportal.nvim
+repository: https://github.com/trevorhauter/gitportal.nvim
+license: MIT
+category: plugin
+tags:
+  - git

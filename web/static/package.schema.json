@@ -17,11 +17,8 @@
 			"type": "string",
 			"format": "uri"
 		},
-		"licenses": {
-			"type": "array",
-			"items": {
-				"type": "string"
-			}
+		"license": {
+			"type": "string"
 		},
 		"languages": {
 			"type": "array",
@@ -88,6 +85,6 @@
 			"additionalProperties": false
 		}
 	},
-	"required": ["name", "description", "homepage", "repository", "licenses", "category", "tags"],
+	"required": ["name", "description", "homepage", "repository", "license", "category", "tags"],
 	"additionalProperties": false
 }

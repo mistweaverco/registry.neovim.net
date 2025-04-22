@@ -1,0 +1,8 @@
+name: ya2s/nvim-nonicons
+description: Collection of configurations for nvim-web-devicons.
+homepage: https://github.com/ya2s/nvim-nonicons
+repository: https://github.com/ya2s/nvim-nonicons
+license: unknown
+category: plugin
+tags:
+  - icon

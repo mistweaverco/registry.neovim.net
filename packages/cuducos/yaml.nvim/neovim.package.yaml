@@ -1,0 +1,9 @@
+name: cuducos/yaml.nvim
+description: Utils to work with YAML files.
+homepage: https://github.com/cuducos/yaml.nvim
+repository: https://github.com/cuducos/yaml.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - yaml

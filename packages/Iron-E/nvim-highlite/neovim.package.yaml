@@ -1,0 +1,8 @@
+name: Iron-E/nvim-highlite
+description: A colorscheme generator that is "lite" on logic for the developer.
+homepage: https://github.com/Iron-E/nvim-highlite
+repository: https://github.com/Iron-E/nvim-highlite
+license: NOASSERTION
+category: colorscheme
+tags:
+  - colorscheme-creation

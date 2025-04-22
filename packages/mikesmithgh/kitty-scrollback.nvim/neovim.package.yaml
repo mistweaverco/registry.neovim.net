@@ -1,0 +1,8 @@
+name: mikesmithgh/kitty-scrollback.nvim
+description: Open your Kitty scrollback buffer. Ameowzing.
+homepage: https://github.com/mikesmithgh/kitty-scrollback.nvim
+repository: https://github.com/mikesmithgh/kitty-scrollback.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - terminal-integration

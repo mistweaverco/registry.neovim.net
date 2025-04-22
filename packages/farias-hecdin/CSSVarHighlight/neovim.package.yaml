@@ -1,0 +1,9 @@
+name: farias-hecdin/CSSVarHighlight
+description: Quickly highlight the color you defined in your CSS variables with the help ofmini.hipatterns.
+homepage: https://github.com/farias-hecdin/CSSVarHighlight
+repository: https://github.com/farias-hecdin/CSSVarHighlight
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

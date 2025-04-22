@@ -1,0 +1,8 @@
+name: brenoprata10/nvim-highlight-colors
+description: A plugin to highlight colors with Neovim.
+homepage: https://github.com/brenoprata10/nvim-highlight-colors
+repository: https://github.com/brenoprata10/nvim-highlight-colors
+license: unknown
+category: plugin
+tags:
+  - color

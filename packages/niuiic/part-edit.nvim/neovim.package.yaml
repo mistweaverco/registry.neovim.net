@@ -1,0 +1,8 @@
+name: niuiic/part-edit.nvim
+description: Edit a part of a file individually.
+homepage: https://github.com/niuiic/part-edit.nvim
+repository: https://github.com/niuiic/part-edit.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

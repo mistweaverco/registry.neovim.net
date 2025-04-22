@@ -1,0 +1,8 @@
+name: AckslD/messages.nvim
+description: Capture and show any messages in a customisable (floating) buffer.
+homepage: https://github.com/AckslD/messages.nvim
+repository: https://github.com/AckslD/messages.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

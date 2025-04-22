@@ -1,0 +1,8 @@
+name: niuiic/format.nvim
+description: An asynchronous, multitasking, and highly configurable formatting plugin.
+homepage: https://github.com/niuiic/format.nvim
+repository: https://github.com/niuiic/format.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

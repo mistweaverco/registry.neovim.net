@@ -1,0 +1,9 @@
+name: konapun/vacuumline.nvim
+description: A galaxyline configuration inspired by airline.
+homepage: https://github.com/konapun/vacuumline.nvim
+repository: https://github.com/konapun/vacuumline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

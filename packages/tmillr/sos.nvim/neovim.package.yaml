@@ -1,0 +1,8 @@
+name: tmillr/sos.nvim
+description: Automatically save all your modified buffers according to a predefined timeout value.
+homepage: https://github.com/tmillr/sos.nvim
+repository: https://github.com/tmillr/sos.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

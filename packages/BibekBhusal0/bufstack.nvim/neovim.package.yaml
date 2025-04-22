@@ -1,0 +1,8 @@
+name: BibekBhusal0/bufstack.nvim
+description: Track recently visited buffers and reopen recently closed buffers.
+homepage: https://github.com/BibekBhusal0/bufstack.nvim
+repository: https://github.com/BibekBhusal0/bufstack.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

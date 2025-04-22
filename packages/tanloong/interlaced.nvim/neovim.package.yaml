@@ -1,0 +1,8 @@
+name: tanloong/interlaced.nvim
+description: Help align bilingual parallel texts.
+homepage: https://github.com/tanloong/interlaced.nvim
+repository: https://github.com/tanloong/interlaced.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - language

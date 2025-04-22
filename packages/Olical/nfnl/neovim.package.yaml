@@ -1,0 +1,8 @@
+name: Olical/nfnl
+description: Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
+homepage: https://github.com/Olical/nfnl
+repository: https://github.com/Olical/nfnl
+license: Unlicense
+category: plugin
+tags:
+  - fennel

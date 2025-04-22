@@ -1,0 +1,8 @@
+name: CWood-sdf/banana.nvim
+description: HTML renderer for plugin UIs.
+homepage: https://github.com/CWood-sdf/banana.nvim
+repository: https://github.com/CWood-sdf/banana.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

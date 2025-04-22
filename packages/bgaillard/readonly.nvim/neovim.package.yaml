@@ -1,0 +1,8 @@
+name: bgaillard/readonly.nvim
+description: Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+homepage: https://github.com/bgaillard/readonly.nvim
+repository: https://github.com/bgaillard/readonly.nvim
+license: CC0-1.0
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: woosaaahh/sj.nvim
+description: Search based navigation combined with quick jump features.
+homepage: https://github.com/woosaaahh/sj.nvim
+repository: https://github.com/woosaaahh/sj.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

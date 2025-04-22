@@ -1,0 +1,8 @@
+name: niuiic/terminal.nvim
+description: Manage terminal as buffer, multiple terminals support.
+homepage: https://github.com/niuiic/terminal.nvim
+repository: https://github.com/niuiic/terminal.nvim
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

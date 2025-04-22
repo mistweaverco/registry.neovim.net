@@ -1,0 +1,8 @@
+name: nat-418/boole.nvim
+description: Toggle booleans and common string values.
+homepage: https://github.com/nat-418/boole.nvim
+repository: https://github.com/nat-418/boole.nvim
+license: 0BSD
+category: plugin
+tags:
+  - editing-support

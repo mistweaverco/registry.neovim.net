@@ -1,0 +1,8 @@
+name: wsdjeg/rooter.nvim
+description: Change working directory to project root.
+homepage: https://github.com/wsdjeg/rooter.nvim
+repository: https://github.com/wsdjeg/rooter.nvim
+license: unknown
+category: plugin
+tags:
+  - project

@@ -1,0 +1,8 @@
+name: PHSix/nvim-hybrid
+description: A Neovim colorscheme write in Lua.
+homepage: https://github.com/PHSix/nvim-hybrid
+repository: https://github.com/PHSix/nvim-hybrid
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

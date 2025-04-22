@@ -1,0 +1,8 @@
+name: LintaoAmons/scratch.nvim
+description: Create and manage scratch files.
+homepage: https://github.com/LintaoAmons/scratch.nvim
+repository: https://github.com/LintaoAmons/scratch.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,9 @@
+name: terrortylor/nvim-comment
+description: Toggle comments using the built-in commentstring option.
+homepage: https://github.com/terrortylor/nvim-comment
+repository: https://github.com/terrortylor/nvim-comment
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

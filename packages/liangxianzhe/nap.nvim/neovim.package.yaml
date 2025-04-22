@@ -1,0 +1,8 @@
+name: liangxianzhe/nap.nvim
+description: Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+homepage: https://github.com/liangxianzhe/nap.nvim
+repository: https://github.com/liangxianzhe/nap.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

@@ -1,0 +1,8 @@
+name: Zeioth/compiler.nvim
+description: Compiler for building and running your code without having to configure anything.
+homepage: https://github.com/Zeioth/compiler.nvim
+repository: https://github.com/Zeioth/compiler.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

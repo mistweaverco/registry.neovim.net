@@ -1,0 +1,8 @@
+name: IndianBoy42/tree-sitter-just
+description: Tree-sitter grammar forJustfiles.
+homepage: https://github.com/IndianBoy42/tree-sitter-just
+repository: https://github.com/IndianBoy42/tree-sitter-just
+license: Apache-2.0
+category: plugin
+tags:
+  - syntax

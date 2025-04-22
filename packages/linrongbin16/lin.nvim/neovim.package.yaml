@@ -1,0 +1,8 @@
+name: linrongbin16/lin.nvim
+description: A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+homepage: https://github.com/linrongbin16/lin.nvim
+repository: https://github.com/linrongbin16/lin.nvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

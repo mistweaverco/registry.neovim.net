@@ -1,0 +1,9 @@
+name: nyngwang/murmur.lua
+description: Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+homepage: https://github.com/nyngwang/murmur.lua
+repository: https://github.com/nyngwang/murmur.lua
+license: unknown
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

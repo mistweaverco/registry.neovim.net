@@ -1,0 +1,8 @@
+name: nvim-neotest/neotest
+description: An extensible framework for interacting with tests within Neovim.
+homepage: https://github.com/nvim-neotest/neotest
+repository: https://github.com/nvim-neotest/neotest
+license: MIT
+category: plugin
+tags:
+  - test

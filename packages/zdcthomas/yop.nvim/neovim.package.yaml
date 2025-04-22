@@ -1,0 +1,8 @@
+name: zdcthomas/yop.nvim
+description: Easily create your own operators (likedandy).
+homepage: https://github.com/zdcthomas/yop.nvim
+repository: https://github.com/zdcthomas/yop.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - utility

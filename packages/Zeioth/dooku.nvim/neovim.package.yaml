@@ -1,0 +1,9 @@
+name: Zeioth/dooku.nvim
+description: Generate and open your HTML code documentation.
+homepage: https://github.com/Zeioth/dooku.nvim
+repository: https://github.com/Zeioth/dooku.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support
+  - comment

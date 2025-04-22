@@ -1,0 +1,8 @@
+name: al1-ce/just.nvim
+description: Task runner for justfiles.
+homepage: https://github.com/al1-ce/just.nvim
+repository: https://github.com/al1-ce/just.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

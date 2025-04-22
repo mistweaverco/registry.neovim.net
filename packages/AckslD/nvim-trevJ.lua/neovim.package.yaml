@@ -1,0 +1,8 @@
+name: AckslD/nvim-trevJ.lua
+description: Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
+homepage: https://github.com/AckslD/nvim-trevJ.lua
+repository: https://github.com/AckslD/nvim-trevJ.lua
+license: MIT
+category: plugin
+tags:
+  - editing-support

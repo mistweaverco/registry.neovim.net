@@ -1,0 +1,9 @@
+name: smjonas/inc-rename.nvim
+description: Provides an incremental LSP rename command based on Neovim's command-preview feature.
+homepage: https://github.com/smjonas/inc-rename.nvim
+repository: https://github.com/smjonas/inc-rename.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

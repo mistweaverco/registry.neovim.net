@@ -1,0 +1,8 @@
+name: LoricAndre/OneTerm.nvim
+description: Plugin framework for running commands in the terminal.
+homepage: https://github.com/LoricAndre/OneTerm.nvim
+repository: https://github.com/LoricAndre/OneTerm.nvim
+license: unknown
+category: plugin
+tags:
+  - terminal-integration

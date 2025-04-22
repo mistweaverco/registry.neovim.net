@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-spider
+description: Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+homepage: https://github.com/chrisgrieser/nvim-spider
+repository: https://github.com/chrisgrieser/nvim-spider
+license: MIT
+category: plugin
+tags:
+  - motion

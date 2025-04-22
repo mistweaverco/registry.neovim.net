@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-kickstart-python
+description: A launch point for your Neovim configuration for Python.
+homepage: https://github.com/chrisgrieser/nvim-kickstart-python
+repository: https://github.com/chrisgrieser/nvim-kickstart-python
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

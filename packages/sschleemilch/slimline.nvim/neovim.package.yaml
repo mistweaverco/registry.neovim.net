@@ -1,0 +1,9 @@
+name: sschleemilch/slimline.nvim
+description: A slim, minimal and opinionated Lua statusline.
+homepage: https://github.com/sschleemilch/slimline.nvim
+repository: https://github.com/sschleemilch/slimline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

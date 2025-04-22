@@ -1,0 +1,9 @@
+name: stevearc/aerial.nvim
+description: A code outline window for skimming and quick navigation.
+homepage: https://github.com/stevearc/aerial.nvim
+repository: https://github.com/stevearc/aerial.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

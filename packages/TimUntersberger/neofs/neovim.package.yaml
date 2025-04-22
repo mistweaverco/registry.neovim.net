@@ -1,0 +1,8 @@
+name: TimUntersberger/neofs
+description: A file manager written in Lua.
+homepage: https://github.com/TimUntersberger/neofs
+repository: https://github.com/TimUntersberger/neofs
+license: MIT
+category: plugin
+tags:
+  - file-explorer

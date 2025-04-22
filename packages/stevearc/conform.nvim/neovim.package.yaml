@@ -1,0 +1,8 @@
+name: stevearc/conform.nvim
+description: A lightweight formatting engine that plays nice with LSP.
+homepage: https://github.com/stevearc/conform.nvim
+repository: https://github.com/stevearc/conform.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

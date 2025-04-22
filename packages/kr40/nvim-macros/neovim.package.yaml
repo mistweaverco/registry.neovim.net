@@ -1,0 +1,8 @@
+name: kr40/nvim-macros
+description: Easy way to save and load Macros, with backup and formatting options.
+homepage: https://github.com/kr40/nvim-macros
+repository: https://github.com/kr40/nvim-macros
+license: MIT
+category: plugin
+tags:
+  - register

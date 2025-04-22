@@ -1,0 +1,8 @@
+name: antonk52/bad-practices.nvim
+description: Helping you give up bad practices in Vim.
+homepage: https://github.com/antonk52/bad-practices.nvim
+repository: https://github.com/antonk52/bad-practices.nvim
+license: unknown
+category: plugin
+tags:
+  - workflow

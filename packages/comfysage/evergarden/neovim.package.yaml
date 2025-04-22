@@ -1,0 +1,8 @@
+name: comfysage/evergarden
+description: A comfy Neovim colorscheme for cozy morning coding.
+homepage: https://github.com/comfysage/evergarden
+repository: https://github.com/comfysage/evergarden
+license: GPL-3.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

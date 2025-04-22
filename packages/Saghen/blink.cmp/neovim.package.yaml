@@ -1,0 +1,8 @@
+name: Saghen/blink.cmp
+description: Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+homepage: https://github.com/Saghen/blink.cmp
+repository: https://github.com/Saghen/blink.cmp
+license: MIT
+category: plugin
+tags:
+  - completion

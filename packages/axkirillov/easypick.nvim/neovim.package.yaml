@@ -1,0 +1,8 @@
+name: axkirillov/easypick.nvim
+description: Easypick lets you easily create Telescope pickers from arbitrary console commands.
+homepage: https://github.com/axkirillov/easypick.nvim
+repository: https://github.com/axkirillov/easypick.nvim
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

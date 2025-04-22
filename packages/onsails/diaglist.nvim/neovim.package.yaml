@@ -1,0 +1,10 @@
+name: onsails/diaglist.nvim
+description: Live render workspace diagnostics in quickfix, buffer diagnostics in loclist.
+homepage: https://github.com/onsails/diaglist.nvim
+repository: https://github.com/onsails/diaglist.nvim
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

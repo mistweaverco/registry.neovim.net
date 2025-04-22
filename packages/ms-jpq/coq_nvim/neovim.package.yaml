@@ -1,0 +1,8 @@
+name: ms-jpq/coq_nvim
+description: Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
+homepage: https://github.com/ms-jpq/coq_nvim
+repository: https://github.com/ms-jpq/coq_nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - completion

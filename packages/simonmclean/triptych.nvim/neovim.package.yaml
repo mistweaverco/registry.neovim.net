@@ -1,0 +1,8 @@
+name: simonmclean/triptych.nvim
+description: A directory browser inspired by Ranger.
+homepage: https://github.com/simonmclean/triptych.nvim
+repository: https://github.com/simonmclean/triptych.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - file-explorer

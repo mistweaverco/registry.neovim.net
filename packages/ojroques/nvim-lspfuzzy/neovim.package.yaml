@@ -1,0 +1,9 @@
+name: ojroques/nvim-lspfuzzy
+description: A small plugin to make the LSP client use FZF.
+homepage: https://github.com/ojroques/nvim-lspfuzzy
+repository: https://github.com/ojroques/nvim-lspfuzzy
+license: BSD-2-Clause
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

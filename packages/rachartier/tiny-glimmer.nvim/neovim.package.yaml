@@ -1,0 +1,8 @@
+name: rachartier/tiny-glimmer.nvim
+description: Adds subtle animations to various operations.
+homepage: https://github.com/rachartier/tiny-glimmer.nvim
+repository: https://github.com/rachartier/tiny-glimmer.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

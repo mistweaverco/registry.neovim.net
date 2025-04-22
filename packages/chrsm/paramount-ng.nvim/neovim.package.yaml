@@ -1,0 +1,8 @@
+name: chrsm/paramount-ng.nvim
+description: A dark color scheme written using Lush. Tree-sitter supported.
+homepage: https://github.com/chrsm/paramount-ng.nvim
+repository: https://github.com/chrsm/paramount-ng.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

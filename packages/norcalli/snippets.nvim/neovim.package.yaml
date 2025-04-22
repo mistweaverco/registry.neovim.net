@@ -1,0 +1,8 @@
+name: norcalli/snippets.nvim
+description: Snippets in Lua.
+homepage: https://github.com/norcalli/snippets.nvim
+repository: https://github.com/norcalli/snippets.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - snippet

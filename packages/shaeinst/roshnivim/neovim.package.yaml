@@ -1,0 +1,8 @@
+name: shaeinst/roshnivim
+description: Roshnivim, can be called Neovim's distro, is a predefined configs so that you don't need 1000hr to setup Neovim as an IDE.
+homepage: https://github.com/shaeinst/roshnivim
+repository: https://github.com/shaeinst/roshnivim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

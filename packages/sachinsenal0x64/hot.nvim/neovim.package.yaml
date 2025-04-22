@@ -1,0 +1,8 @@
+name: sachinsenal0x64/hot.nvim
+description: A hot reloader that works with any programming language.
+homepage: https://github.com/sachinsenal0x64/hot.nvim
+repository: https://github.com/sachinsenal0x64/hot.nvim
+license: MIT
+category: plugin
+tags:
+  - deployment

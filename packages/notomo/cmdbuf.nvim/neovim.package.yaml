@@ -1,0 +1,8 @@
+name: notomo/cmdbuf.nvim
+description: Alternative command-line-window plugin.
+homepage: https://github.com/notomo/cmdbuf.nvim
+repository: https://github.com/notomo/cmdbuf.nvim
+license: MIT
+category: plugin
+tags:
+  - command-line

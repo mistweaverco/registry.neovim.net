@@ -1,0 +1,9 @@
+name: Zeioth/garbage-day.nvim
+description: Garbage collector that stops inactive LSP clients to free RAM.
+homepage: https://github.com/Zeioth/garbage-day.nvim
+repository: https://github.com/Zeioth/garbage-day.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

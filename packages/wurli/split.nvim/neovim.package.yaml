@@ -1,0 +1,8 @@
+name: wurli/split.nvim
+description: Provides a mapping to split text by delimiter, giving an inverse of the native J command.
+homepage: https://github.com/wurli/split.nvim
+repository: https://github.com/wurli/split.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

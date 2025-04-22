@@ -1,0 +1,10 @@
+name: artemave/workspace-diagnostics.nvim
+description: Populate diagnostics for all projects files, not just the opened ones.
+homepage: https://github.com/artemave/workspace-diagnostics.nvim
+repository: https://github.com/artemave/workspace-diagnostics.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

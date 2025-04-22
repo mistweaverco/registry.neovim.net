@@ -1,0 +1,8 @@
+name: tomiis4/hypersonic.nvim
+description: Provides explanation for RegExp.
+homepage: https://github.com/tomiis4/hypersonic.nvim
+repository: https://github.com/tomiis4/hypersonic.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support

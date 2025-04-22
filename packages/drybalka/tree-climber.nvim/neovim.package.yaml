@@ -1,0 +1,9 @@
+name: drybalka/tree-climber.nvim
+description: Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
+homepage: https://github.com/drybalka/tree-climber.nvim
+repository: https://github.com/drybalka/tree-climber.nvim
+license: MIT
+category: plugin
+tags:
+  - motion
+  - tree-sitter-based

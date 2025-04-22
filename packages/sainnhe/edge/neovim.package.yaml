@@ -1,0 +1,8 @@
+name: sainnhe/edge
+description: Clean & Elegant Color Scheme inspired by Atom One and Material.
+homepage: https://github.com/sainnhe/edge
+repository: https://github.com/sainnhe/edge
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

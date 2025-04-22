@@ -1,0 +1,8 @@
+name: natecraddock/workspaces.nvim
+description: Manage workspace directories.
+homepage: https://github.com/natecraddock/workspaces.nvim
+repository: https://github.com/natecraddock/workspaces.nvim
+license: MIT
+category: plugin
+tags:
+  - project

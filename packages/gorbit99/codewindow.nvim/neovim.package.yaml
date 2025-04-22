@@ -1,0 +1,9 @@
+name: gorbit99/codewindow.nvim
+description: Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
+homepage: https://github.com/gorbit99/codewindow.nvim
+repository: https://github.com/gorbit99/codewindow.nvim
+license: MIT
+category: plugin
+tags:
+  - scrolling
+  - scrollbar

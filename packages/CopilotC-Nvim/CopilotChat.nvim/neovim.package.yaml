@@ -1,0 +1,8 @@
+name: CopilotC-Nvim/CopilotChat.nvim
+description: A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+homepage: https://github.com/CopilotC-Nvim/CopilotChat.nvim
+repository: https://github.com/CopilotC-Nvim/CopilotChat.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - ai

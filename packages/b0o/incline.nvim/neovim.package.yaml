@@ -1,0 +1,9 @@
+name: b0o/incline.nvim
+description: Lightweight floating statuslines, intended for use with Neovim's new global statusline.
+homepage: https://github.com/b0o/incline.nvim
+repository: https://github.com/b0o/incline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

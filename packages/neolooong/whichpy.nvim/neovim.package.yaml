@@ -1,0 +1,8 @@
+name: neolooong/whichpy.nvim
+description: Switch Python interpreter without restarting LSP.
+homepage: https://github.com/neolooong/whichpy.nvim
+repository: https://github.com/neolooong/whichpy.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

@@ -1,0 +1,8 @@
+name: FrenzyExists/aquarium-vim
+description: A dark, yet vibrant colorscheme.
+homepage: https://github.com/FrenzyExists/aquarium-vim
+repository: https://github.com/FrenzyExists/aquarium-vim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

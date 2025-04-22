@@ -1,0 +1,8 @@
+name: ellisonleao/dotenv.nvim
+description: Minimalist .env support.
+homepage: https://github.com/ellisonleao/dotenv.nvim
+repository: https://github.com/ellisonleao/dotenv.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: theKnightsOfRohan/hexer.nvim
+description: Easily convert between binary representations without a conversion table.
+homepage: https://github.com/theKnightsOfRohan/hexer.nvim
+repository: https://github.com/theKnightsOfRohan/hexer.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

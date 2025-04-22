@@ -1,0 +1,8 @@
+name: OXY2DEV/helpview.nvim
+description: A hackable & fancyvimdoc/helpfile viewer.
+homepage: https://github.com/OXY2DEV/helpview.nvim
+repository: https://github.com/OXY2DEV/helpview.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - neovim-lua-development

@@ -1,0 +1,8 @@
+name: QuentinGruber/timespent.nvim
+description: Display time spent on projects / files.
+homepage: https://github.com/QuentinGruber/timespent.nvim
+repository: https://github.com/QuentinGruber/timespent.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

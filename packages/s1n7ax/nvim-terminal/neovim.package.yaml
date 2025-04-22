@@ -1,0 +1,8 @@
+name: s1n7ax/nvim-terminal
+description: A simple & easy to use multi-terminal plugin.
+homepage: https://github.com/s1n7ax/nvim-terminal
+repository: https://github.com/s1n7ax/nvim-terminal
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

@@ -1,0 +1,8 @@
+name: dracula/vim
+description: Famous beautiful dark powered theme.
+homepage: https://github.com/dracula/vim
+repository: https://github.com/dracula/vim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

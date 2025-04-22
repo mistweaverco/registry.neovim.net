@@ -1,0 +1,8 @@
+name: karb94/neoscroll.nvim
+description: Smooth scrolling.
+homepage: https://github.com/karb94/neoscroll.nvim
+repository: https://github.com/karb94/neoscroll.nvim
+license: MIT
+category: plugin
+tags:
+  - scrolling

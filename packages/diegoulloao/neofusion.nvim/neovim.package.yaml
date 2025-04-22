@@ -1,0 +1,8 @@
+name: diegoulloao/neofusion.nvim
+description: A theme compatible with Tree-sitter inspired bygruvbox.nvim.
+homepage: https://github.com/diegoulloao/neofusion.nvim
+repository: https://github.com/diegoulloao/neofusion.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

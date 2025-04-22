@@ -1,0 +1,8 @@
+name: Verf/deepwhite.nvim
+description: A light colorscheme inspired byflatwhite-syntaxandelegant-emacs.
+homepage: https://github.com/Verf/deepwhite.nvim
+repository: https://github.com/Verf/deepwhite.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

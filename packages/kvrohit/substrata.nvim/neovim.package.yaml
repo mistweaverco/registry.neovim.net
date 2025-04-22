@@ -1,0 +1,8 @@
+name: kvrohit/substrata.nvim
+description: A cold, dark color scheme written in Lua ported fromarzg/vim-substratatheme.
+homepage: https://github.com/kvrohit/substrata.nvim
+repository: https://github.com/kvrohit/substrata.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

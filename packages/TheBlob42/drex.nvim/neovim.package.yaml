@@ -1,0 +1,8 @@
+name: TheBlob42/drex.nvim
+description: A simple and configurable file explorer written in Lua.
+homepage: https://github.com/TheBlob42/drex.nvim
+repository: https://github.com/TheBlob42/drex.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - file-explorer

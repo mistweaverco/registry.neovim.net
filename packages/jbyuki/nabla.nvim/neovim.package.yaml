@@ -1,0 +1,8 @@
+name: jbyuki/nabla.nvim
+description: Take your scientific notes.
+homepage: https://github.com/jbyuki/nabla.nvim
+repository: https://github.com/jbyuki/nabla.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

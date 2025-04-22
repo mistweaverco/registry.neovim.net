@@ -1,0 +1,8 @@
+name: NeogitOrg/neogit
+description: A Magit clone that may change some things to fit the Vim philosophy.
+homepage: https://github.com/NeogitOrg/neogit
+repository: https://github.com/NeogitOrg/neogit
+license: MIT
+category: plugin
+tags:
+  - git

@@ -1,0 +1,8 @@
+name: TobinPalmer/Tip.nvim
+description: Get a simple tip when you launch Neovim.
+homepage: https://github.com/TobinPalmer/Tip.nvim
+repository: https://github.com/TobinPalmer/Tip.nvim
+license: Unlicense
+category: plugin
+tags:
+  - startup

@@ -1,0 +1,9 @@
+name: LucasTavaresA/SingleComment.nvim
+description: Always single line, comment sensitive, indentation preserving commenting.
+homepage: https://github.com/LucasTavaresA/SingleComment.nvim
+repository: https://github.com/LucasTavaresA/SingleComment.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support
+  - comment

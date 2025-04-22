@@ -1,0 +1,8 @@
+name: zhisme/copy_with_context.nvim
+description: Copy lines with file path and line number metadata for sharing code snippets with context.
+homepage: https://github.com/zhisme/copy_with_context.nvim
+repository: https://github.com/zhisme/copy_with_context.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

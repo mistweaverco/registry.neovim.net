@@ -1,0 +1,8 @@
+name: YaroSpace/lua-console.nvim
+description: A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
+homepage: https://github.com/YaroSpace/lua-console.nvim
+repository: https://github.com/YaroSpace/lua-console.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - neovim-lua-development

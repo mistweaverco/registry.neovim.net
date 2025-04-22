@@ -1,0 +1,8 @@
+name: chipsenkbeil/distant.nvim
+description: Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
+homepage: https://github.com/chipsenkbeil/distant.nvim
+repository: https://github.com/chipsenkbeil/distant.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - remote-development

@@ -1,0 +1,8 @@
+name: sontungexpt/stinvim
+description: Ready Neovim's configuration for fullstack developers.
+homepage: https://github.com/sontungexpt/stinvim
+repository: https://github.com/sontungexpt/stinvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

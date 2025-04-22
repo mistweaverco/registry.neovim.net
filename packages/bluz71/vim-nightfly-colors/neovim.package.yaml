@@ -1,0 +1,8 @@
+name: bluz71/vim-nightfly-colors
+description: A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+homepage: https://github.com/bluz71/vim-nightfly-colors
+repository: https://github.com/bluz71/vim-nightfly-colors
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: OscarCreator/rsync.nvim
+description: Automatically sync up/down project to a remote with rsync.
+homepage: https://github.com/OscarCreator/rsync.nvim
+repository: https://github.com/OscarCreator/rsync.nvim
+license: MIT
+category: plugin
+tags:
+  - deployment

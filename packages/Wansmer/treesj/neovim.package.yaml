@@ -1,0 +1,8 @@
+name: Wansmer/treesj
+description: Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-sitter. Inspired by greatest splitjoin.vim.
+homepage: https://github.com/Wansmer/treesj
+repository: https://github.com/Wansmer/treesj
+license: MIT
+category: plugin
+tags:
+  - editing-support

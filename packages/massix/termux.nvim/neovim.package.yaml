@@ -1,0 +1,9 @@
+name: massix/termux.nvim
+description: Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+homepage: https://github.com/massix/termux.nvim
+repository: https://github.com/massix/termux.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - external
+  - os-specific

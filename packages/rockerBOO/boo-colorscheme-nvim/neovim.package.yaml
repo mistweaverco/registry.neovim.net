@@ -1,0 +1,8 @@
+name: rockerBOO/boo-colorscheme-nvim
+description: A colorscheme with handcrafted support for LSP, Tree-sitter.
+homepage: https://github.com/rockerBOO/boo-colorscheme-nvim
+repository: https://github.com/rockerBOO/boo-colorscheme-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

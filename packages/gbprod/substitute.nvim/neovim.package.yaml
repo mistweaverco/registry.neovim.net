@@ -1,0 +1,8 @@
+name: gbprod/substitute.nvim
+description: Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+homepage: https://github.com/gbprod/substitute.nvim
+repository: https://github.com/gbprod/substitute.nvim
+license: WTFPL
+category: plugin
+tags:
+  - editing-support

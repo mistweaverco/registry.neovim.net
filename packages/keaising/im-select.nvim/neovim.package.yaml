@@ -1,0 +1,8 @@
+name: keaising/im-select.nvim
+description: Switching and restoring input method automatically depends on Neovim's edit mode.
+homepage: https://github.com/keaising/im-select.nvim
+repository: https://github.com/keaising/im-select.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

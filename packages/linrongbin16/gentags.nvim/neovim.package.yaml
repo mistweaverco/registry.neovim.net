@@ -1,0 +1,8 @@
+name: linrongbin16/gentags.nvim
+description: The tags generator/management for old school vimers.
+homepage: https://github.com/linrongbin16/gentags.nvim
+repository: https://github.com/linrongbin16/gentags.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: nvim-java/nvim-java
+description: Everything you need for a painless Java experience.
+homepage: https://github.com/nvim-java/nvim-java
+repository: https://github.com/nvim-java/nvim-java
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

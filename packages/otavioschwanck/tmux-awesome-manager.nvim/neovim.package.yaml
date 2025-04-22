@@ -1,0 +1,9 @@
+name: otavioschwanck/tmux-awesome-manager.nvim
+description: Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
+homepage: https://github.com/otavioschwanck/tmux-awesome-manager.nvim
+repository: https://github.com/otavioschwanck/tmux-awesome-manager.nvim
+license: unknown
+category: plugin
+tags:
+  - split-and-window
+  - tmux

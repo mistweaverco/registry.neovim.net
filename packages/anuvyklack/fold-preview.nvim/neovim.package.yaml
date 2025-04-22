@@ -1,0 +1,8 @@
+name: anuvyklack/fold-preview.nvim
+description: Preview closed fold without opening it.
+homepage: https://github.com/anuvyklack/fold-preview.nvim
+repository: https://github.com/anuvyklack/fold-preview.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

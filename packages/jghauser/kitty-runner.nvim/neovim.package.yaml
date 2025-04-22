@@ -1,0 +1,8 @@
+name: jghauser/kitty-runner.nvim
+description: Poor man's REPL. Easily send buffer lines and commands to a kitty terminal.
+homepage: https://github.com/jghauser/kitty-runner.nvim
+repository: https://github.com/jghauser/kitty-runner.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - terminal-integration

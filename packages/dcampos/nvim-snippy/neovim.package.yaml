@@ -1,0 +1,8 @@
+name: dcampos/nvim-snippy
+description: Snippet plugin written in Lua with support forvim-snippets.
+homepage: https://github.com/dcampos/nvim-snippy
+repository: https://github.com/dcampos/nvim-snippy
+license: MIT
+category: plugin
+tags:
+  - snippet

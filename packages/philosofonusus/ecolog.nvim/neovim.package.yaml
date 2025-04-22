@@ -1,0 +1,8 @@
+name: philosofonusus/ecolog.nvim
+description: Sophisticated all-in-one toolkit to work with.envfiles and environment variables.
+homepage: https://github.com/philosofonusus/ecolog.nvim
+repository: https://github.com/philosofonusus/ecolog.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

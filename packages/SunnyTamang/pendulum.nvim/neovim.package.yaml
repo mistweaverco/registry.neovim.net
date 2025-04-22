@@ -1,0 +1,8 @@
+name: SunnyTamang/pendulum.nvim
+description: Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+homepage: https://github.com/SunnyTamang/pendulum.nvim
+repository: https://github.com/SunnyTamang/pendulum.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

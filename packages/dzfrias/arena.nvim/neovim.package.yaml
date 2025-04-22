@@ -1,0 +1,8 @@
+name: dzfrias/arena.nvim
+description: A smart (frecency-based) buffer switcher.
+homepage: https://github.com/dzfrias/arena.nvim
+repository: https://github.com/dzfrias/arena.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: nvim-treesitter/nvim-treesitter-textobjects
+description: Create your own textobjects using Tree-sitter queries.
+homepage: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+repository: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+license: Apache-2.0
+category: plugin
+tags:
+  - syntax

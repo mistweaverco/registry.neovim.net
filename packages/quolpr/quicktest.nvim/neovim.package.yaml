@@ -1,0 +1,8 @@
+name: quolpr/quicktest.nvim
+description: Run your tests in split window or popup with live feedback.
+homepage: https://github.com/quolpr/quicktest.nvim
+repository: https://github.com/quolpr/quicktest.nvim
+license: MIT
+category: plugin
+tags:
+  - test

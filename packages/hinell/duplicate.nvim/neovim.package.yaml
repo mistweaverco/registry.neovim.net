@@ -1,0 +1,8 @@
+name: hinell/duplicate.nvim
+description: Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
+homepage: https://github.com/hinell/duplicate.nvim
+repository: https://github.com/hinell/duplicate.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - editing-support

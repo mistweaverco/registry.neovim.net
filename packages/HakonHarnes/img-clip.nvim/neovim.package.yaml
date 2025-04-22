@@ -1,0 +1,8 @@
+name: HakonHarnes/img-clip.nvim
+description: Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+homepage: https://github.com/HakonHarnes/img-clip.nvim
+repository: https://github.com/HakonHarnes/img-clip.nvim
+license: MIT
+category: plugin
+tags:
+  - media

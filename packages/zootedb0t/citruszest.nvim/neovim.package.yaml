@@ -1,0 +1,8 @@
+name: zootedb0t/citruszest.nvim
+description: A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+homepage: https://github.com/zootedb0t/citruszest.nvim
+repository: https://github.com/zootedb0t/citruszest.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,9 @@
+name: Nedra1998/nvim-mdlink
+description: Simplify creating and following markdown links.
+homepage: https://github.com/Nedra1998/nvim-mdlink
+repository: https://github.com/Nedra1998/nvim-mdlink
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

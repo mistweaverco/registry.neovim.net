@@ -1,0 +1,9 @@
+name: m15a/flake-awesome-neovim-plugins
+description: Nix flake that provides Awesome Neovim plugins collection as Nix packages.
+homepage: https://github.com/m15a/flake-awesome-neovim-plugins
+repository: https://github.com/m15a/flake-awesome-neovim-plugins
+license: BSD-3-Clause
+category: plugin
+tags:
+  - external
+  - os-specific

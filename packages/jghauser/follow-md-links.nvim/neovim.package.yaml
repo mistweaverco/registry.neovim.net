@@ -1,0 +1,9 @@
+name: jghauser/follow-md-links.nvim
+description: Press enter to follow internal markdown links.
+homepage: https://github.com/jghauser/follow-md-links.nvim
+repository: https://github.com/jghauser/follow-md-links.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

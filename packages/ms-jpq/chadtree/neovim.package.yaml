@@ -1,0 +1,8 @@
+name: ms-jpq/chadtree
+description: File manager. Better than NERDTree.
+homepage: https://github.com/ms-jpq/chadtree
+repository: https://github.com/ms-jpq/chadtree
+license: GPL-3.0
+category: plugin
+tags:
+  - file-explorer

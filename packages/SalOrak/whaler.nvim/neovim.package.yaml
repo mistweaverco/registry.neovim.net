@@ -1,0 +1,8 @@
+name: SalOrak/whaler.nvim
+description: Telescope extension to move between directories blazingly fast.
+homepage: https://github.com/SalOrak/whaler.nvim
+repository: https://github.com/SalOrak/whaler.nvim
+license: MIT
+category: plugin
+tags:
+  - project

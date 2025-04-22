@@ -1,0 +1,8 @@
+name: vzze/cmdline.nvim
+description: Helix-like command line with fuzzy autocompletion.
+homepage: https://github.com/vzze/cmdline.nvim
+repository: https://github.com/vzze/cmdline.nvim
+license: MIT
+category: plugin
+tags:
+  - command-line

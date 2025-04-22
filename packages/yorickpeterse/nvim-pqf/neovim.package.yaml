@@ -1,0 +1,9 @@
+name: yorickpeterse/nvim-pqf
+description: Prettier quickfix/location list windows.
+homepage: https://github.com/yorickpeterse/nvim-pqf
+repository: https://github.com/yorickpeterse/nvim-pqf
+license: MPL-2.0
+category: plugin
+tags:
+  - debugging
+  - quickfix

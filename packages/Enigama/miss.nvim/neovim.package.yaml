@@ -1,0 +1,8 @@
+name: Enigama/miss.nvim
+description: Simple popup with changedunsavedfiles, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
+homepage: https://github.com/Enigama/miss.nvim
+repository: https://github.com/Enigama/miss.nvim
+license: CC0-1.0
+category: plugin
+tags:
+  - file-explorer

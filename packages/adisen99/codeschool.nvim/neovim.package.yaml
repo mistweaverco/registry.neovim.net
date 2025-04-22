@@ -1,0 +1,8 @@
+name: adisen99/codeschool.nvim
+description: Codeschool colorscheme written in Lua with Tree-sitter and built-in LSP support.
+homepage: https://github.com/adisen99/codeschool.nvim
+repository: https://github.com/adisen99/codeschool.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: tanvirtin/monokai.nvim
+description: Monokai theme written in Lua.
+homepage: https://github.com/tanvirtin/monokai.nvim
+repository: https://github.com/tanvirtin/monokai.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

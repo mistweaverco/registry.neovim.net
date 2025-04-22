@@ -1,0 +1,8 @@
+name: SidOfc/carbon.nvim
+description: The simple directory tree viewer written in Lua.
+homepage: https://github.com/SidOfc/carbon.nvim
+repository: https://github.com/SidOfc/carbon.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

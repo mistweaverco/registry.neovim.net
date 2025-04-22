@@ -1,0 +1,9 @@
+name: b3nj5m1n/kommentary
+description: Commenting plugin written in Lua.
+homepage: https://github.com/b3nj5m1n/kommentary
+repository: https://github.com/b3nj5m1n/kommentary
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

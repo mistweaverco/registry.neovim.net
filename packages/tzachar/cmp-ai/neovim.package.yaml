@@ -1,0 +1,8 @@
+name: tzachar/cmp-ai
+description: This is a general purpose AI source for nvim-cmp, easily adapted to any REST API supporting remote code completion.
+homepage: https://github.com/tzachar/cmp-ai
+repository: https://github.com/tzachar/cmp-ai
+license: MIT
+category: plugin
+tags:
+  - ai

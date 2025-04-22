@@ -1,0 +1,9 @@
+name: iamcco/markdown-preview.nvim
+description: Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
+homepage: https://github.com/iamcco/markdown-preview.nvim
+repository: https://github.com/iamcco/markdown-preview.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

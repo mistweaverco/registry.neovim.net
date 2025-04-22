@@ -1,0 +1,8 @@
+name: kiyoon/Korean-IME.nvim
+description: OS-independent Korean input method that converts English inputs to Korean in-place.
+homepage: https://github.com/kiyoon/Korean-IME.nvim
+repository: https://github.com/kiyoon/Korean-IME.nvim
+license: unknown
+category: plugin
+tags:
+  - language

@@ -1,0 +1,8 @@
+name: neanvo/buben.nvim
+description: Human-readable names to blockchain(eth) addresses.
+homepage: https://github.com/neanvo/buben.nvim
+repository: https://github.com/neanvo/buben.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

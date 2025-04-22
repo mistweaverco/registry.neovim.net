@@ -1,0 +1,8 @@
+name: niuiic/dap-utils.nvim
+description: Utilities to provide a better experience for using nvim-dap.
+homepage: https://github.com/niuiic/dap-utils.nvim
+repository: https://github.com/niuiic/dap-utils.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging

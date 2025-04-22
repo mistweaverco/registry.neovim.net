@@ -1,0 +1,8 @@
+name: nkakouros-original/scrollofffraction.nvim
+description: Scrolloff as a fraction of the window height.
+homepage: https://github.com/nkakouros-original/scrollofffraction.nvim
+repository: https://github.com/nkakouros-original/scrollofffraction.nvim
+license: unknown
+category: plugin
+tags:
+  - scrolling

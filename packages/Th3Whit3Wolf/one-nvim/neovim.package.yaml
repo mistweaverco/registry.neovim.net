@@ -1,0 +1,8 @@
+name: Th3Whit3Wolf/one-nvim
+description: An Atom One inspired dark and light colorscheme.
+homepage: https://github.com/Th3Whit3Wolf/one-nvim
+repository: https://github.com/Th3Whit3Wolf/one-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

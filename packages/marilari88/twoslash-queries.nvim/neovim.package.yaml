@@ -1,0 +1,9 @@
+name: marilari88/twoslash-queries.nvim
+description: Provide inline virtual text displaying TypeScript types for the inspected variables.
+homepage: https://github.com/marilari88/twoslash-queries.nvim
+repository: https://github.com/marilari88/twoslash-queries.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

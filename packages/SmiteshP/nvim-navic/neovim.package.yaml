@@ -1,0 +1,8 @@
+name: SmiteshP/nvim-navic
+description: A simple statusline/winbar component that uses LSP to show your current code context.
+homepage: https://github.com/SmiteshP/nvim-navic
+repository: https://github.com/SmiteshP/nvim-navic
+license: Apache-2.0
+category: plugin
+tags:
+  - bars-and-lines

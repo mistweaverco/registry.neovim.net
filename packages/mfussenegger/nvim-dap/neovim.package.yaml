@@ -1,0 +1,8 @@
+name: mfussenegger/nvim-dap
+description: Debug Adapter Protocol client implementation.
+homepage: https://github.com/mfussenegger/nvim-dap
+repository: https://github.com/mfussenegger/nvim-dap
+license: GPL-3.0
+category: plugin
+tags:
+  - debugging

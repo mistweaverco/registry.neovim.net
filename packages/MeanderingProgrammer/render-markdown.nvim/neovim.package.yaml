@@ -1,0 +1,9 @@
+name: MeanderingProgrammer/render-markdown.nvim
+description: Improve viewing markdown files directly.
+homepage: https://github.com/MeanderingProgrammer/render-markdown.nvim
+repository: https://github.com/MeanderingProgrammer/render-markdown.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

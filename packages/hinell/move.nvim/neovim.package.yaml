@@ -1,0 +1,8 @@
+name: hinell/move.nvim
+description: Move chunks of text around; fork offedepujol/move.nvim.
+homepage: https://github.com/hinell/move.nvim
+repository: https://github.com/hinell/move.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

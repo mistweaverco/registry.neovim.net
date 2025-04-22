@@ -1,0 +1,8 @@
+name: jpmcb/nvim-llama
+description: LLM (Llama 2 and llama.cpp) wrappers.
+homepage: https://github.com/jpmcb/nvim-llama
+repository: https://github.com/jpmcb/nvim-llama
+license: MIT
+category: plugin
+tags:
+  - ai

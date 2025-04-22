@@ -1,0 +1,8 @@
+name: xiyaowong/virtcolumn.nvim
+description: Display a line as colorcolumn.
+homepage: https://github.com/xiyaowong/virtcolumn.nvim
+repository: https://github.com/xiyaowong/virtcolumn.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

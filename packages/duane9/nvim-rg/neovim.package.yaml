@@ -1,0 +1,8 @@
+name: duane9/nvim-rg
+description: Run RipGrep asynchronously and see results in a quickfix window.
+homepage: https://github.com/duane9/nvim-rg
+repository: https://github.com/duane9/nvim-rg
+license: MIT
+category: plugin
+tags:
+  - search

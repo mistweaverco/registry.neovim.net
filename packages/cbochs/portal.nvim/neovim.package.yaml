@@ -1,0 +1,8 @@
+name: cbochs/portal.nvim
+description: Build upon and enhance existing jumplist motions (i.e.<c-i>and<c-o>).
+homepage: https://github.com/cbochs/portal.nvim
+repository: https://github.com/cbochs/portal.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

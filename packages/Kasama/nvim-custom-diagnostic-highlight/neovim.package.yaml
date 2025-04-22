@@ -1,0 +1,9 @@
+name: Kasama/nvim-custom-diagnostic-highlight
+description: Inline diagnostics popup-highlight much like coc-nvim but based onvim.diagnostic.
+homepage: https://github.com/Kasama/nvim-custom-diagnostic-highlight
+repository: https://github.com/Kasama/nvim-custom-diagnostic-highlight
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

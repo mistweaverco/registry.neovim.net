@@ -1,0 +1,9 @@
+name: zeioth/none-ls-autoload.nvim
+description: Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+homepage: https://github.com/zeioth/none-ls-autoload.nvim
+repository: https://github.com/zeioth/none-ls-autoload.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

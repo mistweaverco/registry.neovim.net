@@ -1,0 +1,10 @@
+name: jrychn/ModuleVim
+description: |-
+  A very easy to use
+  for backend and frontend, install LSP automatically.
+homepage: https://github.com/jrychn/ModuleVim
+repository: https://github.com/jrychn/ModuleVim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

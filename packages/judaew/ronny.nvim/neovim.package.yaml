@@ -1,0 +1,8 @@
+name: judaew/ronny.nvim
+description: A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+homepage: https://github.com/judaew/ronny.nvim
+repository: https://github.com/judaew/ronny.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

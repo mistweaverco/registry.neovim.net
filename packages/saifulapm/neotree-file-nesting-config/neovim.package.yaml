@@ -1,0 +1,8 @@
+name: saifulapm/neotree-file-nesting-config
+description: Pre-defined file nesting rules forneo-tree.nvim.
+homepage: https://github.com/saifulapm/neotree-file-nesting-config
+repository: https://github.com/saifulapm/neotree-file-nesting-config
+license: MIT
+category: plugin
+tags:
+  - file-explorer

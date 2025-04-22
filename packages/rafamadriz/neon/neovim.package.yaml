@@ -1,0 +1,8 @@
+name: rafamadriz/neon
+description: Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
+homepage: https://github.com/rafamadriz/neon
+repository: https://github.com/rafamadriz/neon
+license: GPL-3.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

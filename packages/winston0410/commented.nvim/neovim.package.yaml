@@ -1,0 +1,9 @@
+name: winston0410/commented.nvim
+description: A commenting plugin that supports counts and multiple comment patterns and much more.
+homepage: https://github.com/winston0410/commented.nvim
+repository: https://github.com/winston0410/commented.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

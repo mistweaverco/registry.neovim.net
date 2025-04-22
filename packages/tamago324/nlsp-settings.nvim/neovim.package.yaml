@@ -1,0 +1,9 @@
+name: tamago324/nlsp-settings.nvim
+description: Setup LSP with JSON or YAML files.
+homepage: https://github.com/tamago324/nlsp-settings.nvim
+repository: https://github.com/tamago324/nlsp-settings.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

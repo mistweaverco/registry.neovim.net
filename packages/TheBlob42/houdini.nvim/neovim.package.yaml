@@ -1,0 +1,8 @@
+name: TheBlob42/houdini.nvim
+description: Create shortcut to escape modes without delay.
+homepage: https://github.com/TheBlob42/houdini.nvim
+repository: https://github.com/TheBlob42/houdini.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - keybinding

@@ -1,0 +1,8 @@
+name: roobert/activate.nvim
+description: A plugin installation system designed to complementfolke/lazy.nvim.
+homepage: https://github.com/roobert/activate.nvim
+repository: https://github.com/roobert/activate.nvim
+license: unknown
+category: plugin
+tags:
+  - plugin-manager

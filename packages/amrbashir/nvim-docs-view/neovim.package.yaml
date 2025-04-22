@@ -1,0 +1,9 @@
+name: amrbashir/nvim-docs-view
+description: Display LSP hover documentation in a side panel.
+homepage: https://github.com/amrbashir/nvim-docs-view
+repository: https://github.com/amrbashir/nvim-docs-view
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

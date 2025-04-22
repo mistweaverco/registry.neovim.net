@@ -1,0 +1,8 @@
+name: rcarriga/nvim-notify
+description: A fancy, configurable, notification manager.
+homepage: https://github.com/rcarriga/nvim-notify
+repository: https://github.com/rcarriga/nvim-notify
+license: MIT
+category: plugin
+tags:
+  - utility

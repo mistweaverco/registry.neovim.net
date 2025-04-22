@@ -1,0 +1,9 @@
+name: rachartier/tiny-code-action.nvim
+description: Provides a simple way to run and visualize code actions with Telescope.
+homepage: https://github.com/rachartier/tiny-code-action.nvim
+repository: https://github.com/rachartier/tiny-code-action.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

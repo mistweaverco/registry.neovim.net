@@ -1,0 +1,8 @@
+name: nanotee/sqls.nvim
+description: SQL database connection plugin + LSP client.
+homepage: https://github.com/nanotee/sqls.nvim
+repository: https://github.com/nanotee/sqls.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

@@ -1,0 +1,8 @@
+name: 2KAbhishek/tdo.nvim
+description: Fast and simple note taking.
+homepage: https://github.com/2KAbhishek/tdo.nvim
+repository: https://github.com/2KAbhishek/tdo.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

@@ -1,0 +1,8 @@
+name: jlesquembre/nterm.nvim
+description: Interact with the terminal, with notifications.
+homepage: https://github.com/jlesquembre/nterm.nvim
+repository: https://github.com/jlesquembre/nterm.nvim
+license: EPL-2.0
+category: plugin
+tags:
+  - terminal-integration

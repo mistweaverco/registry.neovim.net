@@ -1,0 +1,8 @@
+name: shaunsingh/nyoom.nvim
+description: Blazing fast, configurable, minimal and lispy Neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+homepage: https://github.com/shaunsingh/nyoom.nvim
+repository: https://github.com/shaunsingh/nyoom.nvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

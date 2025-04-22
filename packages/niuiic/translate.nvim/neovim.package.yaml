@@ -1,0 +1,8 @@
+name: niuiic/translate.nvim
+description: Invoke any translation engine via shell command.
+homepage: https://github.com/niuiic/translate.nvim
+repository: https://github.com/niuiic/translate.nvim
+license: MIT
+category: plugin
+tags:
+  - language

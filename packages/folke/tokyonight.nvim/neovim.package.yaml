@@ -1,0 +1,8 @@
+name: folke/tokyonight.nvim
+description: A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+homepage: https://github.com/folke/tokyonight.nvim
+repository: https://github.com/folke/tokyonight.nvim
+license: Apache-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-origami
+description: Fold with relentless elegance.
+homepage: https://github.com/chrisgrieser/nvim-origami
+repository: https://github.com/chrisgrieser/nvim-origami
+license: MIT
+category: plugin
+tags:
+  - utility

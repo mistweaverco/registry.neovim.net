@@ -1,0 +1,8 @@
+name: niuiic/code-shot.nvim
+description: Take a picture of the code.
+homepage: https://github.com/niuiic/code-shot.nvim
+repository: https://github.com/niuiic/code-shot.nvim
+license: MIT
+category: plugin
+tags:
+  - media

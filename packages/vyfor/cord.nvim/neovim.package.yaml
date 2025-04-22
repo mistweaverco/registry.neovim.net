@@ -1,0 +1,8 @@
+name: vyfor/cord.nvim
+description: Highly extensible Rich Presence for Discord.
+homepage: https://github.com/vyfor/cord.nvim
+repository: https://github.com/vyfor/cord.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - media

@@ -1,0 +1,8 @@
+name: potamides/pantran.nvim
+description: Translate your text with an interactive translation window.
+homepage: https://github.com/potamides/pantran.nvim
+repository: https://github.com/potamides/pantran.nvim
+license: MIT
+category: plugin
+tags:
+  - language

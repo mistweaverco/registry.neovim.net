@@ -1,0 +1,8 @@
+name: willothy/flatten.nvim
+description: Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+homepage: https://github.com/willothy/flatten.nvim
+repository: https://github.com/willothy/flatten.nvim
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

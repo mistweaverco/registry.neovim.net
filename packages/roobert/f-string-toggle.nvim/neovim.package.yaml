@@ -1,0 +1,8 @@
+name: roobert/f-string-toggle.nvim
+description: Toggle Python f-strings.
+homepage: https://github.com/roobert/f-string-toggle.nvim
+repository: https://github.com/roobert/f-string-toggle.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support

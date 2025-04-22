@@ -1,0 +1,8 @@
+name: nvim-flutter/flutter-tools.nvim
+description: Build Flutter and Dart applications using the native LSP.
+homepage: https://github.com/nvim-flutter/flutter-tools.nvim
+repository: https://github.com/nvim-flutter/flutter-tools.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

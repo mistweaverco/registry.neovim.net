@@ -1,0 +1,9 @@
+name: Snikimonkd/cmp-go-pkgs
+description: Cmp source for Go packages names.
+homepage: https://github.com/Snikimonkd/cmp-go-pkgs
+repository: https://github.com/Snikimonkd/cmp-go-pkgs
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

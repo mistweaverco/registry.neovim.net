@@ -1,0 +1,8 @@
+name: bennypowers/nvim-regexplainer
+description: Explain the regular expression under the cursor.
+homepage: https://github.com/bennypowers/nvim-regexplainer
+repository: https://github.com/bennypowers/nvim-regexplainer
+license: unknown
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: gelguy/wilder.nvim
+description: A plugin for fuzzy command line autocompletion.
+homepage: https://github.com/gelguy/wilder.nvim
+repository: https://github.com/gelguy/wilder.nvim
+license: MIT
+category: plugin
+tags:
+  - command-line

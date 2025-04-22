@@ -1,0 +1,8 @@
+name: NeViRAIDE/nekifoch.nvim
+description: Managing Kitty terminal font settings.
+homepage: https://github.com/NeViRAIDE/nekifoch.nvim
+repository: https://github.com/NeViRAIDE/nekifoch.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - terminal-integration

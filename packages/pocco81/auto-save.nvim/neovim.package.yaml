@@ -1,0 +1,8 @@
+name: pocco81/auto-save.nvim
+description: Save your work before the world collapses or you type :qa!
+homepage: https://github.com/pocco81/auto-save.nvim
+repository: https://github.com/pocco81/auto-save.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

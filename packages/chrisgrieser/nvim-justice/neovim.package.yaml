@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-justice
+description: Lightweight integration of thejusttask runner.
+homepage: https://github.com/chrisgrieser/nvim-justice
+repository: https://github.com/chrisgrieser/nvim-justice
+license: MIT
+category: plugin
+tags:
+  - code-runner

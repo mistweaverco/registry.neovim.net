@@ -1,0 +1,8 @@
+name: code-biscuits/nvim-biscuits
+description: A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
+homepage: https://github.com/code-biscuits/nvim-biscuits
+repository: https://github.com/code-biscuits/nvim-biscuits
+license: MIT
+category: plugin
+tags:
+  - utility

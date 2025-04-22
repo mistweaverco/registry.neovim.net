@@ -1,0 +1,8 @@
+name: askfiy/nvim-picgo
+description: A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet.
+homepage: https://github.com/askfiy/nvim-picgo
+repository: https://github.com/askfiy/nvim-picgo
+license: GPL-3.0
+category: plugin
+tags:
+  - media

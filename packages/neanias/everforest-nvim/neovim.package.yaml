@@ -1,0 +1,8 @@
+name: neanias/everforest-nvim
+description: A Lua port of the Everforest colour scheme.
+homepage: https://github.com/neanias/everforest-nvim
+repository: https://github.com/neanias/everforest-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

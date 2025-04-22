@@ -1,0 +1,8 @@
+name: olivercederborg/poimandres.nvim
+description: Neovim port ofpoimandres VSCode themewith Tree-sitter support, written in Lua.
+homepage: https://github.com/olivercederborg/poimandres.nvim
+repository: https://github.com/olivercederborg/poimandres.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

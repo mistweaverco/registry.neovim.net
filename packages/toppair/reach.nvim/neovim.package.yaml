@@ -1,0 +1,8 @@
+name: toppair/reach.nvim
+description: Buffer, mark, tabpage switcher.
+homepage: https://github.com/toppair/reach.nvim
+repository: https://github.com/toppair/reach.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

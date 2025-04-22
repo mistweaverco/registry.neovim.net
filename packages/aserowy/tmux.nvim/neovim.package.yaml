@@ -1,0 +1,9 @@
+name: aserowy/tmux.nvim
+description: Tmux integration features pane movement and resizing.
+homepage: https://github.com/aserowy/tmux.nvim
+repository: https://github.com/aserowy/tmux.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

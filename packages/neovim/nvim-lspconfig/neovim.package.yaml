@@ -1,0 +1,9 @@
+name: neovim/nvim-lspconfig
+description: Quickstart configurations for the LSP client.
+homepage: https://github.com/neovim/nvim-lspconfig
+repository: https://github.com/neovim/nvim-lspconfig
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

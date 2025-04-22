@@ -1,0 +1,8 @@
+name: debugloop/layers.nvim
+description: Craft temporary keymap overlays and layered modes with ease.
+homepage: https://github.com/debugloop/layers.nvim
+repository: https://github.com/debugloop/layers.nvim
+license: unknown
+category: plugin
+tags:
+  - keybinding

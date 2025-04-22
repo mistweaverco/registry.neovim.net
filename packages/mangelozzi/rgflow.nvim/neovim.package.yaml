@@ -1,0 +1,8 @@
+name: mangelozzi/rgflow.nvim
+description: Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+homepage: https://github.com/mangelozzi/rgflow.nvim
+repository: https://github.com/mangelozzi/rgflow.nvim
+license: unknown
+category: plugin
+tags:
+  - search

@@ -1,0 +1,9 @@
+name: 2KAbhishek/exercism.nvim
+description: Browse and solve Exercism problems.
+homepage: https://github.com/2KAbhishek/exercism.nvim
+repository: https://github.com/2KAbhishek/exercism.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - game
+  - competitive-programming

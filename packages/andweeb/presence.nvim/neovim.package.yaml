@@ -1,0 +1,8 @@
+name: andweeb/presence.nvim
+description: Fast and lite Discord Rich Presence plugin written in Lua.
+homepage: https://github.com/andweeb/presence.nvim
+repository: https://github.com/andweeb/presence.nvim
+license: unknown
+category: plugin
+tags:
+  - media

@@ -1,0 +1,9 @@
+name: kdheepak/panvimdoc
+description: A pandoc to vimdoc GitHub action.
+homepage: https://github.com/kdheepak/panvimdoc
+repository: https://github.com/kdheepak/panvimdoc
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

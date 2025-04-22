@@ -1,0 +1,8 @@
+name: andrewferrier/debugprint.nvim
+description: Debugging the print() way.
+homepage: https://github.com/andrewferrier/debugprint.nvim
+repository: https://github.com/andrewferrier/debugprint.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging

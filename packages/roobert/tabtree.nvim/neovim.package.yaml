@@ -1,0 +1,8 @@
+name: roobert/tabtree.nvim
+description: Jump between significant code elements, such as brackets, quotes, etc.
+homepage: https://github.com/roobert/tabtree.nvim
+repository: https://github.com/roobert/tabtree.nvim
+license: unknown
+category: plugin
+tags:
+  - motion

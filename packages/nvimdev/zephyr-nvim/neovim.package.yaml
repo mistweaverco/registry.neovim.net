@@ -1,0 +1,8 @@
+name: nvimdev/zephyr-nvim
+description: A dark colorscheme with Tree-sitter support.
+homepage: https://github.com/nvimdev/zephyr-nvim
+repository: https://github.com/nvimdev/zephyr-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

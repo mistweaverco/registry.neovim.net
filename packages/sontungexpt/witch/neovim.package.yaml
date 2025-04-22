@@ -1,0 +1,8 @@
+name: sontungexpt/witch
+description: The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+homepage: https://github.com/sontungexpt/witch
+repository: https://github.com/sontungexpt/witch
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

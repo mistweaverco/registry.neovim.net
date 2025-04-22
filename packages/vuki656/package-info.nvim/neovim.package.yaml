@@ -1,0 +1,8 @@
+name: vuki656/package-info.nvim
+description: Display latest package version as virtual text in package.json.
+homepage: https://github.com/vuki656/package-info.nvim
+repository: https://github.com/vuki656/package-info.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - dependency-management

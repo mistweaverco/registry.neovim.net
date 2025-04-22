@@ -1,0 +1,8 @@
+name: folke/persistence.nvim
+description: Simple automated session management.
+homepage: https://github.com/folke/persistence.nvim
+repository: https://github.com/folke/persistence.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - session

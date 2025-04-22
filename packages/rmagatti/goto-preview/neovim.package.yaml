@@ -1,0 +1,9 @@
+name: rmagatti/goto-preview
+description: Previewing native LSP's goto definition calls in floating windows.
+homepage: https://github.com/rmagatti/goto-preview
+repository: https://github.com/rmagatti/goto-preview
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

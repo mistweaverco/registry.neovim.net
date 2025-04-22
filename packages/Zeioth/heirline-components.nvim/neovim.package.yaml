@@ -1,0 +1,9 @@
+name: Zeioth/heirline-components.nvim
+description: 30+ Heirline.nvim components you can use out of the box to create your perfect user interface.
+homepage: https://github.com/Zeioth/heirline-components.nvim
+repository: https://github.com/Zeioth/heirline-components.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

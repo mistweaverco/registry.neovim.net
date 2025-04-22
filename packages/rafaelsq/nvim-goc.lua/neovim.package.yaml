@@ -1,0 +1,9 @@
+name: rafaelsq/nvim-goc.lua
+description: Highlight your buffer with Golang Code Coverage.
+homepage: https://github.com/rafaelsq/nvim-goc.lua
+repository: https://github.com/rafaelsq/nvim-goc.lua
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

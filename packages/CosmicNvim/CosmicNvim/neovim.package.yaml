@@ -1,0 +1,8 @@
+name: CosmicNvim/CosmicNvim
+description: CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a COSMIC programming experience!
+homepage: https://github.com/CosmicNvim/CosmicNvim
+repository: https://github.com/CosmicNvim/CosmicNvim
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

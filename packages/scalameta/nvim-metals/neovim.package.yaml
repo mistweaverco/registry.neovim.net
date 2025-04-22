@@ -1,0 +1,9 @@
+name: scalameta/nvim-metals
+description: Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+homepage: https://github.com/scalameta/nvim-metals
+repository: https://github.com/scalameta/nvim-metals
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

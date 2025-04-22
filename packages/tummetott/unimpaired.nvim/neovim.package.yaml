@@ -1,0 +1,8 @@
+name: tummetott/unimpaired.nvim
+description: Lua port oftpope/vim-unimpaired.
+homepage: https://github.com/tummetott/unimpaired.nvim
+repository: https://github.com/tummetott/unimpaired.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support

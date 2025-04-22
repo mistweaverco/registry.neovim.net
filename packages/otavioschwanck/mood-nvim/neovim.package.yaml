@@ -1,0 +1,8 @@
+name: otavioschwanck/mood-nvim
+description: Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
+homepage: https://github.com/otavioschwanck/mood-nvim
+repository: https://github.com/otavioschwanck/mood-nvim
+license: unknown
+category: plugin
+tags:
+  - preconfigured-configuration

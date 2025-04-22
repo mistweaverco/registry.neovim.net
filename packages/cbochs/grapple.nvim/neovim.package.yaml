@@ -1,0 +1,8 @@
+name: cbochs/grapple.nvim
+description: Provides tagging, cursor tracking, and immediate navigation to important project files.
+homepage: https://github.com/cbochs/grapple.nvim
+repository: https://github.com/cbochs/grapple.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

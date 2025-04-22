@@ -1,0 +1,8 @@
+name: LukasPietzschmann/telescope-tabs
+description: Quickly navigate between tabs using telescope.
+homepage: https://github.com/LukasPietzschmann/telescope-tabs
+repository: https://github.com/LukasPietzschmann/telescope-tabs
+license: BSD-3-Clause
+category: plugin
+tags:
+  - utility

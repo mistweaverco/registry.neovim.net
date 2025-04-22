@@ -1,0 +1,8 @@
+name: andythigpen/nvim-coverage
+description: Displays coverage information in the sign column.
+homepage: https://github.com/andythigpen/nvim-coverage
+repository: https://github.com/andythigpen/nvim-coverage
+license: MIT
+category: plugin
+tags:
+  - test

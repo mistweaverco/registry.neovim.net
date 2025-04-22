@@ -1,0 +1,8 @@
+name: k2589/lluminate.nvim
+description: Enrich context for LLM with LSP hover added to clipboard.
+homepage: https://github.com/k2589/lluminate.nvim
+repository: https://github.com/k2589/lluminate.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - ai

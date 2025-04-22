@@ -1,0 +1,8 @@
+name: artart222/CodeArt
+description: A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in:CodeArtUpdatecommand for updating it.
+homepage: https://github.com/artart222/CodeArt
+repository: https://github.com/artart222/CodeArt
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

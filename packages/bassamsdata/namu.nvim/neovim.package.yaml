@@ -1,0 +1,8 @@
+name: bassamsdata/namu.nvim
+description: Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed.
+homepage: https://github.com/bassamsdata/namu.nvim
+repository: https://github.com/bassamsdata/namu.nvim
+license: unknown
+category: plugin
+tags:
+  - fuzzy-finder

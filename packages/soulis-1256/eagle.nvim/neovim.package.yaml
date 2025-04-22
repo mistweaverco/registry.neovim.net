@@ -1,0 +1,9 @@
+name: soulis-1256/eagle.nvim
+description: Mouse-hover LSP hints.
+homepage: https://github.com/soulis-1256/eagle.nvim
+repository: https://github.com/soulis-1256/eagle.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

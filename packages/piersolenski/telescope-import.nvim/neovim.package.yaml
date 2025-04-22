@@ -1,0 +1,8 @@
+name: piersolenski/telescope-import.nvim
+description: Import modules faster based on what you've already imported in your project.
+homepage: https://github.com/piersolenski/telescope-import.nvim
+repository: https://github.com/piersolenski/telescope-import.nvim
+license: unknown
+category: plugin
+tags:
+  - dependency-management

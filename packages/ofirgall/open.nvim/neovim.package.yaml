@@ -1,0 +1,8 @@
+name: ofirgall/open.nvim
+description: Open the current word with custom openers, GitHub shorthand for example.
+homepage: https://github.com/ofirgall/open.nvim
+repository: https://github.com/ofirgall/open.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - marks

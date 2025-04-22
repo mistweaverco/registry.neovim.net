@@ -1,0 +1,9 @@
+name: deathbeam/lspecho.nvim
+description: Echo LSP progress to cmdline or embed it in status line.
+homepage: https://github.com/deathbeam/lspecho.nvim
+repository: https://github.com/deathbeam/lspecho.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

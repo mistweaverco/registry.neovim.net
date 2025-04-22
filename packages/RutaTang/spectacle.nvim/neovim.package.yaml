@@ -1,0 +1,8 @@
+name: RutaTang/spectacle.nvim
+description: Easily manage multiple sessions with telescope integration.
+homepage: https://github.com/RutaTang/spectacle.nvim
+repository: https://github.com/RutaTang/spectacle.nvim
+license: unknown
+category: plugin
+tags:
+  - session

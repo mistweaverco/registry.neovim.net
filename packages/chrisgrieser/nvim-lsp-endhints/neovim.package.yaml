@@ -1,0 +1,9 @@
+name: chrisgrieser/nvim-lsp-endhints
+description: Display LSP inlay hints at the end of the line, rather than within the line.
+homepage: https://github.com/chrisgrieser/nvim-lsp-endhints
+repository: https://github.com/chrisgrieser/nvim-lsp-endhints
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

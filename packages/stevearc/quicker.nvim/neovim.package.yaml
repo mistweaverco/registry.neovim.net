@@ -1,0 +1,9 @@
+name: stevearc/quicker.nvim
+description: Improved quickfix UI and editable quickfix buffer.
+homepage: https://github.com/stevearc/quicker.nvim
+repository: https://github.com/stevearc/quicker.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging
+  - quickfix

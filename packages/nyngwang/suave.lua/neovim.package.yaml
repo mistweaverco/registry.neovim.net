@@ -1,0 +1,8 @@
+name: nyngwang/suave.lua
+description: Multi-tabs project session automation.
+homepage: https://github.com/nyngwang/suave.lua
+repository: https://github.com/nyngwang/suave.lua
+license: MIT
+category: plugin
+tags:
+  - project

@@ -1,0 +1,8 @@
+name: iabdelkareem/csharp.nvim
+description: Enhances the development experience for .NET developers.
+homepage: https://github.com/iabdelkareem/csharp.nvim
+repository: https://github.com/iabdelkareem/csharp.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

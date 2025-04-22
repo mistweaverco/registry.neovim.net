@@ -1,0 +1,8 @@
+name: mrcjkb/haskell-snippets.nvim
+description: Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+homepage: https://github.com/mrcjkb/haskell-snippets.nvim
+repository: https://github.com/mrcjkb/haskell-snippets.nvim
+license: GPL-2.0
+category: plugin
+tags:
+  - snippet

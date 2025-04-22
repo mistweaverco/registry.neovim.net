@@ -1,0 +1,8 @@
+name: tjdevries/colorbuddy.nvim
+description: A colorscheme helper. Written in Lua! Quick & Easy Color Schemes.
+homepage: https://github.com/tjdevries/colorbuddy.nvim
+repository: https://github.com/tjdevries/colorbuddy.nvim
+license: MIT
+category: colorscheme
+tags:
+  - colorscheme-creation

@@ -1,0 +1,8 @@
+name: yonlu/omni.vim
+description: Omni color scheme for Vim.
+homepage: https://github.com/yonlu/omni.vim
+repository: https://github.com/yonlu/omni.vim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

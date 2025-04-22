@@ -1,0 +1,9 @@
+name: ldelossa/gh.nvim
+description: A fully featured GitHub integration for performing code reviews.
+homepage: https://github.com/ldelossa/gh.nvim
+repository: https://github.com/ldelossa/gh.nvim
+license: MIT
+category: plugin
+tags:
+  - git
+  - github

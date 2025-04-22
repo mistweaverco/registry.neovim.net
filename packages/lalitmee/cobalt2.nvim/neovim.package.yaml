@@ -1,0 +1,8 @@
+name: lalitmee/cobalt2.nvim
+description: A port of cobalt2 colorscheme using colorbuddy.
+homepage: https://github.com/lalitmee/cobalt2.nvim
+repository: https://github.com/lalitmee/cobalt2.nvim
+license: MIT
+category: colorscheme
+tags:
+  - lua-colorscheme

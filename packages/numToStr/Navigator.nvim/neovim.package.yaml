@@ -1,0 +1,9 @@
+name: numToStr/Navigator.nvim
+description: Smoothly navigate between Neovim splits and Tmux panes.
+homepage: https://github.com/numToStr/Navigator.nvim
+repository: https://github.com/numToStr/Navigator.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

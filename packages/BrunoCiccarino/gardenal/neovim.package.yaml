@@ -1,0 +1,8 @@
+name: BrunoCiccarino/gardenal
+description: Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
+homepage: https://github.com/BrunoCiccarino/gardenal
+repository: https://github.com/BrunoCiccarino/gardenal
+license: GPL-3.0
+category: colorscheme
+tags:
+  - colorscheme-switchers

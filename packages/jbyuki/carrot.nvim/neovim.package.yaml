@@ -1,0 +1,9 @@
+name: jbyuki/carrot.nvim
+description: Markdown evaluator Lua code blocks.
+homepage: https://github.com/jbyuki/carrot.nvim
+repository: https://github.com/jbyuki/carrot.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

@@ -1,0 +1,8 @@
+name: HoNamDuong/hybrid.nvim
+description: A dark theme written in Lua.
+homepage: https://github.com/HoNamDuong/hybrid.nvim
+repository: https://github.com/HoNamDuong/hybrid.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

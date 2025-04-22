@@ -1,0 +1,9 @@
+name: toppair/peek.nvim
+description: Preview markdown in a webview window.
+homepage: https://github.com/toppair/peek.nvim
+repository: https://github.com/toppair/peek.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

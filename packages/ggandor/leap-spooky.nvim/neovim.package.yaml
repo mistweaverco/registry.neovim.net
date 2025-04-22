@@ -1,0 +1,8 @@
+name: ggandor/leap-spooky.nvim
+description: Spooky (Leap) actions at a distance.
+homepage: https://github.com/ggandor/leap-spooky.nvim
+repository: https://github.com/ggandor/leap-spooky.nvim
+license: Unlicense
+category: plugin
+tags:
+  - motion

@@ -1,0 +1,8 @@
+name: google/executor.nvim
+description: Allows you to run command line tasks in the background and be notified of results.
+homepage: https://github.com/google/executor.nvim
+repository: https://github.com/google/executor.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - code-runner

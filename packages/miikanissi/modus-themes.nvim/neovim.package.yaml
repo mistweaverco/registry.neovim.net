@@ -1,0 +1,8 @@
+name: miikanissi/modus-themes.nvim
+description: Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+homepage: https://github.com/miikanissi/modus-themes.nvim
+repository: https://github.com/miikanissi/modus-themes.nvim
+license: GPL-3.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

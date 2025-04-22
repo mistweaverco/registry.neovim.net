@@ -1,0 +1,9 @@
+name: danymat/neogen
+description: A better annotation generator. Supports multiple languages and annotation conventions.
+homepage: https://github.com/danymat/neogen
+repository: https://github.com/danymat/neogen
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support
+  - comment

@@ -1,0 +1,8 @@
+name: cpea2506/relative-toggle.nvim
+description: Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
+homepage: https://github.com/cpea2506/relative-toggle.nvim
+repository: https://github.com/cpea2506/relative-toggle.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

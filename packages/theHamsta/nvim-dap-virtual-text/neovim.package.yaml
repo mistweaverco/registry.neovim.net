@@ -1,0 +1,8 @@
+name: theHamsta/nvim-dap-virtual-text
+description: Virtual text support for nvim-dap.
+homepage: https://github.com/theHamsta/nvim-dap-virtual-text
+repository: https://github.com/theHamsta/nvim-dap-virtual-text
+license: GPL-3.0
+category: plugin
+tags:
+  - debugging

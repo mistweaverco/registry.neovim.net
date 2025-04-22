@@ -1,0 +1,8 @@
+name: sitiom/nvim-numbertoggle
+description: Neovim plugin to automatically toggle between relative and absolute line numbers.
+homepage: https://github.com/sitiom/nvim-numbertoggle
+repository: https://github.com/sitiom/nvim-numbertoggle
+license: MIT
+category: plugin
+tags:
+  - utility

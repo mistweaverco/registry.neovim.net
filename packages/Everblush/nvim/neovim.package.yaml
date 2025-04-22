@@ -1,0 +1,8 @@
+name: Everblush/nvim
+description: A dark, vibrant and beautiful colorscheme written in Lua.
+homepage: https://github.com/Everblush/nvim
+repository: https://github.com/Everblush/nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

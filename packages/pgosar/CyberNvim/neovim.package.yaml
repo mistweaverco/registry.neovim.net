@@ -1,0 +1,8 @@
+name: pgosar/CyberNvim
+description: The world's simplest and most extensible Neovim distribution.
+homepage: https://github.com/pgosar/CyberNvim
+repository: https://github.com/pgosar/CyberNvim
+license: Apache-2.0
+category: plugin
+tags:
+  - preconfigured-configuration

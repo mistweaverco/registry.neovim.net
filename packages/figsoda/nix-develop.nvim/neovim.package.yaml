@@ -1,0 +1,8 @@
+name: figsoda/nix-develop.nvim
+description: Runnix developwithout restarting Neovim.
+homepage: https://github.com/figsoda/nix-develop.nvim
+repository: https://github.com/figsoda/nix-develop.nvim
+license: MPL-2.0
+category: plugin
+tags:
+  - utility

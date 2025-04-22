@@ -1,0 +1,8 @@
+name: ray-x/sad.nvim
+description: Space Age seD in Neovim. Batch file edit tool, a wrapper forsad
+homepage: https://github.com/ray-x/sad.nvim
+repository: https://github.com/ray-x/sad.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - search

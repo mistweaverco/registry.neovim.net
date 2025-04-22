@@ -1,0 +1,8 @@
+name: Nexmean/caskey.nvim
+description: Utility to keymappings configuration using declarative cascading trees, optionally integrates withwhich-key.
+homepage: https://github.com/Nexmean/caskey.nvim
+repository: https://github.com/Nexmean/caskey.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - keybinding

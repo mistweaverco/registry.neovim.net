@@ -1,0 +1,9 @@
+name: Yu-Leo/gosigns.nvim
+description: 'Visualize some Go hints: struct, interface, and methods implementations; go comments.'
+homepage: https://github.com/Yu-Leo/gosigns.nvim
+repository: https://github.com/Yu-Leo/gosigns.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

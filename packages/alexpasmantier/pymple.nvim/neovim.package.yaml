@@ -1,0 +1,9 @@
+name: alexpasmantier/pymple.nvim
+description: Refactor Python imports on file move/rename.
+homepage: https://github.com/alexpasmantier/pymple.nvim
+repository: https://github.com/alexpasmantier/pymple.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

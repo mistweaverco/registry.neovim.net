@@ -1,0 +1,9 @@
+name: rebelot/heirline.nvim
+description: Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
+homepage: https://github.com/rebelot/heirline.nvim
+repository: https://github.com/rebelot/heirline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

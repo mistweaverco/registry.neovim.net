@@ -1,0 +1,8 @@
+name: tjdevries/vlog.nvim
+description: Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
+homepage: https://github.com/tjdevries/vlog.nvim
+repository: https://github.com/tjdevries/vlog.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

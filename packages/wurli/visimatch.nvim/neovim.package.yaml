@@ -1,0 +1,8 @@
+name: wurli/visimatch.nvim
+description: Adds highlights to any text matching the current selection in visual mode.
+homepage: https://github.com/wurli/visimatch.nvim
+repository: https://github.com/wurli/visimatch.nvim
+license: MIT
+category: plugin
+tags:
+  - search

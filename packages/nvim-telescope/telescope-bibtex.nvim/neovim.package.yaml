@@ -1,0 +1,9 @@
+name: nvim-telescope/telescope-bibtex.nvim
+description: Telescope extension to search and paste BibTeX entries into your TeX files.
+homepage: https://github.com/nvim-telescope/telescope-bibtex.nvim
+repository: https://github.com/nvim-telescope/telescope-bibtex.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

@@ -1,0 +1,8 @@
+name: tamago324/lir.nvim
+description: Simple file explorer.
+homepage: https://github.com/tamago324/lir.nvim
+repository: https://github.com/tamago324/lir.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

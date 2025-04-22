@@ -1,0 +1,8 @@
+name: dmmulroy/ts-error-translator.nvim
+description: A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+homepage: https://github.com/dmmulroy/ts-error-translator.nvim
+repository: https://github.com/dmmulroy/ts-error-translator.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

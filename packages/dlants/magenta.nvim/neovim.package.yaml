@@ -1,0 +1,8 @@
+name: dlants/magenta.nvim
+description: Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
+homepage: https://github.com/dlants/magenta.nvim
+repository: https://github.com/dlants/magenta.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

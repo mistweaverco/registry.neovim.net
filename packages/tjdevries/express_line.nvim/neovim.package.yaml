@@ -1,0 +1,9 @@
+name: tjdevries/express_line.nvim
+description: Supports co-routines, functions and jobs.
+homepage: https://github.com/tjdevries/express_line.nvim
+repository: https://github.com/tjdevries/express_line.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

@@ -1,0 +1,8 @@
+name: mikavilpas/yazi.nvim
+description: Integration with the Yazi terminal file manager.
+homepage: https://github.com/mikavilpas/yazi.nvim
+repository: https://github.com/mikavilpas/yazi.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

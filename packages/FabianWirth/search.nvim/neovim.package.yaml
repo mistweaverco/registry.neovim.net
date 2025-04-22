@@ -1,0 +1,8 @@
+name: FabianWirth/search.nvim
+description: Tabs for different Telescope pickers.
+homepage: https://github.com/FabianWirth/search.nvim
+repository: https://github.com/FabianWirth/search.nvim
+license: MIT
+category: plugin
+tags:
+  - search

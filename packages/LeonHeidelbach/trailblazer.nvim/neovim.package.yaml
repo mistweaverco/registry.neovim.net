@@ -1,0 +1,8 @@
+name: LeonHeidelbach/trailblazer.nvim
+description: TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+homepage: https://github.com/LeonHeidelbach/trailblazer.nvim
+repository: https://github.com/LeonHeidelbach/trailblazer.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - marks

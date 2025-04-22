@@ -1,0 +1,8 @@
+name: phha/zenburn.nvim
+description: A low-contrast dark colorscheme with support for various plugins.
+homepage: https://github.com/phha/zenburn.nvim
+repository: https://github.com/phha/zenburn.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

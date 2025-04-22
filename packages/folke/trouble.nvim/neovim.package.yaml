@@ -1,0 +1,10 @@
+name: folke/trouble.nvim
+description: A pretty diagnostics list to help you solve all the trouble your code is causing.
+homepage: https://github.com/folke/trouble.nvim
+repository: https://github.com/folke/trouble.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

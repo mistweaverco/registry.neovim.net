@@ -1,0 +1,8 @@
+name: David-Kunz/jester
+description: Easily run and debug Jest tests.
+homepage: https://github.com/David-Kunz/jester
+repository: https://github.com/David-Kunz/jester
+license: Unlicense
+category: plugin
+tags:
+  - test

@@ -1,0 +1,8 @@
+name: Abstract-IDE/Abstract
+description: Abstract, The Neovim configuration to achieve the power of Modern IDE.
+homepage: https://github.com/Abstract-IDE/Abstract
+repository: https://github.com/Abstract-IDE/Abstract
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

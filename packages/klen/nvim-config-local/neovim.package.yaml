@@ -1,0 +1,8 @@
+name: klen/nvim-config-local
+description: Secure load local config files from working directories.
+homepage: https://github.com/klen/nvim-config-local
+repository: https://github.com/klen/nvim-config-local
+license: MIT
+category: plugin
+tags:
+  - project

@@ -1,0 +1,8 @@
+name: speelbarrow/spLauncher.nvim
+description: For launching tasks, I guess.
+homepage: https://github.com/speelbarrow/spLauncher.nvim
+repository: https://github.com/speelbarrow/spLauncher.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

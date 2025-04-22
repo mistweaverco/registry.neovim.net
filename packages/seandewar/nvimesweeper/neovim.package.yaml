@@ -1,0 +1,8 @@
+name: seandewar/nvimesweeper
+description: Play Minesweeper in your favourite text editor.
+homepage: https://github.com/seandewar/nvimesweeper
+repository: https://github.com/seandewar/nvimesweeper
+license: MIT
+category: plugin
+tags:
+  - game

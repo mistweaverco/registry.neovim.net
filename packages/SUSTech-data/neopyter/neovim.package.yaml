@@ -1,0 +1,8 @@
+name: SUSTech-data/neopyter
+description: The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+homepage: https://github.com/SUSTech-data/neopyter
+repository: https://github.com/SUSTech-data/neopyter
+license: BSD-3-Clause
+category: plugin
+tags:
+  - utility

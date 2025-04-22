@@ -1,0 +1,8 @@
+name: prochri/telescope-all-recent.nvim
+description: Frequency and recency sorter for any Telescope picker.
+homepage: https://github.com/prochri/telescope-all-recent.nvim
+repository: https://github.com/prochri/telescope-all-recent.nvim
+license: MIT
+category: plugin
+tags:
+  - search

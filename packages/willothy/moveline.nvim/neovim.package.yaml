@@ -1,0 +1,8 @@
+name: willothy/moveline.nvim
+description: Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+homepage: https://github.com/willothy/moveline.nvim
+repository: https://github.com/willothy/moveline.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

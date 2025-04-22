@@ -1,0 +1,8 @@
+name: tristone13th/lspmark.nvim
+description: Sane project-wise bookmarks with persistent storage based on LSP.
+homepage: https://github.com/tristone13th/lspmark.nvim
+repository: https://github.com/tristone13th/lspmark.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

@@ -1,0 +1,8 @@
+name: coffebar/neovim-project
+description: Declarative project management, automatic saving of sessions, uses Telescope.
+homepage: https://github.com/coffebar/neovim-project
+repository: https://github.com/coffebar/neovim-project
+license: Apache-2.0
+category: plugin
+tags:
+  - session

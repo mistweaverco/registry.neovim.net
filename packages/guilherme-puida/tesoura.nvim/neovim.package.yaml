@@ -1,0 +1,8 @@
+name: guilherme-puida/tesoura.nvim
+description: A flexible snippet system using Neovim's new snippet API.
+homepage: https://github.com/guilherme-puida/tesoura.nvim
+repository: https://github.com/guilherme-puida/tesoura.nvim
+license: MIT
+category: plugin
+tags:
+  - snippet

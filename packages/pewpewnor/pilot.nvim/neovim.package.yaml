@@ -1,0 +1,8 @@
+name: pewpewnor/pilot.nvim
+description: Run your projects and files quickly with keybindings, and configure how to run them on the fly.
+homepage: https://github.com/pewpewnor/pilot.nvim
+repository: https://github.com/pewpewnor/pilot.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,8 @@
+name: gennaro-tedesco/nvim-possession
+description: The no-nonsense session manager.
+homepage: https://github.com/gennaro-tedesco/nvim-possession
+repository: https://github.com/gennaro-tedesco/nvim-possession
+license: MIT
+category: plugin
+tags:
+  - session

@@ -1,0 +1,8 @@
+name: slugbyte/lackluster.nvim
+description: A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+homepage: https://github.com/slugbyte/lackluster.nvim
+repository: https://github.com/slugbyte/lackluster.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

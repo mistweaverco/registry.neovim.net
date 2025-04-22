@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-genghis
+description: Convenience file operations, written in Lua.
+homepage: https://github.com/chrisgrieser/nvim-genghis
+repository: https://github.com/chrisgrieser/nvim-genghis
+license: MIT
+category: plugin
+tags:
+  - utility

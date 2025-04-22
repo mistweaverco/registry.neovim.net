@@ -1,0 +1,8 @@
+name: crispgm/telescope-heading.nvim
+description: Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
+homepage: https://github.com/crispgm/telescope-heading.nvim
+repository: https://github.com/crispgm/telescope-heading.nvim
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

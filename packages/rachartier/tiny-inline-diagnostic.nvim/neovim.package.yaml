@@ -1,0 +1,9 @@
+name: rachartier/tiny-inline-diagnostic.nvim
+description: Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
+homepage: https://github.com/rachartier/tiny-inline-diagnostic.nvim
+repository: https://github.com/rachartier/tiny-inline-diagnostic.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

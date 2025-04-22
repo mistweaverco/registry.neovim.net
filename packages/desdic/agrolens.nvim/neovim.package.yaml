@@ -1,0 +1,8 @@
+name: desdic/agrolens.nvim
+description: Navigate via Tree-sitter nodes using Telescope or FZF.
+homepage: https://github.com/desdic/agrolens.nvim
+repository: https://github.com/desdic/agrolens.nvim
+license: MIT
+category: plugin
+tags:
+  - syntax

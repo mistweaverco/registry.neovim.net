@@ -1,0 +1,9 @@
+name: EvWilson/slimux.nvim
+description: Send content from the current buffer to a configurable tmux pane.
+homepage: https://github.com/EvWilson/slimux.nvim
+repository: https://github.com/EvWilson/slimux.nvim
+license: unknown
+category: plugin
+tags:
+  - split-and-window
+  - tmux

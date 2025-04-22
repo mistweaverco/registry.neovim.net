@@ -1,0 +1,9 @@
+name: aznhe21/actions-preview.nvim
+description: Fully customizable previewer for LSP code actions.
+homepage: https://github.com/aznhe21/actions-preview.nvim
+repository: https://github.com/aznhe21/actions-preview.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

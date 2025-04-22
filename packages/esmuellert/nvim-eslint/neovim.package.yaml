@@ -1,0 +1,9 @@
+name: esmuellert/nvim-eslint
+description: Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
+homepage: https://github.com/esmuellert/nvim-eslint
+repository: https://github.com/esmuellert/nvim-eslint
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

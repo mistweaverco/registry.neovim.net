@@ -1,0 +1,8 @@
+name: Julian/lean.nvim
+description: Neovim support for theLean Theorem Prover.
+homepage: https://github.com/Julian/lean.nvim
+repository: https://github.com/Julian/lean.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

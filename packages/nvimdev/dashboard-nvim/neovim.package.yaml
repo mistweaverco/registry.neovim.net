@@ -1,0 +1,8 @@
+name: nvimdev/dashboard-nvim
+description: A minimalist dashboard, inspired by doom-emacs.
+homepage: https://github.com/nvimdev/dashboard-nvim
+repository: https://github.com/nvimdev/dashboard-nvim
+license: MIT
+category: plugin
+tags:
+  - startup

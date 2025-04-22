@@ -1,0 +1,8 @@
+name: ZhiyuanLck/smart-pairs
+description: Ultimate smart pairs written by Lua.
+homepage: https://github.com/ZhiyuanLck/smart-pairs
+repository: https://github.com/ZhiyuanLck/smart-pairs
+license: MIT
+category: plugin
+tags:
+  - editing-support

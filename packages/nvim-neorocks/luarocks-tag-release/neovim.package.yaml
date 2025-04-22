@@ -1,0 +1,8 @@
+name: nvim-neorocks/luarocks-tag-release
+description: A GitHub action that publishes your Neovim plugins to LuaRocks.
+homepage: https://github.com/nvim-neorocks/luarocks-tag-release
+repository: https://github.com/nvim-neorocks/luarocks-tag-release
+license: AGPL-3.0
+category: plugin
+tags:
+  - neovim-lua-development

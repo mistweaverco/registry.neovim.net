@@ -1,0 +1,8 @@
+name: svermeulen/nvim-lusc
+description: Adds support for Structured Async/Concurrency in Lua.
+homepage: https://github.com/svermeulen/nvim-lusc
+repository: https://github.com/svermeulen/nvim-lusc
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

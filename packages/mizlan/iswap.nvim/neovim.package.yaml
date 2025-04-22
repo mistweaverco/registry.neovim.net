@@ -1,0 +1,8 @@
+name: mizlan/iswap.nvim
+description: Interactively select and swap function arguments, list elements, and more. Powered by Tree-sitter.
+homepage: https://github.com/mizlan/iswap.nvim
+repository: https://github.com/mizlan/iswap.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

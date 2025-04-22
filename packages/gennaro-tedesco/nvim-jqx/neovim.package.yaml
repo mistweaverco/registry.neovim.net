@@ -1,0 +1,8 @@
+name: gennaro-tedesco/nvim-jqx
+description: Interactive interface for JSON files.
+homepage: https://github.com/gennaro-tedesco/nvim-jqx
+repository: https://github.com/gennaro-tedesco/nvim-jqx
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

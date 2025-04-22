@@ -1,0 +1,9 @@
+name: roobert/bufferline-cycle-windowless.nvim
+description: A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+homepage: https://github.com/roobert/bufferline-cycle-windowless.nvim
+repository: https://github.com/roobert/bufferline-cycle-windowless.nvim
+license: unknown
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

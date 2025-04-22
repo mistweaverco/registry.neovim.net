@@ -1,0 +1,8 @@
+name: bakageddy/alduin.nvim
+description: A port ofalduintheme to Lua with Tree-sitter and semantic highlights support.
+homepage: https://github.com/bakageddy/alduin.nvim
+repository: https://github.com/bakageddy/alduin.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

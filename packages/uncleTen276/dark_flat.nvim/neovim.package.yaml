@@ -1,0 +1,8 @@
+name: uncleTen276/dark_flat.nvim
+description: A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+homepage: https://github.com/uncleTen276/dark_flat.nvim
+repository: https://github.com/uncleTen276/dark_flat.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

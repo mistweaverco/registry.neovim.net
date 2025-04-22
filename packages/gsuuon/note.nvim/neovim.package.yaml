@@ -1,0 +1,8 @@
+name: gsuuon/note.nvim
+description: Daily tasks with deep-linking and project spaces.
+homepage: https://github.com/gsuuon/note.nvim
+repository: https://github.com/gsuuon/note.nvim
+license: unknown
+category: plugin
+tags:
+  - note-taking

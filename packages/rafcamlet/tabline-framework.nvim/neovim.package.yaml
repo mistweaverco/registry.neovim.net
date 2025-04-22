@@ -1,0 +1,9 @@
+name: rafcamlet/tabline-framework.nvim
+description: User-friendly framework for building your dream tabline in a few lines of code.
+homepage: https://github.com/rafcamlet/tabline-framework.nvim
+repository: https://github.com/rafcamlet/tabline-framework.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

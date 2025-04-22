@@ -1,0 +1,8 @@
+name: RutaTang/quicknote.nvim
+description: Quickly take notes, in-place.
+homepage: https://github.com/RutaTang/quicknote.nvim
+repository: https://github.com/RutaTang/quicknote.nvim
+license: unknown
+category: plugin
+tags:
+  - note-taking

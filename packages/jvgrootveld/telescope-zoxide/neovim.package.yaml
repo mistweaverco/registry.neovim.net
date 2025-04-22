@@ -1,0 +1,8 @@
+name: jvgrootveld/telescope-zoxide
+description: Telescope integration forzoxide, a smart directory picker that tracks your usage.
+homepage: https://github.com/jvgrootveld/telescope-zoxide
+repository: https://github.com/jvgrootveld/telescope-zoxide
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

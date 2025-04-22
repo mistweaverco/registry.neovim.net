@@ -14,7 +14,7 @@
 		description: '',
 		homepage: '',
 		repository: '',
-		licenses: [],
+		license: 'unknown',
 		languages: [],
 		tags: [],
 		category: '',
@@ -199,8 +199,8 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Licenses:</td>
-					<td>{activePackageData.licenses.join(', ')}</td>
+					<td>License:</td>
+					<td>{activePackageData.license}</td>
 				</tr>
 				{#if activePackageData.languages.length > 0}
 					<tr>

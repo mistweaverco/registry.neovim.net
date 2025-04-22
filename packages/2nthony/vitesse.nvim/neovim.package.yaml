@@ -1,0 +1,8 @@
+name: 2nthony/vitesse.nvim
+description: Vitesse theme Lua port.
+homepage: https://github.com/2nthony/vitesse.nvim
+repository: https://github.com/2nthony/vitesse.nvim
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: nyngwang/nvimgelion
+description: Neon Genesis Evangelion but for Vimmers.
+homepage: https://github.com/nyngwang/nvimgelion
+repository: https://github.com/nyngwang/nvimgelion
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

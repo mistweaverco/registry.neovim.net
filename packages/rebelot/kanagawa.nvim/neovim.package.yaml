@@ -1,0 +1,8 @@
+name: rebelot/kanagawa.nvim
+description: Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+homepage: https://github.com/rebelot/kanagawa.nvim
+repository: https://github.com/rebelot/kanagawa.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

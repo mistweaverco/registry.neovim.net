@@ -1,0 +1,8 @@
+name: HiPhish/rainbow-delimiters.nvim
+description: Rainbow delimiters with Tree-sitter.
+homepage: https://github.com/HiPhish/rainbow-delimiters.nvim
+repository: https://github.com/HiPhish/rainbow-delimiters.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support

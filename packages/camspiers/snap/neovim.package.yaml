@@ -1,0 +1,8 @@
+name: camspiers/snap
+description: An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+homepage: https://github.com/camspiers/snap
+repository: https://github.com/camspiers/snap
+license: Unlicense
+category: plugin
+tags:
+  - fuzzy-finder

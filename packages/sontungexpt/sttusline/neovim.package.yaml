@@ -1,0 +1,9 @@
+name: sontungexpt/sttusline
+description: Very lightweight, super fast and lazyloading statusline.
+homepage: https://github.com/sontungexpt/sttusline
+repository: https://github.com/sontungexpt/sttusline
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

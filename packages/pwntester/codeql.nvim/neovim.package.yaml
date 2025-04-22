@@ -1,0 +1,9 @@
+name: pwntester/codeql.nvim
+description: Neovim plugin to help writing and testing CodeQL queries.
+homepage: https://github.com/pwntester/codeql.nvim
+repository: https://github.com/pwntester/codeql.nvim
+license: unknown
+category: plugin
+tags:
+  - git
+  - github

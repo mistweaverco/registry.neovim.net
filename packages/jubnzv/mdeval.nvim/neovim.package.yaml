@@ -1,0 +1,9 @@
+name: jubnzv/mdeval.nvim
+description: Evaluate code blocks inside markdown documents.
+homepage: https://github.com/jubnzv/mdeval.nvim
+repository: https://github.com/jubnzv/mdeval.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

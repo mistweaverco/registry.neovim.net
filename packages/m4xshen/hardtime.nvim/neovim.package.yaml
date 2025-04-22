@@ -1,0 +1,8 @@
+name: m4xshen/hardtime.nvim
+description: Helping you establish good command workflow and habit.
+homepage: https://github.com/m4xshen/hardtime.nvim
+repository: https://github.com/m4xshen/hardtime.nvim
+license: MIT
+category: plugin
+tags:
+  - workflow

@@ -1,0 +1,8 @@
+name: jaytyrrell13/static.nvim
+description: Run static site generator commands.
+homepage: https://github.com/jaytyrrell13/static.nvim
+repository: https://github.com/jaytyrrell13/static.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,8 @@
+name: numToStr/BufOnly.nvim
+description: Lua/Neovim port of BufOnly.vim with some changes.
+homepage: https://github.com/numToStr/BufOnly.nvim
+repository: https://github.com/numToStr/BufOnly.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: mellow-theme/mellow.nvim
+description: A soothing dark color scheme with Tree-sitter support.
+homepage: https://github.com/mellow-theme/mellow.nvim
+repository: https://github.com/mellow-theme/mellow.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

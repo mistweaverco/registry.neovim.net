@@ -1,0 +1,8 @@
+name: smjonas/snippet-converter.nvim
+description: Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+homepage: https://github.com/smjonas/snippet-converter.nvim
+repository: https://github.com/smjonas/snippet-converter.nvim
+license: MPL-2.0
+category: plugin
+tags:
+  - snippet

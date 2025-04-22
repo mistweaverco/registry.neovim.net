@@ -1,0 +1,8 @@
+name: DanilaMihailov/beacon.nvim
+description: Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+homepage: https://github.com/DanilaMihailov/beacon.nvim
+repository: https://github.com/DanilaMihailov/beacon.nvim
+license: unknown
+category: plugin
+tags:
+  - motion

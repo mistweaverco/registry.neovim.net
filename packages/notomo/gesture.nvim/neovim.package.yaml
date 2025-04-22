@@ -1,0 +1,8 @@
+name: notomo/gesture.nvim
+description: Mouse gesture plugin.
+homepage: https://github.com/notomo/gesture.nvim
+repository: https://github.com/notomo/gesture.nvim
+license: MIT
+category: plugin
+tags:
+  - mouse

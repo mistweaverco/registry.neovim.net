@@ -1,0 +1,9 @@
+name: yanskun/gotests.nvim
+description: Make Go tests easy withgotests.
+homepage: https://github.com/yanskun/gotests.nvim
+repository: https://github.com/yanskun/gotests.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

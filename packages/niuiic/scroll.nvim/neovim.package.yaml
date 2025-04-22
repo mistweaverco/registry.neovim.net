@@ -1,0 +1,8 @@
+name: niuiic/scroll.nvim
+description: Smooth scrolling, custom smooth strategy.
+homepage: https://github.com/niuiic/scroll.nvim
+repository: https://github.com/niuiic/scroll.nvim
+license: MIT
+category: plugin
+tags:
+  - scrolling

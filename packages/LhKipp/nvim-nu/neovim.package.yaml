@@ -1,0 +1,8 @@
+name: LhKipp/nvim-nu
+description: Basic editor support for the nushell language.
+homepage: https://github.com/LhKipp/nvim-nu
+repository: https://github.com/LhKipp/nvim-nu
+license: GPL-3.0
+category: plugin
+tags:
+  - syntax

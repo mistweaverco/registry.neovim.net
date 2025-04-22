@@ -1,0 +1,8 @@
+name: njayman/season.nvim
+description: A lightweight plugin to manage session based on current working directory.
+homepage: https://github.com/njayman/season.nvim
+repository: https://github.com/njayman/season.nvim
+license: unknown
+category: plugin
+tags:
+  - session

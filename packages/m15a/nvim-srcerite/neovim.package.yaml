@@ -1,0 +1,8 @@
+name: m15a/nvim-srcerite
+description: A colorscheme inspired bySrcery, based onnvim-highlite.
+homepage: https://github.com/m15a/nvim-srcerite
+repository: https://github.com/m15a/nvim-srcerite
+license: BSD-3-Clause
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,9 @@
+name: roobert/hoversplit.nvim
+description: Automatically updated documentation and information about code symbols in a split window.
+homepage: https://github.com/roobert/hoversplit.nvim
+repository: https://github.com/roobert/hoversplit.nvim
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

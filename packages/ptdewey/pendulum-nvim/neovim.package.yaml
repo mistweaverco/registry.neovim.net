@@ -1,0 +1,8 @@
+name: ptdewey/pendulum-nvim
+description: Track time spent coding and glean insights through on-demand time reports.
+homepage: https://github.com/ptdewey/pendulum-nvim
+repository: https://github.com/ptdewey/pendulum-nvim
+license: MIT
+category: plugin
+tags:
+  - utility

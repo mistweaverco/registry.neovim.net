@@ -1,0 +1,8 @@
+name: rlychrisg/keepcursor.nvim
+description: A collection of functions to control how the screen is positioned around the cursor.
+homepage: https://github.com/rlychrisg/keepcursor.nvim
+repository: https://github.com/rlychrisg/keepcursor.nvim
+license: MIT
+category: plugin
+tags:
+  - scrolling

@@ -1,0 +1,8 @@
+name: Rolv-Apneseth/tfm.nvim
+description: Similar tofm-nvim, this provides Neovim integration for several popular terminal file managers (includingyazi).
+homepage: https://github.com/Rolv-Apneseth/tfm.nvim
+repository: https://github.com/Rolv-Apneseth/tfm.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

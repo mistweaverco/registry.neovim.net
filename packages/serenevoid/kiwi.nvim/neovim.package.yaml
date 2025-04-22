@@ -1,0 +1,8 @@
+name: serenevoid/kiwi.nvim
+description: A stripped down VimWiki with necessary features.
+homepage: https://github.com/serenevoid/kiwi.nvim
+repository: https://github.com/serenevoid/kiwi.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

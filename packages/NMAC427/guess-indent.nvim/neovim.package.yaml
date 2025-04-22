@@ -1,0 +1,9 @@
+name: NMAC427/guess-indent.nvim
+description: Automatic indentation style detection.
+homepage: https://github.com/NMAC427/guess-indent.nvim
+repository: https://github.com/NMAC427/guess-indent.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

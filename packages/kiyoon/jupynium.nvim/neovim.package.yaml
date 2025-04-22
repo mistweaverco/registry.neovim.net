@@ -1,0 +1,8 @@
+name: kiyoon/jupynium.nvim
+description: Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+homepage: https://github.com/kiyoon/jupynium.nvim
+repository: https://github.com/kiyoon/jupynium.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

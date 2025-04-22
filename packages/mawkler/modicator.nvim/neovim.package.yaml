@@ -1,0 +1,9 @@
+name: mawkler/modicator.nvim
+description: Cursor line number mode indicator. Changes theCursorLineNrhighlight based on Vim mode.
+homepage: https://github.com/mawkler/modicator.nvim
+repository: https://github.com/mawkler/modicator.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

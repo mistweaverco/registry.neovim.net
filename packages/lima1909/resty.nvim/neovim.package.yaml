@@ -1,0 +1,9 @@
+name: lima1909/resty.nvim
+description: Fast and easy-to-use HTTP-Rest-Client.
+homepage: https://github.com/lima1909/resty.nvim
+repository: https://github.com/lima1909/resty.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

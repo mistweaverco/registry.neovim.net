@@ -1,0 +1,8 @@
+name: LintaoAmons/bookmarks.nvim
+description: 'Your new bookmarks option: simple yet powerful.'
+homepage: https://github.com/LintaoAmons/bookmarks.nvim
+repository: https://github.com/LintaoAmons/bookmarks.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

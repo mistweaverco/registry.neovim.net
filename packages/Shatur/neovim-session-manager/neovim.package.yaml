@@ -1,0 +1,8 @@
+name: Shatur/neovim-session-manager
+description: A simple wrapper around :mksession.
+homepage: https://github.com/Shatur/neovim-session-manager
+repository: https://github.com/Shatur/neovim-session-manager
+license: GPL-3.0
+category: plugin
+tags:
+  - session

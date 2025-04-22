@@ -1,0 +1,8 @@
+name: nfrid/due.nvim
+description: Displays due for a date string as a virtual text.
+homepage: https://github.com/nfrid/due.nvim
+repository: https://github.com/nfrid/due.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

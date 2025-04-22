@@ -1,0 +1,10 @@
+name: williamboman/mason.nvim
+description: Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+homepage: https://github.com/williamboman/mason.nvim
+repository: https://github.com/williamboman/mason.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - lsp-installer

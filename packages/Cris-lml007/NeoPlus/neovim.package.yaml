@@ -1,0 +1,8 @@
+name: Cris-lml007/NeoPlus
+description: NeoPlus is a free, open source IDE with tools that works on Neovim.
+homepage: https://github.com/Cris-lml007/NeoPlus
+repository: https://github.com/Cris-lml007/NeoPlus
+license: unknown
+category: plugin
+tags:
+  - preconfigured-configuration

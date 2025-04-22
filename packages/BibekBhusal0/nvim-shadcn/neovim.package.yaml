@@ -1,0 +1,9 @@
+name: BibekBhusal0/nvim-shadcn
+description: Easily add Shadcn UI components with telescope.
+homepage: https://github.com/BibekBhusal0/nvim-shadcn
+repository: https://github.com/BibekBhusal0/nvim-shadcn
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

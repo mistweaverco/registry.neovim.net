@@ -1,0 +1,8 @@
+name: MunifTanjim/prettier.nvim
+description: Prettier integration.
+homepage: https://github.com/MunifTanjim/prettier.nvim
+repository: https://github.com/MunifTanjim/prettier.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

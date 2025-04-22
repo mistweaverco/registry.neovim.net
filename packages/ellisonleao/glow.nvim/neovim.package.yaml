@@ -1,0 +1,9 @@
+name: ellisonleao/glow.nvim
+description: Markdown preview using glow.
+homepage: https://github.com/ellisonleao/glow.nvim
+repository: https://github.com/ellisonleao/glow.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

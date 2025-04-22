@@ -1,0 +1,8 @@
+name: zongben/navimark.nvim
+description: An easy and powerful bookmark manager with telescope.
+homepage: https://github.com/zongben/navimark.nvim
+repository: https://github.com/zongben/navimark.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

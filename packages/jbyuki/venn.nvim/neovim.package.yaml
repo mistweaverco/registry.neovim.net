@@ -1,0 +1,8 @@
+name: jbyuki/venn.nvim
+description: Draw ASCII diagrams.
+homepage: https://github.com/jbyuki/venn.nvim
+repository: https://github.com/jbyuki/venn.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

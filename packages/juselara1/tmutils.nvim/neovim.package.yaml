@@ -1,0 +1,9 @@
+name: juselara1/tmutils.nvim
+description: Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
+homepage: https://github.com/juselara1/tmutils.nvim
+repository: https://github.com/juselara1/tmutils.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

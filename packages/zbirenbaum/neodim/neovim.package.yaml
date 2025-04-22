@@ -1,0 +1,8 @@
+name: zbirenbaum/neodim
+description: Dimming the highlights of unused functions, variables, parameters, and more.
+homepage: https://github.com/zbirenbaum/neodim
+repository: https://github.com/zbirenbaum/neodim
+license: unknown
+category: plugin
+tags:
+  - utility

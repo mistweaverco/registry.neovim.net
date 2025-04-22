@@ -1,0 +1,8 @@
+name: yorickpeterse/nvim-window
+description: Easily jump between Neovim windows.
+homepage: https://github.com/yorickpeterse/nvim-window
+repository: https://github.com/yorickpeterse/nvim-window
+license: MPL-2.0
+category: plugin
+tags:
+  - split-and-window

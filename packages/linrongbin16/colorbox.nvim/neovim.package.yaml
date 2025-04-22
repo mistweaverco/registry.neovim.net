@@ -1,0 +1,8 @@
+name: linrongbin16/colorbox.nvim
+description: Load all the ultra colorschemes into your Neovim player!
+homepage: https://github.com/linrongbin16/colorbox.nvim
+repository: https://github.com/linrongbin16/colorbox.nvim
+license: MIT
+category: colorscheme
+tags:
+  - colorscheme-switchers

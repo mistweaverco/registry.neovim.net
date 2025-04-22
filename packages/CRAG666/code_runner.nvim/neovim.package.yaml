@@ -1,0 +1,8 @@
+name: CRAG666/code_runner.nvim
+description: The best code runner you could have, with super powers.
+homepage: https://github.com/CRAG666/code_runner.nvim
+repository: https://github.com/CRAG666/code_runner.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

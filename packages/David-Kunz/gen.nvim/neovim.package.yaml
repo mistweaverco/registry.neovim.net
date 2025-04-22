@@ -1,0 +1,8 @@
+name: David-Kunz/gen.nvim
+description: Generate text using LLMs (via Ollama) with customizable prompts.
+homepage: https://github.com/David-Kunz/gen.nvim
+repository: https://github.com/David-Kunz/gen.nvim
+license: Unlicense
+category: plugin
+tags:
+  - ai

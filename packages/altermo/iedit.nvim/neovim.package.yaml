@@ -1,0 +1,8 @@
+name: altermo/iedit.nvim
+description: Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+homepage: https://github.com/altermo/iedit.nvim
+repository: https://github.com/altermo/iedit.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

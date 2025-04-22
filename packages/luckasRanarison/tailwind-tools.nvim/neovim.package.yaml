@@ -1,0 +1,9 @@
+name: luckasRanarison/tailwind-tools.nvim
+description: Unofficial TailwindCSS tooling.
+homepage: https://github.com/luckasRanarison/tailwind-tools.nvim
+repository: https://github.com/luckasRanarison/tailwind-tools.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

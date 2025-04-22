@@ -1,0 +1,9 @@
+name: VidocqH/lsp-lens.nvim
+description: Display function references above function definition like IDEA codelens.
+homepage: https://github.com/VidocqH/lsp-lens.nvim
+repository: https://github.com/VidocqH/lsp-lens.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

@@ -1,0 +1,8 @@
+name: niuiic/omega.nvim
+description: Missing functions for Lua plugin development.
+homepage: https://github.com/niuiic/omega.nvim
+repository: https://github.com/niuiic/omega.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

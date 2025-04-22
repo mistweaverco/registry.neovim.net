@@ -1,0 +1,8 @@
+name: akinsho/git-conflict.nvim
+description: A plugin to visualise and resolve merge conflicts.
+homepage: https://github.com/akinsho/git-conflict.nvim
+repository: https://github.com/akinsho/git-conflict.nvim
+license: unknown
+category: plugin
+tags:
+  - git

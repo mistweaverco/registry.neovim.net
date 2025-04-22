@@ -1,0 +1,8 @@
+name: gregorias/coerce.nvim
+description: Change keyword case.
+homepage: https://github.com/gregorias/coerce.nvim
+repository: https://github.com/gregorias/coerce.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

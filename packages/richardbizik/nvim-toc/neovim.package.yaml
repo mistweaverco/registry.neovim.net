@@ -1,0 +1,9 @@
+name: richardbizik/nvim-toc
+description: Easily generate table of contents for markdown files.
+homepage: https://github.com/richardbizik/nvim-toc
+repository: https://github.com/richardbizik/nvim-toc
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

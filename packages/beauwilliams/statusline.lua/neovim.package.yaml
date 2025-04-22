@@ -1,0 +1,9 @@
+name: beauwilliams/statusline.lua
+description: A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!
+homepage: https://github.com/beauwilliams/statusline.lua
+repository: https://github.com/beauwilliams/statusline.lua
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

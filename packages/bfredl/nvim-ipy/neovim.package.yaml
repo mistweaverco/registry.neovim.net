@@ -1,0 +1,8 @@
+name: bfredl/nvim-ipy
+description: Make interfacing with IPython/Jupyter easier.
+homepage: https://github.com/bfredl/nvim-ipy
+repository: https://github.com/bfredl/nvim-ipy
+license: MIT
+category: plugin
+tags:
+  - code-runner

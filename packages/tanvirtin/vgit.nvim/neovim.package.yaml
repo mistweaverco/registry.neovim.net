@@ -1,0 +1,8 @@
+name: tanvirtin/vgit.nvim
+description: Visual Git Plugin to enhance your Git experience.
+homepage: https://github.com/tanvirtin/vgit.nvim
+repository: https://github.com/tanvirtin/vgit.nvim
+license: MIT
+category: plugin
+tags:
+  - git

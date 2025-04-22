@@ -1,0 +1,8 @@
+name: askfiy/visual_studio_code
+description: A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+homepage: https://github.com/askfiy/visual_studio_code
+repository: https://github.com/askfiy/visual_studio_code
+license: MPL-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

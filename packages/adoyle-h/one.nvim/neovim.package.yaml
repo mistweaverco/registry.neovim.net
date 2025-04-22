@@ -1,0 +1,8 @@
+name: adoyle-h/one.nvim
+description: All-in-one config framework in Lua.
+homepage: https://github.com/adoyle-h/one.nvim
+repository: https://github.com/adoyle-h/one.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - preconfigured-configuration

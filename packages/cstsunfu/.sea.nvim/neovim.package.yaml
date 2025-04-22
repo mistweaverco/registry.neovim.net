@@ -1,0 +1,8 @@
+name: cstsunfu/.sea.nvim
+description: A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+homepage: https://github.com/cstsunfu/.sea.nvim
+repository: https://github.com/cstsunfu/.sea.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - preconfigured-configuration

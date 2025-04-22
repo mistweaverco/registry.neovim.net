@@ -1,0 +1,8 @@
+name: ecthelionvi/NeoColumn.nvim
+description: Toggleable colorcolumn highlighting specific characters.
+homepage: https://github.com/ecthelionvi/NeoColumn.nvim
+repository: https://github.com/ecthelionvi/NeoColumn.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

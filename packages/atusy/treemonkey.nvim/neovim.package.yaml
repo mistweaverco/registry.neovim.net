@@ -1,0 +1,9 @@
+name: atusy/treemonkey.nvim
+description: Region selection with Tree-sitter nodes.
+homepage: https://github.com/atusy/treemonkey.nvim
+repository: https://github.com/atusy/treemonkey.nvim
+license: MIT
+category: plugin
+tags:
+  - motion
+  - tree-sitter-based

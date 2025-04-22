@@ -1,0 +1,8 @@
+name: LintaoAmons/cd-project.nvim
+description: All you need is just an easier way tocdto another project directory.
+homepage: https://github.com/LintaoAmons/cd-project.nvim
+repository: https://github.com/LintaoAmons/cd-project.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - project

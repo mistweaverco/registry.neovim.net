@@ -1,0 +1,8 @@
+name: LionC/nest.nvim
+description: Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
+homepage: https://github.com/LionC/nest.nvim
+repository: https://github.com/LionC/nest.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

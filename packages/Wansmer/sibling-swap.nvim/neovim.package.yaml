@@ -1,0 +1,8 @@
+name: Wansmer/sibling-swap.nvim
+description: Different way to swapping arguments and other siblings with Tree-sitter.
+homepage: https://github.com/Wansmer/sibling-swap.nvim
+repository: https://github.com/Wansmer/sibling-swap.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

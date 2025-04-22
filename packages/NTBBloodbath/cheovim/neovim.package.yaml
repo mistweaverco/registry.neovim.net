@@ -1,0 +1,8 @@
+name: NTBBloodbath/cheovim
+description: Neovim configuration switcher written in Lua. Inspired by chemacs.
+homepage: https://github.com/NTBBloodbath/cheovim
+repository: https://github.com/NTBBloodbath/cheovim
+license: GPL-2.0
+category: plugin
+tags:
+  - plugin-manager

@@ -1,0 +1,8 @@
+name: ThePrimeagen/vim-be-good
+description: Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
+homepage: https://github.com/ThePrimeagen/vim-be-good
+repository: https://github.com/ThePrimeagen/vim-be-good
+license: unknown
+category: plugin
+tags:
+  - game

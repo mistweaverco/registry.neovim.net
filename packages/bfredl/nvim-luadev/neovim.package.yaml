@@ -1,0 +1,8 @@
+name: bfredl/nvim-luadev
+description: REPL/debug console Lua plugins. The:Luadevcommand will open an scratch window which will show output from executing Lua code.
+homepage: https://github.com/bfredl/nvim-luadev
+repository: https://github.com/bfredl/nvim-luadev
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

@@ -1,0 +1,8 @@
+name: tenxsoydev/nx.nvim
+description: Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+homepage: https://github.com/tenxsoydev/nx.nvim
+repository: https://github.com/tenxsoydev/nx.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - utility

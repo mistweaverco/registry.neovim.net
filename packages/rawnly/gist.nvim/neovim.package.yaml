@@ -1,0 +1,9 @@
+name: rawnly/gist.nvim
+description: Create a GitHub Gist from the current file (powered by gh).
+homepage: https://github.com/rawnly/gist.nvim
+repository: https://github.com/rawnly/gist.nvim
+license: MIT
+category: plugin
+tags:
+  - git
+  - github

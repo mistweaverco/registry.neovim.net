@@ -1,0 +1,9 @@
+name: windwp/windline.nvim
+description: The next generation statusline. Animation statusline.
+homepage: https://github.com/windwp/windline.nvim
+repository: https://github.com/windwp/windline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

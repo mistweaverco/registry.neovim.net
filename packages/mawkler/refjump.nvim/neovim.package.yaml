@@ -1,0 +1,9 @@
+name: mawkler/refjump.nvim
+description: Jump to next/previous LSP reference for item under cursor with]r/[r.
+homepage: https://github.com/mawkler/refjump.nvim
+repository: https://github.com/mawkler/refjump.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

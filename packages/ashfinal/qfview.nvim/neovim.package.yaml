@@ -1,0 +1,9 @@
+name: ashfinal/qfview.nvim
+description: Pretty quickfix/location view with consistent path-shorten and folding.
+homepage: https://github.com/ashfinal/qfview.nvim
+repository: https://github.com/ashfinal/qfview.nvim
+license: MIT
+category: plugin
+tags:
+  - debugging
+  - quickfix

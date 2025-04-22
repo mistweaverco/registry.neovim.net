@@ -1,0 +1,8 @@
+name: nvim-lua/popup.nvim
+description: An implementation of the Popup API from Vim.
+homepage: https://github.com/nvim-lua/popup.nvim
+repository: https://github.com/nvim-lua/popup.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

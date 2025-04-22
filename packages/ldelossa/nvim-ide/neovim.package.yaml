@@ -1,0 +1,8 @@
+name: ldelossa/nvim-ide
+description: A full featured IDE layer heavily inspired by VSCode.
+homepage: https://github.com/ldelossa/nvim-ide
+repository: https://github.com/ldelossa/nvim-ide
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

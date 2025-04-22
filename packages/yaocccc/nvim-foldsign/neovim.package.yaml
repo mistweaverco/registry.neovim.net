@@ -1,0 +1,8 @@
+name: yaocccc/nvim-foldsign
+description: Display folds on sign column.
+homepage: https://github.com/yaocccc/nvim-foldsign
+repository: https://github.com/yaocccc/nvim-foldsign
+license: MIT
+category: plugin
+tags:
+  - utility

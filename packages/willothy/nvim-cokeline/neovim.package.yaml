@@ -1,0 +1,9 @@
+name: willothy/nvim-cokeline
+description: A bufferline for people with addictive personalities.
+homepage: https://github.com/willothy/nvim-cokeline
+repository: https://github.com/willothy/nvim-cokeline
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

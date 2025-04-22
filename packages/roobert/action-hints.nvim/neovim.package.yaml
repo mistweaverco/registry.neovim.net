@@ -1,0 +1,9 @@
+name: roobert/action-hints.nvim
+description: Show information about the word under the cursor in the statusline or as virtual text.
+homepage: https://github.com/roobert/action-hints.nvim
+repository: https://github.com/roobert/action-hints.nvim
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

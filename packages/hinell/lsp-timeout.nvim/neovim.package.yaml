@@ -1,0 +1,9 @@
+name: hinell/lsp-timeout.nvim
+description: Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+homepage: https://github.com/hinell/lsp-timeout.nvim
+repository: https://github.com/hinell/lsp-timeout.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

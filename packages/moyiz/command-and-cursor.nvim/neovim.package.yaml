@@ -1,0 +1,8 @@
+name: moyiz/command-and-cursor.nvim
+description: Highlight cursor and visual selections when entering command mode.
+homepage: https://github.com/moyiz/command-and-cursor.nvim
+repository: https://github.com/moyiz/command-and-cursor.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - color

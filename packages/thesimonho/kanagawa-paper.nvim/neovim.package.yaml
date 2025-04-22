@@ -1,0 +1,8 @@
+name: thesimonho/kanagawa-paper.nvim
+description: Remixed light and dark Kanagawa colourschemes with muted colors.
+homepage: https://github.com/thesimonho/kanagawa-paper.nvim
+repository: https://github.com/thesimonho/kanagawa-paper.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,9 @@
+name: tadmccorkle/markdown.nvim
+description: Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
+homepage: https://github.com/tadmccorkle/markdown.nvim
+repository: https://github.com/tadmccorkle/markdown.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

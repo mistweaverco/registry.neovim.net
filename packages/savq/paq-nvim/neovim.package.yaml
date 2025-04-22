@@ -1,0 +1,8 @@
+name: savq/paq-nvim
+description: Neovim package manager written in Lua.
+homepage: https://github.com/savq/paq-nvim
+repository: https://github.com/savq/paq-nvim
+license: MIT
+category: plugin
+tags:
+  - plugin-manager

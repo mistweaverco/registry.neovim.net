@@ -1,0 +1,8 @@
+name: 0xstepit/flow.nvim
+description: Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+homepage: https://github.com/0xstepit/flow.nvim
+repository: https://github.com/0xstepit/flow.nvim
+license: Apache-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

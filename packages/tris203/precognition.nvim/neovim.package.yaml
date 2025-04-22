@@ -1,0 +1,8 @@
+name: tris203/precognition.nvim
+description: Precognition uses virtual text and gutter signs to show available motions.
+homepage: https://github.com/tris203/precognition.nvim
+repository: https://github.com/tris203/precognition.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

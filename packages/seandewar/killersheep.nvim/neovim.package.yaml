@@ -1,0 +1,8 @@
+name: seandewar/killersheep.nvim
+description: Neovim port of killersheep.
+homepage: https://github.com/seandewar/killersheep.nvim
+repository: https://github.com/seandewar/killersheep.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - game

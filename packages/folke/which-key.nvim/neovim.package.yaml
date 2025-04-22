@@ -1,0 +1,8 @@
+name: folke/which-key.nvim
+description: Neovim plugin that shows a popup with possible keybindings of the command you started typing.
+homepage: https://github.com/folke/which-key.nvim
+repository: https://github.com/folke/which-key.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - keybinding

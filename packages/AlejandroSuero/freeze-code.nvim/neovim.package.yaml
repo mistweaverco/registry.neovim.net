@@ -1,0 +1,8 @@
+name: AlejandroSuero/freeze-code.nvim
+description: Code screenshot plugin that makes use offreezeinside the editor, it lets youcopythe generated image topaste it anywhere.
+homepage: https://github.com/AlejandroSuero/freeze-code.nvim
+repository: https://github.com/AlejandroSuero/freeze-code.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

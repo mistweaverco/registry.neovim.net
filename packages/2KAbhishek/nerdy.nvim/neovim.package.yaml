@@ -1,0 +1,8 @@
+name: 2KAbhishek/nerdy.nvim
+description: Find and insert the latest nerd font glyphs.
+homepage: https://github.com/2KAbhishek/nerdy.nvim
+repository: https://github.com/2KAbhishek/nerdy.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - icon

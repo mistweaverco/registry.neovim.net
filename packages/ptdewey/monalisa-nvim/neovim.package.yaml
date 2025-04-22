@@ -1,0 +1,8 @@
+name: ptdewey/monalisa-nvim
+description: A dark and colorful Mona Lisa inspired colorscheme.
+homepage: https://github.com/ptdewey/monalisa-nvim
+repository: https://github.com/ptdewey/monalisa-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

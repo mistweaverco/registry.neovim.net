@@ -1,0 +1,9 @@
+name: 2KAbhishek/octohub.nvim
+description: Access all your gihub repos, stats and more in simple keystrokes.
+homepage: https://github.com/2KAbhishek/octohub.nvim
+repository: https://github.com/2KAbhishek/octohub.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - git
+  - github

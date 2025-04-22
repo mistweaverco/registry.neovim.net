@@ -1,0 +1,8 @@
+name: heilgar/nochat.nvim
+description: Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
+homepage: https://github.com/heilgar/nochat.nvim
+repository: https://github.com/heilgar/nochat.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - ai

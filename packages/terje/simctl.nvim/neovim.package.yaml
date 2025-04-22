@@ -1,0 +1,8 @@
+name: terje/simctl.nvim
+description: Interact with iOS Simulators.
+homepage: https://github.com/terje/simctl.nvim
+repository: https://github.com/terje/simctl.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

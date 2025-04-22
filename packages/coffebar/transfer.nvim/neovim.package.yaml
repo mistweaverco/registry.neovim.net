@@ -1,0 +1,8 @@
+name: coffebar/transfer.nvim
+description: Sync and diff with remote server using rsync and OpenSSH.
+homepage: https://github.com/coffebar/transfer.nvim
+repository: https://github.com/coffebar/transfer.nvim
+license: unknown
+category: plugin
+tags:
+  - deployment

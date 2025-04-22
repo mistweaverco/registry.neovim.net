@@ -1,0 +1,8 @@
+name: lcheylus/overlength.nvim
+description: A small plugin to highlight too long lines.
+homepage: https://github.com/lcheylus/overlength.nvim
+repository: https://github.com/lcheylus/overlength.nvim
+license: MIT
+category: plugin
+tags:
+  - color

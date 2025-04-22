@@ -1,0 +1,8 @@
+name: Weissle/easy-action
+description: Easily perform an action on where you can see.
+homepage: https://github.com/Weissle/easy-action
+repository: https://github.com/Weissle/easy-action
+license: unknown
+category: plugin
+tags:
+  - motion

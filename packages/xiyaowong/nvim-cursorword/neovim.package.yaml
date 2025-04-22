@@ -1,0 +1,9 @@
+name: xiyaowong/nvim-cursorword
+description: Part of nvim-cursorline. Highlight the word under the cursor.
+homepage: https://github.com/xiyaowong/nvim-cursorword
+repository: https://github.com/xiyaowong/nvim-cursorword
+license: unknown
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

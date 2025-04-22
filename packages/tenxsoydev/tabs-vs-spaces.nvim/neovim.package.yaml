@@ -1,0 +1,8 @@
+name: tenxsoydev/tabs-vs-spaces.nvim
+description: Hint and fix deviating indentation.
+homepage: https://github.com/tenxsoydev/tabs-vs-spaces.nvim
+repository: https://github.com/tenxsoydev/tabs-vs-spaces.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

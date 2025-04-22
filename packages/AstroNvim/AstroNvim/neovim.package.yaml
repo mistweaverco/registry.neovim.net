@@ -1,0 +1,8 @@
+name: AstroNvim/AstroNvim
+description: AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+homepage: https://github.com/AstroNvim/AstroNvim
+repository: https://github.com/AstroNvim/AstroNvim
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

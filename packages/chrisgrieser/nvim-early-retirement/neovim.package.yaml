@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-early-retirement
+description: Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+homepage: https://github.com/chrisgrieser/nvim-early-retirement
+repository: https://github.com/chrisgrieser/nvim-early-retirement
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: kobbikobb/move-lines.nvim
+description: Moves lines selected in virtual mode.
+homepage: https://github.com/kobbikobb/move-lines.nvim
+repository: https://github.com/kobbikobb/move-lines.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

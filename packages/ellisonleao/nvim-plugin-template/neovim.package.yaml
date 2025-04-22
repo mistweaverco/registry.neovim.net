@@ -1,0 +1,9 @@
+name: ellisonleao/nvim-plugin-template
+description: Another Neovim plugin template, using GitHub's template feature.
+homepage: https://github.com/ellisonleao/nvim-plugin-template
+repository: https://github.com/ellisonleao/nvim-plugin-template
+license: MIT
+category: plugin
+tags:
+  - external
+  - boilerplate

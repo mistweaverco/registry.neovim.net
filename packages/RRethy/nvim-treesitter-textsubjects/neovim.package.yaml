@@ -1,0 +1,8 @@
+name: RRethy/nvim-treesitter-textsubjects
+description: Location and syntax aware text objects whichdo what you mean.
+homepage: https://github.com/RRethy/nvim-treesitter-textsubjects
+repository: https://github.com/RRethy/nvim-treesitter-textsubjects
+license: Apache-2.0
+category: plugin
+tags:
+  - syntax

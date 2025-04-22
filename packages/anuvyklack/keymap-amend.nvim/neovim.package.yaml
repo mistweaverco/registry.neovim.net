@@ -1,0 +1,8 @@
+name: anuvyklack/keymap-amend.nvim
+description: Amend the existing keymap.
+homepage: https://github.com/anuvyklack/keymap-amend.nvim
+repository: https://github.com/anuvyklack/keymap-amend.nvim
+license: unknown
+category: plugin
+tags:
+  - keybinding

@@ -1,0 +1,8 @@
+name: stevearc/oil.nvim
+description: Edit your filesystem like a buffer.
+homepage: https://github.com/stevearc/oil.nvim
+repository: https://github.com/stevearc/oil.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

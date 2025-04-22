@@ -1,0 +1,9 @@
+name: ranjithshegde/ccls.nvim
+description: Use off-spec extensions of ccls LSP and browse AST.
+homepage: https://github.com/ranjithshegde/ccls.nvim
+repository: https://github.com/ranjithshegde/ccls.nvim
+license: GPL-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

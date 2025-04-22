@@ -1,0 +1,8 @@
+name: tenxsoydev/karen-yank.nvim
+description: More intentional register handling with delete, cut and yank mappings.
+homepage: https://github.com/tenxsoydev/karen-yank.nvim
+repository: https://github.com/tenxsoydev/karen-yank.nvim
+license: MIT
+category: plugin
+tags:
+  - register

@@ -1,0 +1,8 @@
+name: mhartington/formatter.nvim
+description: A format runner written in Lua.
+homepage: https://github.com/mhartington/formatter.nvim
+repository: https://github.com/mhartington/formatter.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

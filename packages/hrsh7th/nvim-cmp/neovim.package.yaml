@@ -1,0 +1,8 @@
+name: hrsh7th/nvim-cmp
+description: A completion plugin written in Lua. New version of nvim-compe.
+homepage: https://github.com/hrsh7th/nvim-cmp
+repository: https://github.com/hrsh7th/nvim-cmp
+license: MIT
+category: plugin
+tags:
+  - completion

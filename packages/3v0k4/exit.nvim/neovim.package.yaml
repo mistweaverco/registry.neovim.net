@@ -1,0 +1,8 @@
+name: 3v0k4/exit.nvim
+description: Prompt LLMs (large language models) to write Vim commands.
+homepage: https://github.com/3v0k4/exit.nvim
+repository: https://github.com/3v0k4/exit.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

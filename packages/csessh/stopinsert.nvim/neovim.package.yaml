@@ -1,0 +1,8 @@
+name: csessh/stopinsert.nvim
+description: Automatically exit Insert mode after inactivity.
+homepage: https://github.com/csessh/stopinsert.nvim
+repository: https://github.com/csessh/stopinsert.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

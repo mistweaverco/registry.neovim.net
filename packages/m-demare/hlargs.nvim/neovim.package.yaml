@@ -1,0 +1,8 @@
+name: m-demare/hlargs.nvim
+description: Highlight arguments' definitions and usages, using Tree-sitter.
+homepage: https://github.com/m-demare/hlargs.nvim
+repository: https://github.com/m-demare/hlargs.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - syntax

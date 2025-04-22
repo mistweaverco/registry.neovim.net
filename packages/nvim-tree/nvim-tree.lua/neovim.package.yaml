@@ -1,0 +1,8 @@
+name: nvim-tree/nvim-tree.lua
+description: A simple and fast file explorer tree.
+homepage: https://github.com/nvim-tree/nvim-tree.lua
+repository: https://github.com/nvim-tree/nvim-tree.lua
+license: NOASSERTION
+category: plugin
+tags:
+  - file-explorer

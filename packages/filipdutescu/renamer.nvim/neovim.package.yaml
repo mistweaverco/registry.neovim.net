@@ -1,0 +1,8 @@
+name: filipdutescu/renamer.nvim
+description: VS Code-like renaming UI, written in Lua.
+homepage: https://github.com/filipdutescu/renamer.nvim
+repository: https://github.com/filipdutescu/renamer.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: malbertzard/inline-fold.nvim
+description: Hide certain elements inline like long CSS classes orhrefcontent.
+homepage: https://github.com/malbertzard/inline-fold.nvim
+repository: https://github.com/malbertzard/inline-fold.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

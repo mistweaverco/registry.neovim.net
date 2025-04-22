@@ -1,0 +1,8 @@
+name: marko-cerovac/material.nvim
+description: Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+homepage: https://github.com/marko-cerovac/material.nvim
+repository: https://github.com/marko-cerovac/material.nvim
+license: GPL-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

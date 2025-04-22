@@ -1,0 +1,8 @@
+name: ray-x/guihua.lua
+description: A Lua UI library. Includes a fzy search bar, list view and tree view modules.
+homepage: https://github.com/ray-x/guihua.lua
+repository: https://github.com/ray-x/guihua.lua
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

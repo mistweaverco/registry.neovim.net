@@ -1,0 +1,8 @@
+name: prichrd/netrw.nvim
+description: Add icons and custom keybindings to netrw.
+homepage: https://github.com/prichrd/netrw.nvim
+repository: https://github.com/prichrd/netrw.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

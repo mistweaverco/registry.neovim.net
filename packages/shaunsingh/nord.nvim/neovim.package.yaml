@@ -1,0 +1,8 @@
+name: shaunsingh/nord.nvim
+description: Neovim theme based off of the Nord Color Palette.
+homepage: https://github.com/shaunsingh/nord.nvim
+repository: https://github.com/shaunsingh/nord.nvim
+license: GPL-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

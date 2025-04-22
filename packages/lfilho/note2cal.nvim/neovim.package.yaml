@@ -1,0 +1,8 @@
+name: lfilho/note2cal.nvim
+description: Quickly send events from your notes to your calendar (i.e.Do something @ 3pm-3pm-> will block that time on your calendar.
+homepage: https://github.com/lfilho/note2cal.nvim
+repository: https://github.com/lfilho/note2cal.nvim
+license: unknown
+category: plugin
+tags:
+  - note-taking

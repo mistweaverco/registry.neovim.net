@@ -1,0 +1,9 @@
+name: emmanueltouzery/decisive.nvim
+description: View and edit CSV files with ease and speed.
+homepage: https://github.com/emmanueltouzery/decisive.nvim
+repository: https://github.com/emmanueltouzery/decisive.nvim
+license: MIT
+category: plugin
+tags:
+  - utility
+  - csv-files

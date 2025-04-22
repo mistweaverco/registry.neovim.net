@@ -1,0 +1,8 @@
+name: niuiic/typst-preview.nvim
+description: Preview typst documents, respond to file changes.
+homepage: https://github.com/niuiic/typst-preview.nvim
+repository: https://github.com/niuiic/typst-preview.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

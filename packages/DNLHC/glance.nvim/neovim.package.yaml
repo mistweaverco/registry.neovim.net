@@ -1,0 +1,9 @@
+name: DNLHC/glance.nvim
+description: A pretty window for previewing, navigating and editing your LSP locations.
+homepage: https://github.com/DNLHC/glance.nvim
+repository: https://github.com/DNLHC/glance.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

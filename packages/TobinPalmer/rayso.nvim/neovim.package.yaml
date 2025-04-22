@@ -1,0 +1,8 @@
+name: TobinPalmer/rayso.nvim
+description: Create code snippets in Neovim usingray.so.
+homepage: https://github.com/TobinPalmer/rayso.nvim
+repository: https://github.com/TobinPalmer/rayso.nvim
+license: Unlicense
+category: plugin
+tags:
+  - snippet

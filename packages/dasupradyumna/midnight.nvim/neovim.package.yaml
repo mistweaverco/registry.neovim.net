@@ -1,0 +1,8 @@
+name: dasupradyumna/midnight.nvim
+description: A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
+homepage: https://github.com/dasupradyumna/midnight.nvim
+repository: https://github.com/dasupradyumna/midnight.nvim
+license: Apache-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: desdic/telescope-rooter.nvim
+description: Makes sure to always start telescope (and only telescope) from the project/root directory.
+homepage: https://github.com/desdic/telescope-rooter.nvim
+repository: https://github.com/desdic/telescope-rooter.nvim
+license: MIT
+category: plugin
+tags:
+  - project

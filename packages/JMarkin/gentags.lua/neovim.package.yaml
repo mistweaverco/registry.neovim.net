@@ -1,0 +1,8 @@
+name: JMarkin/gentags.lua
+description: Auto generate tag files by ctags.
+homepage: https://github.com/JMarkin/gentags.lua
+repository: https://github.com/JMarkin/gentags.lua
+license: unknown
+category: plugin
+tags:
+  - utility

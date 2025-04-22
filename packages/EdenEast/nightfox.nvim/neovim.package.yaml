@@ -1,0 +1,8 @@
+name: EdenEast/nightfox.nvim
+description: A soft dark, fully customizable Neovim theme, with support for LSP, Tree-sitter and a variety of plugins.
+homepage: https://github.com/EdenEast/nightfox.nvim
+repository: https://github.com/EdenEast/nightfox.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: Aaronik/GPTModels.nvim
+description: GPTModels - a stable, clean, multi model, window based LLM AI tool.
+homepage: https://github.com/Aaronik/GPTModels.nvim
+repository: https://github.com/Aaronik/GPTModels.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

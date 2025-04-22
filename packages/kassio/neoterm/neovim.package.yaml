@@ -1,0 +1,8 @@
+name: kassio/neoterm
+description: Wrapper of some:terminalfunctions.
+homepage: https://github.com/kassio/neoterm
+repository: https://github.com/kassio/neoterm
+license: NOASSERTION
+category: plugin
+tags:
+  - terminal-integration

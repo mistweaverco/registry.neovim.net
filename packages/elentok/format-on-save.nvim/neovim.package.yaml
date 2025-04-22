@@ -1,0 +1,8 @@
+name: elentok/format-on-save.nvim
+description: A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+homepage: https://github.com/elentok/format-on-save.nvim
+repository: https://github.com/elentok/format-on-save.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

@@ -1,0 +1,8 @@
+name: gennaro-tedesco/nvim-peekup
+description: Dynamically interact with Vim registers.
+homepage: https://github.com/gennaro-tedesco/nvim-peekup
+repository: https://github.com/gennaro-tedesco/nvim-peekup
+license: MIT
+category: plugin
+tags:
+  - register

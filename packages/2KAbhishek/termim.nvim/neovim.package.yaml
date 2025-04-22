@@ -1,0 +1,8 @@
+name: 2KAbhishek/termim.nvim
+description: Neovim Terminal, Improved.
+homepage: https://github.com/2KAbhishek/termim.nvim
+repository: https://github.com/2KAbhishek/termim.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - terminal-integration

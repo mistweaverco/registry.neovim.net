@@ -1,0 +1,9 @@
+name: declancm/windex.nvim
+description: Collection of window functions which includes moving between, closing and maximizing Neovim splits and Tmux panes.
+homepage: https://github.com/declancm/windex.nvim
+repository: https://github.com/declancm/windex.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

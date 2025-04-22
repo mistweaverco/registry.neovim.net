@@ -1,0 +1,8 @@
+name: jim-at-jibba/ariake.nvim
+description: A port of the great Atom theme. Beautiful, dark colour scheme.
+homepage: https://github.com/jim-at-jibba/ariake.nvim
+repository: https://github.com/jim-at-jibba/ariake.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

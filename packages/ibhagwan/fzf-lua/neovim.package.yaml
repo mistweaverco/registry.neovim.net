@@ -1,0 +1,8 @@
+name: ibhagwan/fzf-lua
+description: The Lua version offzf.vim, high-performance and fully async, supportsnvim-web-devicons, Git indicators, LSP, quickfix/location lists and more. Also supports`skim`as its fzf binary.
+homepage: https://github.com/ibhagwan/fzf-lua
+repository: https://github.com/ibhagwan/fzf-lua
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

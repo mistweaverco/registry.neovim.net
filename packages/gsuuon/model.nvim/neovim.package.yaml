@@ -1,0 +1,8 @@
+name: gsuuon/model.nvim
+description: Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+homepage: https://github.com/gsuuon/model.nvim
+repository: https://github.com/gsuuon/model.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

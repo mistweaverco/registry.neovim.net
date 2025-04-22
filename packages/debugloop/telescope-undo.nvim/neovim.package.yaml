@@ -1,0 +1,8 @@
+name: debugloop/telescope-undo.nvim
+description: A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+homepage: https://github.com/debugloop/telescope-undo.nvim
+repository: https://github.com/debugloop/telescope-undo.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: pianocomposer321/officer.nvim
+description: Like dispatch.vim but using overseer.nvim.
+homepage: https://github.com/pianocomposer321/officer.nvim
+repository: https://github.com/pianocomposer321/officer.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

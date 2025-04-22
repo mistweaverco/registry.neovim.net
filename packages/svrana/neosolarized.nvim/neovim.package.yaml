@@ -1,0 +1,8 @@
+name: svrana/neosolarized.nvim
+description: Dark solarized colorscheme using colorbuddy for easy customization.
+homepage: https://github.com/svrana/neosolarized.nvim
+repository: https://github.com/svrana/neosolarized.nvim
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

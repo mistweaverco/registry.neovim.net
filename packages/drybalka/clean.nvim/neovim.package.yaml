@@ -1,0 +1,8 @@
+name: drybalka/clean.nvim
+description: Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+homepage: https://github.com/drybalka/clean.nvim
+repository: https://github.com/drybalka/clean.nvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

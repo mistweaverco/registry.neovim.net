@@ -1,0 +1,8 @@
+name: dmmulroy/tsc.nvim
+description: Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+homepage: https://github.com/dmmulroy/tsc.nvim
+repository: https://github.com/dmmulroy/tsc.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

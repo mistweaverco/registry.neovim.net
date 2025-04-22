@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-recorder
+description: Simplifying and improving how you interact with macros.
+homepage: https://github.com/chrisgrieser/nvim-recorder
+repository: https://github.com/chrisgrieser/nvim-recorder
+license: MIT
+category: plugin
+tags:
+  - utility

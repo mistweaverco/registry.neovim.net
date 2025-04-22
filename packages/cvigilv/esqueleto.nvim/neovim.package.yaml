@@ -1,0 +1,8 @@
+name: cvigilv/esqueleto.nvim
+description: Simple templates to use when creating new files.
+homepage: https://github.com/cvigilv/esqueleto.nvim
+repository: https://github.com/cvigilv/esqueleto.nvim
+license: MIT
+category: plugin
+tags:
+  - snippet

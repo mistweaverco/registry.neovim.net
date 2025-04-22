@@ -1,0 +1,8 @@
+name: ycdzj/win-mover.nvim
+description: Window mover that avoids moving side windows.
+homepage: https://github.com/ycdzj/win-mover.nvim
+repository: https://github.com/ycdzj/win-mover.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

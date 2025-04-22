@@ -1,0 +1,8 @@
+name: ggandor/leap.nvim
+description: A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+homepage: https://github.com/ggandor/leap.nvim
+repository: https://github.com/ggandor/leap.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

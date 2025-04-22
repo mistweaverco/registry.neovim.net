@@ -1,0 +1,8 @@
+name: StanAngeloff/claudius.nvim
+description: Text-based interface for chatting with Claude AI directly in your buffer.
+homepage: https://github.com/StanAngeloff/claudius.nvim
+repository: https://github.com/StanAngeloff/claudius.nvim
+license: unknown
+category: plugin
+tags:
+  - ai

@@ -1,0 +1,8 @@
+name: Yu-Leo/blame-column.nvim
+description: Show Git blame info.
+homepage: https://github.com/Yu-Leo/blame-column.nvim
+repository: https://github.com/Yu-Leo/blame-column.nvim
+license: MIT
+category: plugin
+tags:
+  - git

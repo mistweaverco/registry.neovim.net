@@ -1,0 +1,8 @@
+name: mrjones2014/legendary.nvim
+description: Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VS Code's Command Palette), integrates withwhich-key.nvim.
+homepage: https://github.com/mrjones2014/legendary.nvim
+repository: https://github.com/mrjones2014/legendary.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

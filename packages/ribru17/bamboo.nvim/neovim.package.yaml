@@ -1,0 +1,8 @@
+name: ribru17/bamboo.nvim
+description: A warm green theme.
+homepage: https://github.com/ribru17/bamboo.nvim
+repository: https://github.com/ribru17/bamboo.nvim
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

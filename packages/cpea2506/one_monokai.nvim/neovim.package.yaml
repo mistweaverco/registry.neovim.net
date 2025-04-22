@@ -1,0 +1,8 @@
+name: cpea2506/one_monokai.nvim
+description: One Monokai theme written in Lua.
+homepage: https://github.com/cpea2506/one_monokai.nvim
+repository: https://github.com/cpea2506/one_monokai.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

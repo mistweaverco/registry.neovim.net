@@ -1,0 +1,8 @@
+name: LazyVim/LazyVim
+description: Full-fledged IDE powered bylazy.nvimto make it easy to customize and extend your config.
+homepage: https://github.com/LazyVim/LazyVim
+repository: https://github.com/LazyVim/LazyVim
+license: Apache-2.0
+category: plugin
+tags:
+  - preconfigured-configuration

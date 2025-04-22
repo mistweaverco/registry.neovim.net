@@ -1,0 +1,8 @@
+name: qaptoR-nvim/chocolatier.nvim
+description: An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+homepage: https://github.com/qaptoR-nvim/chocolatier.nvim
+repository: https://github.com/qaptoR-nvim/chocolatier.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: Ostralyan/scribe.nvim
+description: Take notes, easily.
+homepage: https://github.com/Ostralyan/scribe.nvim
+repository: https://github.com/Ostralyan/scribe.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

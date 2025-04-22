@@ -1,0 +1,8 @@
+name: Yazeed1s/minimal.nvim
+description: Two Tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
+homepage: https://github.com/Yazeed1s/minimal.nvim
+repository: https://github.com/Yazeed1s/minimal.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

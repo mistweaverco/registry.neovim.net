@@ -1,0 +1,8 @@
+name: kdheepak/lazygit.nvim
+description: Plugin for calling lazygit.
+homepage: https://github.com/kdheepak/lazygit.nvim
+repository: https://github.com/kdheepak/lazygit.nvim
+license: MIT
+category: plugin
+tags:
+  - git

@@ -1,0 +1,8 @@
+name: Beargruug/skipper.nvim
+description: Jump between functions in a file with ease.
+homepage: https://github.com/Beargruug/skipper.nvim
+repository: https://github.com/Beargruug/skipper.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

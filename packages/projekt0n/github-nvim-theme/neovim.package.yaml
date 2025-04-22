@@ -1,0 +1,8 @@
+name: projekt0n/github-nvim-theme
+description: A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
+homepage: https://github.com/projekt0n/github-nvim-theme
+repository: https://github.com/projekt0n/github-nvim-theme
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

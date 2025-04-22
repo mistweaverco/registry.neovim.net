@@ -1,0 +1,8 @@
+name: nyngwang/NeoTerm.lua
+description: Attach a terminal for eachbuffer, now with stable toggle and astonishing cursor restoring.
+homepage: https://github.com/nyngwang/NeoTerm.lua
+repository: https://github.com/nyngwang/NeoTerm.lua
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

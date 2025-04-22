@@ -1,0 +1,9 @@
+name: nvim-lua/lsp-status.nvim
+description: This is a plugin/library for generating statusline components from the built-in LSP client.
+homepage: https://github.com/nvim-lua/lsp-status.nvim
+repository: https://github.com/nvim-lua/lsp-status.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

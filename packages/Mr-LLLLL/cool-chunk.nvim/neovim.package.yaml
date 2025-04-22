@@ -1,0 +1,9 @@
+name: Mr-LLLLL/cool-chunk.nvim
+description: Simpler and faster chunking with animations.
+homepage: https://github.com/Mr-LLLLL/cool-chunk.nvim
+repository: https://github.com/Mr-LLLLL/cool-chunk.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

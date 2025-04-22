@@ -1,0 +1,8 @@
+name: niuiic/cp-image.nvim
+description: Paste image from clipboard and insert the reference code.
+homepage: https://github.com/niuiic/cp-image.nvim
+repository: https://github.com/niuiic/cp-image.nvim
+license: MIT
+category: plugin
+tags:
+  - media

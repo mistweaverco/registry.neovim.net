@@ -1,0 +1,9 @@
+name: RRethy/vim-illuminate
+description: Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently.
+homepage: https://github.com/RRethy/vim-illuminate
+repository: https://github.com/RRethy/vim-illuminate
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

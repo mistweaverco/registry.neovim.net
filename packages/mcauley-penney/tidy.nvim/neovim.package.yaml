@@ -1,0 +1,8 @@
+name: mcauley-penney/tidy.nvim
+description: Clear trailing whitespace and empty lines at end of file on every save.
+homepage: https://github.com/mcauley-penney/tidy.nvim
+repository: https://github.com/mcauley-penney/tidy.nvim
+license: unknown
+category: plugin
+tags:
+  - formatting

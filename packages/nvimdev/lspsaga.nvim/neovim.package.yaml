@@ -1,0 +1,9 @@
+name: nvimdev/lspsaga.nvim
+description: A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
+homepage: https://github.com/nvimdev/lspsaga.nvim
+repository: https://github.com/nvimdev/lspsaga.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

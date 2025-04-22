@@ -1,0 +1,8 @@
+name: ThemerCorp/themer.lua
+description: A simple highlighter plugin for Neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
+homepage: https://github.com/ThemerCorp/themer.lua
+repository: https://github.com/ThemerCorp/themer.lua
+license: GPL-3.0
+category: colorscheme
+tags:
+  - colorscheme-creation

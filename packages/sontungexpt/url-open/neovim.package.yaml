@@ -1,0 +1,8 @@
+name: sontungexpt/url-open
+description: Open URLs under the cursor and create highlight effects for them.
+homepage: https://github.com/sontungexpt/url-open
+repository: https://github.com/sontungexpt/url-open
+license: MIT
+category: plugin
+tags:
+  - utility

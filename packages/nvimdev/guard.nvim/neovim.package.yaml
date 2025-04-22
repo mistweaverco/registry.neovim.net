@@ -1,0 +1,8 @@
+name: nvimdev/guard.nvim
+description: Minimalist async formatting and linting plugin.
+homepage: https://github.com/nvimdev/guard.nvim
+repository: https://github.com/nvimdev/guard.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

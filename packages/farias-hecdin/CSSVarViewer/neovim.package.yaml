@@ -1,0 +1,9 @@
+name: farias-hecdin/CSSVarViewer
+description: Easily visualize the content of your CSS variables in a virtual text.
+homepage: https://github.com/farias-hecdin/CSSVarViewer
+repository: https://github.com/farias-hecdin/CSSVarViewer
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

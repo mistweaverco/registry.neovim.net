@@ -1,0 +1,8 @@
+name: ray-x/aurora
+description: A 24-bit dark theme with Tree-sitter and LSP support.
+homepage: https://github.com/ray-x/aurora
+repository: https://github.com/ray-x/aurora
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

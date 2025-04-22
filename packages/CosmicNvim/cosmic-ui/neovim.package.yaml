@@ -1,0 +1,8 @@
+name: CosmicNvim/cosmic-ui
+description: Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+homepage: https://github.com/CosmicNvim/cosmic-ui
+repository: https://github.com/CosmicNvim/cosmic-ui
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

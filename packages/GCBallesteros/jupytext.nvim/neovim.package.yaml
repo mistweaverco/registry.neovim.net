@@ -1,0 +1,8 @@
+name: GCBallesteros/jupytext.nvim
+description: Edit jupyter notebooks without leaving Neovim.
+homepage: https://github.com/GCBallesteros/jupytext.nvim
+repository: https://github.com/GCBallesteros/jupytext.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

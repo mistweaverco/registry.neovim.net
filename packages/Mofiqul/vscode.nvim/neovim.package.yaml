@@ -1,0 +1,8 @@
+name: Mofiqul/vscode.nvim
+description: A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+homepage: https://github.com/Mofiqul/vscode.nvim
+repository: https://github.com/Mofiqul/vscode.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

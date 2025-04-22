@@ -1,0 +1,8 @@
+name: kkharji/sqlite.lua
+description: SQLite/LuaJIT binding for Lua and Neovim.
+homepage: https://github.com/kkharji/sqlite.lua
+repository: https://github.com/kkharji/sqlite.lua
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

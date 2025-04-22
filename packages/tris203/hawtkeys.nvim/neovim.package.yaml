@@ -1,0 +1,8 @@
+name: tris203/hawtkeys.nvim
+description: Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+homepage: https://github.com/tris203/hawtkeys.nvim
+repository: https://github.com/tris203/hawtkeys.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

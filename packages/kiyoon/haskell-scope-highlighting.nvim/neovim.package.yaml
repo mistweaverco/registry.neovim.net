@@ -1,0 +1,8 @@
+name: kiyoon/haskell-scope-highlighting.nvim
+description: Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+homepage: https://github.com/kiyoon/haskell-scope-highlighting.nvim
+repository: https://github.com/kiyoon/haskell-scope-highlighting.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

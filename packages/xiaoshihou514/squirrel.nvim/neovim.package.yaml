@@ -1,0 +1,8 @@
+name: xiaoshihou514/squirrel.nvim
+description: Quickly jump between Tree-sitter nodes.
+homepage: https://github.com/xiaoshihou514/squirrel.nvim
+repository: https://github.com/xiaoshihou514/squirrel.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - motion

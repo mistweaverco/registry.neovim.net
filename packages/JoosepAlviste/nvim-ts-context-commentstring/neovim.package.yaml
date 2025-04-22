@@ -1,0 +1,9 @@
+name: JoosepAlviste/nvim-ts-context-commentstring
+description: Sets thecommentstringoption based on the cursor location in the file. The location is checked via Tree-sitter queries.
+homepage: https://github.com/JoosepAlviste/nvim-ts-context-commentstring
+repository: https://github.com/JoosepAlviste/nvim-ts-context-commentstring
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

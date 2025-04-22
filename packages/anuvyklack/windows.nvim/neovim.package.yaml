@@ -1,0 +1,8 @@
+name: anuvyklack/windows.nvim
+description: Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
+homepage: https://github.com/anuvyklack/windows.nvim
+repository: https://github.com/anuvyklack/windows.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

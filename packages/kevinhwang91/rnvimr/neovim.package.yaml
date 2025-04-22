@@ -1,0 +1,8 @@
+name: kevinhwang91/rnvimr
+description: A simple yet amazing file explorer.
+homepage: https://github.com/kevinhwang91/rnvimr
+repository: https://github.com/kevinhwang91/rnvimr
+license: BSD-3-Clause
+category: plugin
+tags:
+  - file-explorer

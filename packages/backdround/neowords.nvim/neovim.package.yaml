@@ -1,0 +1,8 @@
+name: backdround/neowords.nvim
+description: Hops by any type of words. It gives fine control overw,e,b,gemovements.
+homepage: https://github.com/backdround/neowords.nvim
+repository: https://github.com/backdround/neowords.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

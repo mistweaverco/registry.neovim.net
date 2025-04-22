@@ -1,0 +1,9 @@
+name: SCJangra/table-nvim
+description: A markdown table editor that formats the table as you type.
+homepage: https://github.com/SCJangra/table-nvim
+repository: https://github.com/SCJangra/table-nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

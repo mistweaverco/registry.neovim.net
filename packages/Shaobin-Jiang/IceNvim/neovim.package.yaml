@@ -1,0 +1,8 @@
+name: Shaobin-Jiang/IceNvim
+description: A beautiful, powerful and customizable config that is blazingly fast.
+homepage: https://github.com/Shaobin-Jiang/IceNvim
+repository: https://github.com/Shaobin-Jiang/IceNvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

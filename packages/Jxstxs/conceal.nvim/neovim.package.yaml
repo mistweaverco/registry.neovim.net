@@ -1,0 +1,8 @@
+name: Jxstxs/conceal.nvim
+description: Use Tree-sitter to conceal common boilerplate code.
+homepage: https://github.com/Jxstxs/conceal.nvim
+repository: https://github.com/Jxstxs/conceal.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

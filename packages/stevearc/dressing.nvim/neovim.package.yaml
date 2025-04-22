@@ -1,0 +1,8 @@
+name: stevearc/dressing.nvim
+description: Improve the built-invim.uiinterfaces with telescope, fzf, etc.
+homepage: https://github.com/stevearc/dressing.nvim
+repository: https://github.com/stevearc/dressing.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

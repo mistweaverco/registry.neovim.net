@@ -1,0 +1,9 @@
+name: Darazaki/indent-o-matic
+description: Dumb automatic fast indentation detection written in Lua.
+homepage: https://github.com/Darazaki/indent-o-matic
+repository: https://github.com/Darazaki/indent-o-matic
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

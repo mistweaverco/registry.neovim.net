@@ -1,0 +1,8 @@
+name: CWood-sdf/spaceport.nvim
+description: The start screen that gets you to your projects blazingly fast.
+homepage: https://github.com/CWood-sdf/spaceport.nvim
+repository: https://github.com/CWood-sdf/spaceport.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - startup

@@ -1,0 +1,8 @@
+name: luukvbaal/nnn.nvim
+description: File explorer powered bynnnand Lua.
+homepage: https://github.com/luukvbaal/nnn.nvim
+repository: https://github.com/luukvbaal/nnn.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - file-explorer

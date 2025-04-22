@@ -1,0 +1,9 @@
+name: jakewvincent/texmagic.nvim
+description: Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
+homepage: https://github.com/jakewvincent/texmagic.nvim
+repository: https://github.com/jakewvincent/texmagic.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

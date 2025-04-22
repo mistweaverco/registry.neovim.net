@@ -1,0 +1,9 @@
+name: mrcjkb/haskell-tools.nvim
+description: Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+homepage: https://github.com/mrcjkb/haskell-tools.nvim
+repository: https://github.com/mrcjkb/haskell-tools.nvim
+license: GPL-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

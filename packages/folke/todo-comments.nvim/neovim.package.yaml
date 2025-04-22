@@ -1,0 +1,9 @@
+name: folke/todo-comments.nvim
+description: Highlight, list and search todo comments in your projects.
+homepage: https://github.com/folke/todo-comments.nvim
+repository: https://github.com/folke/todo-comments.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support
+  - comment

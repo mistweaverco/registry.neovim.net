@@ -1,0 +1,9 @@
+name: VidocqH/auto-indent.nvim
+description: Auto indent cursor when cursor at the first column and press<TAB>key like VSCode.
+homepage: https://github.com/VidocqH/auto-indent.nvim
+repository: https://github.com/VidocqH/auto-indent.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

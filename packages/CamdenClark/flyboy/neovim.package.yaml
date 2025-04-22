@@ -1,0 +1,8 @@
+name: CamdenClark/flyboy
+description: Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
+homepage: https://github.com/CamdenClark/flyboy
+repository: https://github.com/CamdenClark/flyboy
+license: MIT
+category: plugin
+tags:
+  - ai

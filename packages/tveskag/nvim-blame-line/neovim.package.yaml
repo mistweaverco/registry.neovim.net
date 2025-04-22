@@ -1,0 +1,8 @@
+name: tveskag/nvim-blame-line
+description: A small plugin that uses Neovim's virtual text to print Git blame info at the end of the current line.
+homepage: https://github.com/tveskag/nvim-blame-line
+repository: https://github.com/tveskag/nvim-blame-line
+license: MIT
+category: plugin
+tags:
+  - git

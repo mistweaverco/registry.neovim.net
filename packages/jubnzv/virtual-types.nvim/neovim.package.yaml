@@ -1,0 +1,9 @@
+name: jubnzv/virtual-types.nvim
+description: Show type annotations as virtual text.
+homepage: https://github.com/jubnzv/virtual-types.nvim
+repository: https://github.com/jubnzv/virtual-types.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

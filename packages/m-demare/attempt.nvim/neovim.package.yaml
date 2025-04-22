@@ -1,0 +1,8 @@
+name: m-demare/attempt.nvim
+description: Manage and run temporary buffers.
+homepage: https://github.com/m-demare/attempt.nvim
+repository: https://github.com/m-demare/attempt.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

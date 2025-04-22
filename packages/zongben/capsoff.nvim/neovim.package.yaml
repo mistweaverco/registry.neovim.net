@@ -1,0 +1,8 @@
+name: zongben/capsoff.nvim
+description: Turns off CapsLock when you leaving insert mode.
+homepage: https://github.com/zongben/capsoff.nvim
+repository: https://github.com/zongben/capsoff.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

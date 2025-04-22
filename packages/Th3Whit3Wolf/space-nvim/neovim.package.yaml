@@ -1,0 +1,8 @@
+name: Th3Whit3Wolf/space-nvim
+description: A spacemacs inspired dark and light colorscheme.
+homepage: https://github.com/Th3Whit3Wolf/space-nvim
+repository: https://github.com/Th3Whit3Wolf/space-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: rgroli/other.nvim
+description: Open alternative files for the current buffer.
+homepage: https://github.com/rgroli/other.nvim
+repository: https://github.com/rgroli/other.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

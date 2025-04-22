@@ -1,0 +1,8 @@
+name: lewpoly/sherbet.nvim
+description: A soothing colorscheme with support for popular plugins and Tree-sitter.
+homepage: https://github.com/lewpoly/sherbet.nvim
+repository: https://github.com/lewpoly/sherbet.nvim
+license: GPL-3.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

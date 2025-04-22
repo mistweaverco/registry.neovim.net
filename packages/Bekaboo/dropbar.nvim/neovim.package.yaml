@@ -1,0 +1,8 @@
+name: Bekaboo/dropbar.nvim
+description: IDE-like breadcrumbs, out of the box.
+homepage: https://github.com/Bekaboo/dropbar.nvim
+repository: https://github.com/Bekaboo/dropbar.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - bars-and-lines

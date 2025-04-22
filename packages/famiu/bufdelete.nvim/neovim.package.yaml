@@ -1,0 +1,8 @@
+name: famiu/bufdelete.nvim
+description: Delete Neovim buffers without losing your window layout.
+homepage: https://github.com/famiu/bufdelete.nvim
+repository: https://github.com/famiu/bufdelete.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - split-and-window

@@ -1,0 +1,8 @@
+name: nvim-telekasten/telekasten.nvim
+description: Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+homepage: https://github.com/nvim-telekasten/telekasten.nvim
+repository: https://github.com/nvim-telekasten/telekasten.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

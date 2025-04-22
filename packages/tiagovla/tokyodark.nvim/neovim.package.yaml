@@ -1,0 +1,8 @@
+name: tiagovla/tokyodark.nvim
+description: A clean dark theme written in Lua (Neovim >= 0.5) and above.
+homepage: https://github.com/tiagovla/tokyodark.nvim
+repository: https://github.com/tiagovla/tokyodark.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

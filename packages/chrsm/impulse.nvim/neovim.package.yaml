@@ -1,0 +1,8 @@
+name: chrsm/impulse.nvim
+description: Read Notion.so notes.
+homepage: https://github.com/chrsm/impulse.nvim
+repository: https://github.com/chrsm/impulse.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

@@ -1,0 +1,8 @@
+name: windwp/nvim-ts-autotag
+description: Use Tree-sitter to autoclose and autorename XML, HTML, JSX tag.
+homepage: https://github.com/windwp/nvim-ts-autotag
+repository: https://github.com/windwp/nvim-ts-autotag
+license: MIT
+category: plugin
+tags:
+  - editing-support

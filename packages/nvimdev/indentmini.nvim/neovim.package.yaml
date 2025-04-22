@@ -1,0 +1,9 @@
+name: nvimdev/indentmini.nvim
+description: A minimal and blazing fast indentline plugin by using nvim_set_decoration_provide API.
+homepage: https://github.com/nvimdev/indentmini.nvim
+repository: https://github.com/nvimdev/indentmini.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

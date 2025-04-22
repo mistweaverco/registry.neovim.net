@@ -1,0 +1,8 @@
+name: windwp/nvim-autopairs
+description: A minimalist autopairs written by Lua.
+homepage: https://github.com/windwp/nvim-autopairs
+repository: https://github.com/windwp/nvim-autopairs
+license: MIT
+category: plugin
+tags:
+  - editing-support

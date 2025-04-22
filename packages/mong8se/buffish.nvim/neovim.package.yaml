@@ -1,0 +1,8 @@
+name: mong8se/buffish.nvim
+description: A buffer switcher in the spirit of dirvish or vinegar.
+homepage: https://github.com/mong8se/buffish.nvim
+repository: https://github.com/mong8se/buffish.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

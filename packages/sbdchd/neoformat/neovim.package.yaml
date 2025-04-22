@@ -1,0 +1,8 @@
+name: sbdchd/neoformat
+description: A (Neo)vim plugin for formatting code.
+homepage: https://github.com/sbdchd/neoformat
+repository: https://github.com/sbdchd/neoformat
+license: BSD-2-Clause
+category: plugin
+tags:
+  - formatting

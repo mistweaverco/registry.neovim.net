@@ -1,0 +1,9 @@
+name: ray-x/lsp_signature.nvim
+description: LSP signature hint when you type.
+homepage: https://github.com/ray-x/lsp_signature.nvim
+repository: https://github.com/ray-x/lsp_signature.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

@@ -1,0 +1,8 @@
+name: doodleEsc/translator.nvim
+description: A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
+homepage: https://github.com/doodleEsc/translator.nvim
+repository: https://github.com/doodleEsc/translator.nvim
+license: MIT
+category: plugin
+tags:
+  - language

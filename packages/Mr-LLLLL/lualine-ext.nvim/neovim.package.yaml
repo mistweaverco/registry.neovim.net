@@ -1,0 +1,9 @@
+name: Mr-LLLLL/lualine-ext.nvim
+description: Show more information on lualine.
+homepage: https://github.com/Mr-LLLLL/lualine-ext.nvim
+repository: https://github.com/Mr-LLLLL/lualine-ext.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

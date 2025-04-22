@@ -1,0 +1,8 @@
+name: LucasTavaresA/headers.nvim
+description: Zero-config header/footer warnings.
+homepage: https://github.com/LucasTavaresA/headers.nvim
+repository: https://github.com/LucasTavaresA/headers.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - project

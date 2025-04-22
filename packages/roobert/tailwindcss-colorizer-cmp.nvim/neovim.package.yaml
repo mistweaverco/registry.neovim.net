@@ -1,0 +1,9 @@
+name: roobert/tailwindcss-colorizer-cmp.nvim
+description: Add vscode-style TailwindCSS completion to nvim-cmp.
+homepage: https://github.com/roobert/tailwindcss-colorizer-cmp.nvim
+repository: https://github.com/roobert/tailwindcss-colorizer-cmp.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

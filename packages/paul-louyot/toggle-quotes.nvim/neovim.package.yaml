@@ -1,0 +1,8 @@
+name: paul-louyot/toggle-quotes.nvim
+description: Toggle between quotes.
+homepage: https://github.com/paul-louyot/toggle-quotes.nvim
+repository: https://github.com/paul-louyot/toggle-quotes.nvim
+license: CC0-1.0
+category: plugin
+tags:
+  - formatting

@@ -1,0 +1,9 @@
+name: edolphin-ydf/goimpl.nvim
+description: Generate interface stubs for a type.
+homepage: https://github.com/edolphin-ydf/goimpl.nvim
+repository: https://github.com/edolphin-ydf/goimpl.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

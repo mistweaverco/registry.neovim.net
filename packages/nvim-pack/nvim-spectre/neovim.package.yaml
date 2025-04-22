@@ -1,0 +1,8 @@
+name: nvim-pack/nvim-spectre
+description: Search and replace panel.
+homepage: https://github.com/nvim-pack/nvim-spectre
+repository: https://github.com/nvim-pack/nvim-spectre
+license: MIT
+category: plugin
+tags:
+  - search

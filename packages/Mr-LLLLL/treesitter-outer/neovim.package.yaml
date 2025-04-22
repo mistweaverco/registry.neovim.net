@@ -1,0 +1,8 @@
+name: Mr-LLLLL/treesitter-outer
+description: Jump to outer node with smart.
+homepage: https://github.com/Mr-LLLLL/treesitter-outer
+repository: https://github.com/Mr-LLLLL/treesitter-outer
+license: Apache-2.0
+category: plugin
+tags:
+  - motion

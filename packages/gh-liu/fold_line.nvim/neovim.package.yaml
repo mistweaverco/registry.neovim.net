@@ -1,0 +1,9 @@
+name: gh-liu/fold_line.nvim
+description: Lines for indicating code folding, which could achieve an effect similar to indentline by:set fdm=indent.
+homepage: https://github.com/gh-liu/fold_line.nvim
+repository: https://github.com/gh-liu/fold_line.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

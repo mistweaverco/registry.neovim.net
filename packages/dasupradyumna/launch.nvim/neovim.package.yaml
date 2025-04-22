@@ -1,0 +1,8 @@
+name: dasupradyumna/launch.nvim
+description: A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+homepage: https://github.com/dasupradyumna/launch.nvim
+repository: https://github.com/dasupradyumna/launch.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

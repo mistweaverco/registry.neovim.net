@@ -1,0 +1,9 @@
+name: someone-stole-my-name/yaml-companion.nvim
+description: Get, set and autodetect YAML schemas in your buffers.
+homepage: https://github.com/someone-stole-my-name/yaml-companion.nvim
+repository: https://github.com/someone-stole-my-name/yaml-companion.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - yaml

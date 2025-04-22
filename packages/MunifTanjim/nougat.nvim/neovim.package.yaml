@@ -1,0 +1,9 @@
+name: MunifTanjim/nougat.nvim
+description: Hyperextensible Statusline / Tabline / Winbar.
+homepage: https://github.com/MunifTanjim/nougat.nvim
+repository: https://github.com/MunifTanjim/nougat.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

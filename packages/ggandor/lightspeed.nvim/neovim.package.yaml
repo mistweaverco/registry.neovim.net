@@ -1,0 +1,8 @@
+name: ggandor/lightspeed.nvim
+description: A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
+homepage: https://github.com/ggandor/lightspeed.nvim
+repository: https://github.com/ggandor/lightspeed.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

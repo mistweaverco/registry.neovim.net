@@ -1,0 +1,10 @@
+name: alexaandru/nvim-lspupdate
+description: Updates installed (or auto installs if missing) LSP servers.
+homepage: https://github.com/alexaandru/nvim-lspupdate
+repository: https://github.com/alexaandru/nvim-lspupdate
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - lsp-installer

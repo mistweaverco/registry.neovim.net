@@ -1,0 +1,9 @@
+name: nanozuki/tabby.nvim
+description: A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
+homepage: https://github.com/nanozuki/tabby.nvim
+repository: https://github.com/nanozuki/tabby.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

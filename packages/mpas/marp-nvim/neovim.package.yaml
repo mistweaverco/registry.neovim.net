@@ -1,0 +1,9 @@
+name: mpas/marp-nvim
+description: Present using markdown withMarp.
+homepage: https://github.com/mpas/marp-nvim
+repository: https://github.com/mpas/marp-nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

@@ -1,0 +1,8 @@
+name: brianaung/compl.nvim
+description: A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+homepage: https://github.com/brianaung/compl.nvim
+repository: https://github.com/brianaung/compl.nvim
+license: MIT
+category: plugin
+tags:
+  - completion

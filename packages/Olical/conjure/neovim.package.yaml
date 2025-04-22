@@ -1,0 +1,8 @@
+name: Olical/conjure
+description: Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+homepage: https://github.com/Olical/conjure
+repository: https://github.com/Olical/conjure
+license: Unlicense
+category: plugin
+tags:
+  - fennel

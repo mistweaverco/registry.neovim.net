@@ -1,0 +1,8 @@
+name: jamestthompson3/nvim-remote-containers
+description: Develop inside docker containers, just like VSCode.
+homepage: https://github.com/jamestthompson3/nvim-remote-containers
+repository: https://github.com/jamestthompson3/nvim-remote-containers
+license: NOASSERTION
+category: plugin
+tags:
+  - remote-development

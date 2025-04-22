@@ -1,0 +1,8 @@
+name: ragnarok22/whereami.nvim
+description: Test your VPN by getting you current location.
+homepage: https://github.com/ragnarok22/whereami.nvim
+repository: https://github.com/ragnarok22/whereami.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

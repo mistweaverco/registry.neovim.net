@@ -1,0 +1,8 @@
+name: pluffie/neoproj
+description: Small yet powerful project (and session) manager.
+homepage: https://github.com/pluffie/neoproj
+repository: https://github.com/pluffie/neoproj
+license: MPL-2.0
+category: plugin
+tags:
+  - project

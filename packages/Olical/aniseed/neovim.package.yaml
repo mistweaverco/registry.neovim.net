@@ -1,0 +1,8 @@
+name: Olical/aniseed
+description: Configure and extend Neovim with Fennel (Lisp to Lua).
+homepage: https://github.com/Olical/aniseed
+repository: https://github.com/Olical/aniseed
+license: Unlicense
+category: plugin
+tags:
+  - fennel

@@ -1,0 +1,8 @@
+name: EthanJWright/vs-tasks.nvim
+description: Telescope picker for VSCode style tasks.
+homepage: https://github.com/EthanJWright/vs-tasks.nvim
+repository: https://github.com/EthanJWright/vs-tasks.nvim
+license: unknown
+category: plugin
+tags:
+  - code-runner

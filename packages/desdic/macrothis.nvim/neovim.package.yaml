@@ -1,0 +1,8 @@
+name: desdic/macrothis.nvim
+description: Save and load macros/registers.
+homepage: https://github.com/desdic/macrothis.nvim
+repository: https://github.com/desdic/macrothis.nvim
+license: MIT
+category: plugin
+tags:
+  - register

@@ -15,7 +15,7 @@ interface PackageInfo {
   name: string;
   description: string;
   homepage: string;
-  licenses: string[];
+  license: string;
   languages?: string[];
   categories: string[];
   validationErrors?: ErrorObject[];

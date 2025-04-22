@@ -1,0 +1,8 @@
+name: nvim-orgmode/orgmode
+description: Orgmode clone written in Lua (Neovim >= 0.5).
+homepage: https://github.com/nvim-orgmode/orgmode
+repository: https://github.com/nvim-orgmode/orgmode
+license: MIT
+category: plugin
+tags:
+  - note-taking

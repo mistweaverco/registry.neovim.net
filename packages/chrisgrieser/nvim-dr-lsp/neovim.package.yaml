@@ -1,0 +1,9 @@
+name: chrisgrieser/nvim-dr-lsp
+description: Status line component showing the number of LSP definition and reference of the token under the cursor.
+homepage: https://github.com/chrisgrieser/nvim-dr-lsp
+repository: https://github.com/chrisgrieser/nvim-dr-lsp
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

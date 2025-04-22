@@ -1,0 +1,8 @@
+name: desdic/marlin.nvim
+description: Like harpoon, but with key differences like project path, split support, no UI.
+homepage: https://github.com/desdic/marlin.nvim
+repository: https://github.com/desdic/marlin.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

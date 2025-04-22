@@ -1,0 +1,8 @@
+name: rlane/pounce.nvim
+description: An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+homepage: https://github.com/rlane/pounce.nvim
+repository: https://github.com/rlane/pounce.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - motion

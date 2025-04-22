@@ -1,0 +1,8 @@
+name: uga-rosa/ccc.nvim
+description: Super powerful color picker / colorizer plugin.
+homepage: https://github.com/uga-rosa/ccc.nvim
+repository: https://github.com/uga-rosa/ccc.nvim
+license: MIT
+category: plugin
+tags:
+  - color

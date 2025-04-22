@@ -1,0 +1,8 @@
+name: cappyzawa/trim.nvim
+description: This plugin trims trailing whitespace and lines.
+homepage: https://github.com/cappyzawa/trim.nvim
+repository: https://github.com/cappyzawa/trim.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - formatting

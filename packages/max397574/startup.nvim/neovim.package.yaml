@@ -1,0 +1,8 @@
+name: max397574/startup.nvim
+description: The fully customizable greeter for Neovim.
+homepage: https://github.com/max397574/startup.nvim
+repository: https://github.com/max397574/startup.nvim
+license: GPL-2.0
+category: plugin
+tags:
+  - startup

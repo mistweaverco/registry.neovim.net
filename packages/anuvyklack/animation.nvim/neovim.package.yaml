@@ -1,0 +1,8 @@
+name: anuvyklack/animation.nvim
+description: Create animations.
+homepage: https://github.com/anuvyklack/animation.nvim
+repository: https://github.com/anuvyklack/animation.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

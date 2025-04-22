@@ -1,0 +1,9 @@
+name: stevanmilic/nvim-lspimport
+description: Automatically resolves imports for undefined terms. Useful withpyrightlanguage server.
+homepage: https://github.com/stevanmilic/nvim-lspimport
+repository: https://github.com/stevanmilic/nvim-lspimport
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

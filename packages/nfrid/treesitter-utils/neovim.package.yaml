@@ -1,0 +1,8 @@
+name: nfrid/treesitter-utils
+description: Some useful Tree-sitter methods.
+homepage: https://github.com/nfrid/treesitter-utils
+repository: https://github.com/nfrid/treesitter-utils
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

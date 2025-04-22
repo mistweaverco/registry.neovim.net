@@ -1,0 +1,8 @@
+name: ada0l/obsidian
+description: Base Obsidian functionality.
+homepage: https://github.com/ada0l/obsidian
+repository: https://github.com/ada0l/obsidian
+license: unknown
+category: plugin
+tags:
+  - note-taking

@@ -1,0 +1,8 @@
+name: FeiyouG/commander.nvim
+description: Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+homepage: https://github.com/FeiyouG/commander.nvim
+repository: https://github.com/FeiyouG/commander.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

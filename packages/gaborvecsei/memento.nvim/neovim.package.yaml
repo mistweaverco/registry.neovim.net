@@ -1,0 +1,8 @@
+name: gaborvecsei/memento.nvim
+description: Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
+homepage: https://github.com/gaborvecsei/memento.nvim
+repository: https://github.com/gaborvecsei/memento.nvim
+license: unknown
+category: plugin
+tags:
+  - search

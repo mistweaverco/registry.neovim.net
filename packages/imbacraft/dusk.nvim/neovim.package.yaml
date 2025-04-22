@@ -1,0 +1,8 @@
+name: imbacraft/dusk.nvim
+description: Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
+homepage: https://github.com/imbacraft/dusk.nvim
+repository: https://github.com/imbacraft/dusk.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

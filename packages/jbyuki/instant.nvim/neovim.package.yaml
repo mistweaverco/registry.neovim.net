@@ -1,0 +1,8 @@
+name: jbyuki/instant.nvim
+description: A collaborative editing plugin written in Lua with no dependencies.
+homepage: https://github.com/jbyuki/instant.nvim
+repository: https://github.com/jbyuki/instant.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

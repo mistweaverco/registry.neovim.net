@@ -1,0 +1,8 @@
+name: isak102/telescope-git-file-history.nvim
+description: Open/preview contents of the current file at a specific commit, without using git checkout.
+homepage: https://github.com/isak102/telescope-git-file-history.nvim
+repository: https://github.com/isak102/telescope-git-file-history.nvim
+license: MIT
+category: plugin
+tags:
+  - git

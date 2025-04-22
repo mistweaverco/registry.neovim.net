@@ -1,0 +1,8 @@
+name: GCBallesteros/NotebookNavigator.nvim
+description: Navigate and execute code cells.
+homepage: https://github.com/GCBallesteros/NotebookNavigator.nvim
+repository: https://github.com/GCBallesteros/NotebookNavigator.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

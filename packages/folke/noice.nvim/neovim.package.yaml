@@ -1,0 +1,8 @@
+name: folke/noice.nvim
+description: Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+homepage: https://github.com/folke/noice.nvim
+repository: https://github.com/folke/noice.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - utility

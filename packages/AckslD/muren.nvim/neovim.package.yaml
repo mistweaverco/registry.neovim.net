@@ -1,0 +1,8 @@
+name: AckslD/muren.nvim
+description: Multiple replacements through interactive UI.
+homepage: https://github.com/AckslD/muren.nvim
+repository: https://github.com/AckslD/muren.nvim
+license: unknown
+category: plugin
+tags:
+  - search

@@ -1,0 +1,8 @@
+name: cxwx/lazyUrlUpdate.nvim
+description: Update plugin under cursor bylazy.nvim.
+homepage: https://github.com/cxwx/lazyUrlUpdate.nvim
+repository: https://github.com/cxwx/lazyUrlUpdate.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

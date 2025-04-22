@@ -1,0 +1,8 @@
+name: lukas-reineke/lsp-format.nvim
+description: A wrapper around Neovims native LSP formatting.
+homepage: https://github.com/lukas-reineke/lsp-format.nvim
+repository: https://github.com/lukas-reineke/lsp-format.nvim
+license: unknown
+category: plugin
+tags:
+  - formatting

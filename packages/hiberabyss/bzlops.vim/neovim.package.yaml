@@ -1,0 +1,8 @@
+name: hiberabyss/bzlops.vim
+description: Help to manage your bazel build rule.
+homepage: https://github.com/hiberabyss/bzlops.vim
+repository: https://github.com/hiberabyss/bzlops.vim
+license: unknown
+category: plugin
+tags:
+  - editing-support

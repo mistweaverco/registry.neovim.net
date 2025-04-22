@@ -1,0 +1,8 @@
+name: ahmedkhalf/project.nvim
+description: An all in one Neovim plugin that provides superior project management.
+homepage: https://github.com/ahmedkhalf/project.nvim
+repository: https://github.com/ahmedkhalf/project.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - project

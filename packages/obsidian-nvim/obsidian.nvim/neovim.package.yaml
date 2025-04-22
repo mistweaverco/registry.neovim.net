@@ -1,0 +1,8 @@
+name: obsidian-nvim/obsidian.nvim
+description: Plugin for Obsidian, written in Lua.
+homepage: https://github.com/obsidian-nvim/obsidian.nvim
+repository: https://github.com/obsidian-nvim/obsidian.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - note-taking

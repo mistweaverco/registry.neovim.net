@@ -1,0 +1,8 @@
+name: alexmozaidze/palenight.nvim
+description: Palenight colorscheme supporting Tree-sitter, LSP(including semantic tokens)and lots of plugins.
+homepage: https://github.com/alexmozaidze/palenight.nvim
+repository: https://github.com/alexmozaidze/palenight.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

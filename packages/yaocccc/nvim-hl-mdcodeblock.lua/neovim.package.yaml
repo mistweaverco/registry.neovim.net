@@ -1,0 +1,9 @@
+name: yaocccc/nvim-hl-mdcodeblock.lua
+description: Highlight markdown codeblock using Tree-sitter.
+homepage: https://github.com/yaocccc/nvim-hl-mdcodeblock.lua
+repository: https://github.com/yaocccc/nvim-hl-mdcodeblock.lua
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

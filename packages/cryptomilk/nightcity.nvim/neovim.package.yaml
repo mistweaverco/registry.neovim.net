@@ -1,0 +1,8 @@
+name: cryptomilk/nightcity.nvim
+description: A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+homepage: https://github.com/cryptomilk/nightcity.nvim
+repository: https://github.com/cryptomilk/nightcity.nvim
+license: Apache-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

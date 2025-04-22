@@ -1,0 +1,9 @@
+name: gbprod/phpactor.nvim
+description: Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
+homepage: https://github.com/gbprod/phpactor.nvim
+repository: https://github.com/gbprod/phpactor.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - php

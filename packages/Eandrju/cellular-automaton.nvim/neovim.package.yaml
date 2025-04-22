@@ -1,0 +1,8 @@
+name: Eandrju/cellular-automaton.nvim
+description: It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
+homepage: https://github.com/Eandrju/cellular-automaton.nvim
+repository: https://github.com/Eandrju/cellular-automaton.nvim
+license: MIT
+category: plugin
+tags:
+  - game

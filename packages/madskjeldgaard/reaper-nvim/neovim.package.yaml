@@ -1,0 +1,8 @@
+name: madskjeldgaard/reaper-nvim
+description: Remote control Reaper DAW from Neovim.
+homepage: https://github.com/madskjeldgaard/reaper-nvim
+repository: https://github.com/madskjeldgaard/reaper-nvim
+license: unknown
+category: plugin
+tags:
+  - media

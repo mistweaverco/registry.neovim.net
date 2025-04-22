@@ -1,0 +1,8 @@
+name: aaronhallaert/advanced-git-search.nvim
+description: Search your Git history by commit content, message and author with Telescope.
+homepage: https://github.com/aaronhallaert/advanced-git-search.nvim
+repository: https://github.com/aaronhallaert/advanced-git-search.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - git

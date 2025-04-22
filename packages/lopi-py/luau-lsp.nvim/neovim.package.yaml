@@ -1,0 +1,9 @@
+name: lopi-py/luau-lsp.nvim
+description: A luau-lsp extension to improve your experience.
+homepage: https://github.com/lopi-py/luau-lsp.nvim
+repository: https://github.com/lopi-py/luau-lsp.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

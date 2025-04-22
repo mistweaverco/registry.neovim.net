@@ -1,0 +1,8 @@
+name: nvim-neorocks/rocks.nvim
+description: A modern approach to plugin management using Luarocks, inspired by Cargo.
+homepage: https://github.com/nvim-neorocks/rocks.nvim
+repository: https://github.com/nvim-neorocks/rocks.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - plugin-manager

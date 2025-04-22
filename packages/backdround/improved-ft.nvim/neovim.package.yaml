@@ -1,0 +1,8 @@
+name: backdround/improved-ft.nvim
+description: Improve defaultf/tabilities.
+homepage: https://github.com/backdround/improved-ft.nvim
+repository: https://github.com/backdround/improved-ft.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

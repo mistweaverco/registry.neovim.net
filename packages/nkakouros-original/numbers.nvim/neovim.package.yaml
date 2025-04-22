@@ -1,0 +1,8 @@
+name: nkakouros-original/numbers.nvim
+description: Toggle relativenumber whenever it makes sense.
+homepage: https://github.com/nkakouros-original/numbers.nvim
+repository: https://github.com/nkakouros-original/numbers.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

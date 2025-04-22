@@ -1,0 +1,8 @@
+name: mcauley-penney/visual-whitespace.nvim
+description: See whitespace characters in Visual selections, like VSCode.
+homepage: https://github.com/mcauley-penney/visual-whitespace.nvim
+repository: https://github.com/mcauley-penney/visual-whitespace.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: dinhhuy258/sfm.nvim
+description: An alternative to Nvim-tree designed to be extensible and minimalist.
+homepage: https://github.com/dinhhuy258/sfm.nvim
+repository: https://github.com/dinhhuy258/sfm.nvim
+license: unknown
+category: plugin
+tags:
+  - file-explorer

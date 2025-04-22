@@ -1,0 +1,9 @@
+name: m00qek/plugin-template.nvim
+description: A plugin template that setups test infrastructure and GitHub Actions.
+homepage: https://github.com/m00qek/plugin-template.nvim
+repository: https://github.com/m00qek/plugin-template.nvim
+license: unknown
+category: plugin
+tags:
+  - external
+  - boilerplate

@@ -1,0 +1,9 @@
+name: 2KAbhishek/template.nvim
+description: Opinionated template for starting plugin dev quickly.
+homepage: https://github.com/2KAbhishek/template.nvim
+repository: https://github.com/2KAbhishek/template.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - external
+  - boilerplate

@@ -1,0 +1,8 @@
+name: s1n7ax/nvim-search-and-replace
+description: Search and replace in multiple files at the same time from the current working directory.
+homepage: https://github.com/s1n7ax/nvim-search-and-replace
+repository: https://github.com/s1n7ax/nvim-search-and-replace
+license: MIT
+category: plugin
+tags:
+  - search

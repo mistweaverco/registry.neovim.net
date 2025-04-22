@@ -1,0 +1,9 @@
+name: danielpieper/telescope-tmuxinator.nvim
+description: Integration for tmuxinator with telescope.nvim.
+homepage: https://github.com/danielpieper/telescope-tmuxinator.nvim
+repository: https://github.com/danielpieper/telescope-tmuxinator.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window
+  - tmux

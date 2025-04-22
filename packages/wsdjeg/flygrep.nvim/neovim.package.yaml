@@ -1,0 +1,8 @@
+name: wsdjeg/flygrep.nvim
+description: Search text in a floating window asynchronously.
+homepage: https://github.com/wsdjeg/flygrep.nvim
+repository: https://github.com/wsdjeg/flygrep.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - search

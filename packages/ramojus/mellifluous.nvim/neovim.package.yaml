@@ -1,0 +1,8 @@
+name: ramojus/mellifluous.nvim
+description: Pleasant and productive colorscheme.
+homepage: https://github.com/ramojus/mellifluous.nvim
+repository: https://github.com/ramojus/mellifluous.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

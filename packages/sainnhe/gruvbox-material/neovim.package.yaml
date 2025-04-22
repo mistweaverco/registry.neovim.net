@@ -1,0 +1,8 @@
+name: sainnhe/gruvbox-material
+description: Gruvbox modification with softer contrast and Tree-sitter support.
+homepage: https://github.com/sainnhe/gruvbox-material
+repository: https://github.com/sainnhe/gruvbox-material
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

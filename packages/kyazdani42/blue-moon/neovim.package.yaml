@@ -1,0 +1,8 @@
+name: kyazdani42/blue-moon
+description: A dark color scheme derived from palenight and carbonight.
+homepage: https://github.com/kyazdani42/blue-moon
+repository: https://github.com/kyazdani42/blue-moon
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

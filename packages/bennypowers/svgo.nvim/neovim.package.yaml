@@ -1,0 +1,8 @@
+name: bennypowers/svgo.nvim
+description: Optimize SVG files.
+homepage: https://github.com/bennypowers/svgo.nvim
+repository: https://github.com/bennypowers/svgo.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting

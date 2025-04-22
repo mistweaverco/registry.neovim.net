@@ -1,0 +1,8 @@
+name: kiran94/s3edit.nvim
+description: Edit files from Amazon S3 directly from Neovim.
+homepage: https://github.com/kiran94/s3edit.nvim
+repository: https://github.com/kiran94/s3edit.nvim
+license: MIT
+category: plugin
+tags:
+  - file-explorer

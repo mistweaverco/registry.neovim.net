@@ -1,0 +1,8 @@
+name: MisanthropicBit/winmove.nvim
+description: Easily move, swap, and resize windows.
+homepage: https://github.com/MisanthropicBit/winmove.nvim
+repository: https://github.com/MisanthropicBit/winmove.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - split-and-window

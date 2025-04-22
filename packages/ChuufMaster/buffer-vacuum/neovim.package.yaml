@@ -1,0 +1,8 @@
+name: ChuufMaster/buffer-vacuum
+description: Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
+homepage: https://github.com/ChuufMaster/buffer-vacuum
+repository: https://github.com/ChuufMaster/buffer-vacuum
+license: MIT
+category: plugin
+tags:
+  - utility

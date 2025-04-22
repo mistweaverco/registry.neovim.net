@@ -1,0 +1,8 @@
+name: kazhala/close-buffers.nvim
+description: Delete multiple Vim buffers based on different conditions.
+homepage: https://github.com/kazhala/close-buffers.nvim
+repository: https://github.com/kazhala/close-buffers.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

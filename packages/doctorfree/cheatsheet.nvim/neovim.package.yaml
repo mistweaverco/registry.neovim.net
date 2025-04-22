@@ -1,0 +1,8 @@
+name: doctorfree/cheatsheet.nvim
+description: Searchable cheatsheet.
+homepage: https://github.com/doctorfree/cheatsheet.nvim
+repository: https://github.com/doctorfree/cheatsheet.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

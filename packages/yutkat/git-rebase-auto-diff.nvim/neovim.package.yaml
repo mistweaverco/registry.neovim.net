@@ -1,0 +1,8 @@
+name: yutkat/git-rebase-auto-diff.nvim
+description: Show diff automatically when Git rebase.
+homepage: https://github.com/yutkat/git-rebase-auto-diff.nvim
+repository: https://github.com/yutkat/git-rebase-auto-diff.nvim
+license: MIT
+category: plugin
+tags:
+  - git

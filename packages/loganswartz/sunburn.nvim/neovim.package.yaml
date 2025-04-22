@@ -1,0 +1,8 @@
+name: loganswartz/sunburn.nvim
+description: A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
+homepage: https://github.com/loganswartz/sunburn.nvim
+repository: https://github.com/loganswartz/sunburn.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: edluffy/hologram.nvim
+description: A cross platform terminal image viewer. Works on macOS and Linux.
+homepage: https://github.com/edluffy/hologram.nvim
+repository: https://github.com/edluffy/hologram.nvim
+license: MIT
+category: plugin
+tags:
+  - media

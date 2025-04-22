@@ -1,0 +1,8 @@
+name: mluders/comfy-line-numbers.nvim
+description: Limits relative numbers to only show left-hand digits on the keyboard.
+homepage: https://github.com/mluders/comfy-line-numbers.nvim
+repository: https://github.com/mluders/comfy-line-numbers.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

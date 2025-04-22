@@ -1,0 +1,8 @@
+name: johmsalas/text-case.nvim
+description: Text case changes via keybindings and custom substitute command with Telescope and LSP support.
+homepage: https://github.com/johmsalas/text-case.nvim
+repository: https://github.com/johmsalas/text-case.nvim
+license: unknown
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,9 @@
+name: LucasTavaresA/simpleIndentGuides.nvim
+description: Indentation guides using the builtin variables.
+homepage: https://github.com/LucasTavaresA/simpleIndentGuides.nvim
+repository: https://github.com/LucasTavaresA/simpleIndentGuides.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - formatting
+  - indent

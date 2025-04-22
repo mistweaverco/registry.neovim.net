@@ -1,0 +1,8 @@
+name: saifulapm/commasemi.nvim
+description: Toggle comma and semicolon.
+homepage: https://github.com/saifulapm/commasemi.nvim
+repository: https://github.com/saifulapm/commasemi.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

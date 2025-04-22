@@ -1,0 +1,8 @@
+name: utilyre/sentiment.nvim
+description: Enhanced matchparen.
+homepage: https://github.com/utilyre/sentiment.nvim
+repository: https://github.com/utilyre/sentiment.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

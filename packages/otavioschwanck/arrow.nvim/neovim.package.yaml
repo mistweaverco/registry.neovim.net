@@ -1,0 +1,8 @@
+name: otavioschwanck/arrow.nvim
+description: Like harpoon, but with a different UX, single keybinding needed and statusline support.
+homepage: https://github.com/otavioschwanck/arrow.nvim
+repository: https://github.com/otavioschwanck/arrow.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - marks

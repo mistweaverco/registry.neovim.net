@@ -1,0 +1,8 @@
+name: GnikDroy/projections.nvim
+description: Tiny project + session manager.
+homepage: https://github.com/GnikDroy/projections.nvim
+repository: https://github.com/GnikDroy/projections.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - project

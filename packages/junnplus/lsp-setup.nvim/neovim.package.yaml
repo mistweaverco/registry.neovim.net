@@ -1,0 +1,9 @@
+name: junnplus/lsp-setup.nvim
+description: A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+homepage: https://github.com/junnplus/lsp-setup.nvim
+repository: https://github.com/junnplus/lsp-setup.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

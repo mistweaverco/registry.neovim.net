@@ -1,0 +1,9 @@
+name: NTBBloodbath/nvenv
+description: A lightweight and blazing fast Neovim version manager.
+homepage: https://github.com/NTBBloodbath/nvenv
+repository: https://github.com/NTBBloodbath/nvenv
+license: MIT
+category: plugin
+tags:
+  - external
+  - version-manager

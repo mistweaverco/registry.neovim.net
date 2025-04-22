@@ -1,0 +1,8 @@
+name: Yazeed1s/oh-lucy.nvim
+description: Two Tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+homepage: https://github.com/Yazeed1s/oh-lucy.nvim
+repository: https://github.com/Yazeed1s/oh-lucy.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

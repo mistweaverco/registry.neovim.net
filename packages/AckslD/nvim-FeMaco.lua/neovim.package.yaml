@@ -1,0 +1,9 @@
+name: AckslD/nvim-FeMaco.lua
+description: Catalyze your Fenced Markdown Code-block editing.
+homepage: https://github.com/AckslD/nvim-FeMaco.lua
+repository: https://github.com/AckslD/nvim-FeMaco.lua
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

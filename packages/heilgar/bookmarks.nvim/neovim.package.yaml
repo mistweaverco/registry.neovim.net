@@ -1,0 +1,8 @@
+name: heilgar/bookmarks.nvim
+description: Manage line bookmarks with Telescope integration and SQLite storage.
+homepage: https://github.com/heilgar/bookmarks.nvim
+repository: https://github.com/heilgar/bookmarks.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

@@ -1,0 +1,8 @@
+name: niuiic/divider.nvim
+description: Custom code divider line.
+homepage: https://github.com/niuiic/divider.nvim
+repository: https://github.com/niuiic/divider.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

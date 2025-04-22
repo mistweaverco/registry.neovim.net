@@ -1,0 +1,8 @@
+name: rktjmp/lush.nvim
+description: Define Neovim themes as a DSL in Lua, with real-time feedback.
+homepage: https://github.com/rktjmp/lush.nvim
+repository: https://github.com/rktjmp/lush.nvim
+license: MIT
+category: colorscheme
+tags:
+  - colorscheme-creation

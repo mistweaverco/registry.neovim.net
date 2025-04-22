@@ -1,0 +1,8 @@
+name: nvim-tree/nvim-web-devicons
+description: A Lua fork ofvim-devicons.
+homepage: https://github.com/nvim-tree/nvim-web-devicons
+repository: https://github.com/nvim-tree/nvim-web-devicons
+license: MIT
+category: plugin
+tags:
+  - icon

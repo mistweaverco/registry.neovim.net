@@ -1,0 +1,9 @@
+name: dstein64/nvim-scrollview
+description: Display interactive scrollbars.
+homepage: https://github.com/dstein64/nvim-scrollview
+repository: https://github.com/dstein64/nvim-scrollview
+license: MIT
+category: plugin
+tags:
+  - scrolling
+  - scrollbar

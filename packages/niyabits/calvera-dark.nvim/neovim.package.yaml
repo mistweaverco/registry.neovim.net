@@ -1,0 +1,8 @@
+name: niyabits/calvera-dark.nvim
+description: A port ofVSCode Calvara DarkTheme to Neovim with Tree-sitter and many other plugins support.
+homepage: https://github.com/niyabits/calvera-dark.nvim
+repository: https://github.com/niyabits/calvera-dark.nvim
+license: GPL-2.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

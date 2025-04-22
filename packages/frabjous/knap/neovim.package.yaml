@@ -1,0 +1,9 @@
+name: frabjous/knap
+description: Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+homepage: https://github.com/frabjous/knap
+repository: https://github.com/frabjous/knap
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

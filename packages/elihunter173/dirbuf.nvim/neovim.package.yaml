@@ -1,0 +1,8 @@
+name: elihunter173/dirbuf.nvim
+description: A file manager which lets you edit your filesystem like you edit text.
+homepage: https://github.com/elihunter173/dirbuf.nvim
+repository: https://github.com/elihunter173/dirbuf.nvim
+license: AGPL-3.0
+category: plugin
+tags:
+  - file-explorer

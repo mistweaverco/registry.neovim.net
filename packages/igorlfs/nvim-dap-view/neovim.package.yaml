@@ -1,0 +1,8 @@
+name: igorlfs/nvim-dap-view
+description: A modern, minimalistic UI for nvim-dap.
+homepage: https://github.com/igorlfs/nvim-dap-view
+repository: https://github.com/igorlfs/nvim-dap-view
+license: MIT
+category: plugin
+tags:
+  - debugging

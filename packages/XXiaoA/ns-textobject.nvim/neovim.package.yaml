@@ -1,0 +1,8 @@
+name: XXiaoA/ns-textobject.nvim
+description: Awesome textobject plugin works with nvim-surround.
+homepage: https://github.com/XXiaoA/ns-textobject.nvim
+repository: https://github.com/XXiaoA/ns-textobject.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,9 @@
+name: mfussenegger/nvim-treehopper
+description: Region selection with hints on the AST nodes of a document powered by Tree-sitter.
+homepage: https://github.com/mfussenegger/nvim-treehopper
+repository: https://github.com/mfussenegger/nvim-treehopper
+license: GPL-3.0
+category: plugin
+tags:
+  - motion
+  - tree-sitter-based

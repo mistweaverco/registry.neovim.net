@@ -1,0 +1,8 @@
+name: rktjmp/hotpot.nvim
+description: Seamless, transparent Fennel inside Neovim.
+homepage: https://github.com/rktjmp/hotpot.nvim
+repository: https://github.com/rktjmp/hotpot.nvim
+license: MIT
+category: plugin
+tags:
+  - fennel

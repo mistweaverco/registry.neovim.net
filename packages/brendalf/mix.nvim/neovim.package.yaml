@@ -1,0 +1,8 @@
+name: brendalf/mix.nvim
+description: Mix (from Elixir) wrapper plugin.
+homepage: https://github.com/brendalf/mix.nvim
+repository: https://github.com/brendalf/mix.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support

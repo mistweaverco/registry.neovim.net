@@ -1,0 +1,8 @@
+name: azratul/live-share.nvim
+description: Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+homepage: https://github.com/azratul/live-share.nvim
+repository: https://github.com/azratul/live-share.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - remote-development

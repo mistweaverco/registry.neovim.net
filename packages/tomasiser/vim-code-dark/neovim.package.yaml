@@ -1,0 +1,8 @@
+name: tomasiser/vim-code-dark
+description: A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
+homepage: https://github.com/tomasiser/vim-code-dark
+repository: https://github.com/tomasiser/vim-code-dark
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

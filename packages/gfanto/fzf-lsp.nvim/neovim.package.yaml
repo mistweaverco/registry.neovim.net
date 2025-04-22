@@ -1,0 +1,9 @@
+name: gfanto/fzf-lsp.nvim
+description: Enable the power of FZF fuzzy search for the Neovim built in LSP.
+homepage: https://github.com/gfanto/fzf-lsp.nvim
+repository: https://github.com/gfanto/fzf-lsp.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

@@ -1,0 +1,8 @@
+name: gsuuon/tshjkl.nvim
+description: Toggle to navigate and select Tree-sitter nodes with hjkl.
+homepage: https://github.com/gsuuon/tshjkl.nvim
+repository: https://github.com/gsuuon/tshjkl.nvim
+license: unknown
+category: plugin
+tags:
+  - motion

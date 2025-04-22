@@ -1,0 +1,8 @@
+name: utilyre/barbecue.nvim
+description: A VS Code like winbar.
+homepage: https://github.com/utilyre/barbecue.nvim
+repository: https://github.com/utilyre/barbecue.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

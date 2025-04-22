@@ -1,0 +1,8 @@
+name: NormalNvim/NormalNvim
+description: Focused on stability for your daily work. From the creator of Compiler.nvim.
+homepage: https://github.com/NormalNvim/NormalNvim
+repository: https://github.com/NormalNvim/NormalNvim
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

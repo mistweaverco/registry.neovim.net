@@ -1,0 +1,8 @@
+name: nvim-lua/kickstart.nvim
+description: A launch point for your personal Neovim configuration.
+homepage: https://github.com/nvim-lua/kickstart.nvim
+repository: https://github.com/nvim-lua/kickstart.nvim
+license: MIT
+category: plugin
+tags:
+  - preconfigured-configuration

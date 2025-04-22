@@ -1,0 +1,9 @@
+name: claydugo/browsher.nvim
+description: Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+homepage: https://github.com/claydugo/browsher.nvim
+repository: https://github.com/claydugo/browsher.nvim
+license: unknown
+category: plugin
+tags:
+  - git
+  - github

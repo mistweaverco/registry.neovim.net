@@ -1,0 +1,8 @@
+name: lewis6991/pckr.nvim
+description: Spiritual successor ofwbthomason/packer.nvim.
+homepage: https://github.com/lewis6991/pckr.nvim
+repository: https://github.com/lewis6991/pckr.nvim
+license: MIT
+category: plugin
+tags:
+  - plugin-manager

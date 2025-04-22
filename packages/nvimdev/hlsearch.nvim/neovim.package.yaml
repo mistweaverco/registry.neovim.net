@@ -1,0 +1,8 @@
+name: nvimdev/hlsearch.nvim
+description: Auto remove search highlight and rehighlight when using n or N.
+homepage: https://github.com/nvimdev/hlsearch.nvim
+repository: https://github.com/nvimdev/hlsearch.nvim
+license: MIT
+category: plugin
+tags:
+  - search

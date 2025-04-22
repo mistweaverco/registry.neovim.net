@@ -1,0 +1,9 @@
+name: azratul/expose-localhost.nvim
+description: Expose your local server to the internet with cloudflared or ngrok.
+homepage: https://github.com/azratul/expose-localhost.nvim
+repository: https://github.com/azratul/expose-localhost.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

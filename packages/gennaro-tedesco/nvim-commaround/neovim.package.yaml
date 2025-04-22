@@ -1,0 +1,9 @@
+name: gennaro-tedesco/nvim-commaround
+description: Fast and light commenting plugin written in Lua.
+homepage: https://github.com/gennaro-tedesco/nvim-commaround
+repository: https://github.com/gennaro-tedesco/nvim-commaround
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

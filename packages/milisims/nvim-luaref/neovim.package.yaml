@@ -1,0 +1,8 @@
+name: milisims/nvim-luaref
+description: A reference for builtin Lua functions.
+homepage: https://github.com/milisims/nvim-luaref
+repository: https://github.com/milisims/nvim-luaref
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

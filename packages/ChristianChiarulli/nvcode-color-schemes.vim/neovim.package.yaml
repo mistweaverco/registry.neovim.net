@@ -1,0 +1,8 @@
+name: ChristianChiarulli/nvcode-color-schemes.vim
+description: Nvcode, onedark, nord colorschemes with Tree-sitter support.
+homepage: https://github.com/ChristianChiarulli/nvcode-color-schemes.vim
+repository: https://github.com/ChristianChiarulli/nvcode-color-schemes.vim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

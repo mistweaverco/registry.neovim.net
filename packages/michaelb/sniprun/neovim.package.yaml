@@ -1,0 +1,8 @@
+name: michaelb/sniprun
+description: Run parts of code of any language directly from Neovim.
+homepage: https://github.com/michaelb/sniprun
+repository: https://github.com/michaelb/sniprun
+license: MIT
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,9 @@
+name: jmbuhr/otter.nvim
+description: Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+homepage: https://github.com/jmbuhr/otter.nvim
+repository: https://github.com/jmbuhr/otter.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

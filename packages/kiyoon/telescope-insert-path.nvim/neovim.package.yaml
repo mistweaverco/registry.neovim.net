@@ -1,0 +1,8 @@
+name: kiyoon/telescope-insert-path.nvim
+description: Insert file path in the current buffer using Telescope.
+homepage: https://github.com/kiyoon/telescope-insert-path.nvim
+repository: https://github.com/kiyoon/telescope-insert-path.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

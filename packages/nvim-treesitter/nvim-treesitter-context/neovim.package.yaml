@@ -1,0 +1,8 @@
+name: nvim-treesitter/nvim-treesitter-context
+description: Shows floating hover with the current function/block context.
+homepage: https://github.com/nvim-treesitter/nvim-treesitter-context
+repository: https://github.com/nvim-treesitter/nvim-treesitter-context
+license: MIT
+category: plugin
+tags:
+  - editing-support

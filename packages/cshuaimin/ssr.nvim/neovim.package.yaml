@@ -1,0 +1,8 @@
+name: cshuaimin/ssr.nvim
+description: Tree-sitter based structural search and replace.
+homepage: https://github.com/cshuaimin/ssr.nvim
+repository: https://github.com/cshuaimin/ssr.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

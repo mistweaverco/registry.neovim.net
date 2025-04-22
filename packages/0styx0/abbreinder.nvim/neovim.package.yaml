@@ -1,0 +1,8 @@
+name: 0styx0/abbreinder.nvim
+description: Abbreviation reminders (Neovim >= 0.5).
+homepage: https://github.com/0styx0/abbreinder.nvim
+repository: https://github.com/0styx0/abbreinder.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

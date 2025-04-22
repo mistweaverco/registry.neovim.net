@@ -1,0 +1,8 @@
+name: Wansmer/binary-swap.nvim
+description: 'Swapping operands and operators in binary expressions: comparison and mathematical operations.'
+homepage: https://github.com/Wansmer/binary-swap.nvim
+repository: https://github.com/Wansmer/binary-swap.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

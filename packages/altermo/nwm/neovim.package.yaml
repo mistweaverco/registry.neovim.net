@@ -1,0 +1,8 @@
+name: altermo/nwm
+description: X11 window manager.
+homepage: https://github.com/altermo/nwm
+repository: https://github.com/altermo/nwm
+license: MIT
+category: plugin
+tags:
+  - split-and-window

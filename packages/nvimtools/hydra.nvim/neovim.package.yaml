@@ -1,0 +1,8 @@
+name: nvimtools/hydra.nvim
+description: Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+homepage: https://github.com/nvimtools/hydra.nvim
+repository: https://github.com/nvimtools/hydra.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

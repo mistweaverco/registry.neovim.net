@@ -1,0 +1,8 @@
+name: Robitx/gp.nvim
+description: ChatGPT like sessions and instructable text/code operations in your favorite editor.
+homepage: https://github.com/Robitx/gp.nvim
+repository: https://github.com/Robitx/gp.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

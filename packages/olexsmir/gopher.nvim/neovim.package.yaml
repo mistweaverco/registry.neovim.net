@@ -1,0 +1,9 @@
+name: olexsmir/gopher.nvim
+description: Plugin for making Golang development easiest.
+homepage: https://github.com/olexsmir/gopher.nvim
+repository: https://github.com/olexsmir/gopher.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

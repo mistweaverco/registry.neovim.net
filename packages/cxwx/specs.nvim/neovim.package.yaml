@@ -1,0 +1,8 @@
+name: cxwx/specs.nvim
+description: A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+homepage: https://github.com/cxwx/specs.nvim
+repository: https://github.com/cxwx/specs.nvim
+license: unknown
+category: plugin
+tags:
+  - motion

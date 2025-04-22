@@ -1,0 +1,9 @@
+name: hkupty/nvimux
+description: Neovim as tmux replacement.
+homepage: https://github.com/hkupty/nvimux
+repository: https://github.com/hkupty/nvimux
+license: Apache-2.0
+category: plugin
+tags:
+  - split-and-window
+  - tmux

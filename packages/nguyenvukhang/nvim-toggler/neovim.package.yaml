@@ -1,0 +1,8 @@
+name: nguyenvukhang/nvim-toggler
+description: Invert text, such as toggling betweentrueandfalse.
+homepage: https://github.com/nguyenvukhang/nvim-toggler
+repository: https://github.com/nguyenvukhang/nvim-toggler
+license: MIT
+category: plugin
+tags:
+  - utility

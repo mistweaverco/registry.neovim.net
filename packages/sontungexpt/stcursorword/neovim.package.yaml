@@ -1,0 +1,9 @@
+name: sontungexpt/stcursorword
+description: Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+homepage: https://github.com/sontungexpt/stcursorword
+repository: https://github.com/sontungexpt/stcursorword
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

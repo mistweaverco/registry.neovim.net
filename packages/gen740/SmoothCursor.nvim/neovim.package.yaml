@@ -1,0 +1,8 @@
+name: gen740/SmoothCursor.nvim
+description: Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+homepage: https://github.com/gen740/SmoothCursor.nvim
+repository: https://github.com/gen740/SmoothCursor.nvim
+license: MIT
+category: plugin
+tags:
+  - motion

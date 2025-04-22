@@ -1,0 +1,8 @@
+name: nvim-zh/colorful-winsep.nvim
+description: A configurable color split line.
+homepage: https://github.com/nvim-zh/colorful-winsep.nvim
+repository: https://github.com/nvim-zh/colorful-winsep.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

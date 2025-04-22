@@ -1,0 +1,10 @@
+name: sontungexpt/better-diagnostic-virtual-text
+description: Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
+homepage: https://github.com/sontungexpt/better-diagnostic-virtual-text
+repository: https://github.com/sontungexpt/better-diagnostic-virtual-text
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

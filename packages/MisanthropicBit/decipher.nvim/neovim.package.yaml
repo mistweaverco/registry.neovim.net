@@ -1,0 +1,8 @@
+name: MisanthropicBit/decipher.nvim
+description: Encode and decode text using various codecs such as base64.
+homepage: https://github.com/MisanthropicBit/decipher.nvim
+repository: https://github.com/MisanthropicBit/decipher.nvim
+license: BSD-3-Clause
+category: plugin
+tags:
+  - utility

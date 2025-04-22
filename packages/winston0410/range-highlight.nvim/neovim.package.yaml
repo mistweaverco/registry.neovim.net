@@ -1,0 +1,8 @@
+name: winston0410/range-highlight.nvim
+description: An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
+homepage: https://github.com/winston0410/range-highlight.nvim
+repository: https://github.com/winston0410/range-highlight.nvim
+license: MIT
+category: plugin
+tags:
+  - color

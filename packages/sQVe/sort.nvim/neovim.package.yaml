@@ -1,0 +1,8 @@
+name: sQVe/sort.nvim
+description: Sorting plugin that intelligently supports line-wise and delimiter sorting.
+homepage: https://github.com/sQVe/sort.nvim
+repository: https://github.com/sQVe/sort.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: smjonas/live-command.nvim
+description: 'Text editing with immediate visual feedback: preview commands such as:norm,:g, macros and more.'
+homepage: https://github.com/smjonas/live-command.nvim
+repository: https://github.com/smjonas/live-command.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

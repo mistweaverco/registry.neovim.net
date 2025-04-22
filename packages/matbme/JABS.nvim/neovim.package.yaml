@@ -1,0 +1,8 @@
+name: matbme/JABS.nvim
+description: Pretty and minimal buffer switcher window.
+homepage: https://github.com/matbme/JABS.nvim
+repository: https://github.com/matbme/JABS.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: mawkler/demicolon.nvim
+description: Use;and,keys to also repeat jumps to diagnostics (e.g.]d) and tonvim-treesitter-textobjects(e.g.]f), in addition to repeatingt/T/f/F.
+homepage: https://github.com/mawkler/demicolon.nvim
+repository: https://github.com/mawkler/demicolon.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

@@ -1,0 +1,9 @@
+name: mikesmithgh/git-prompt-string-lualine.nvim
+description: Add git-prompt-string to your statusline.
+homepage: https://github.com/mikesmithgh/git-prompt-string-lualine.nvim
+repository: https://github.com/mikesmithgh/git-prompt-string-lualine.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

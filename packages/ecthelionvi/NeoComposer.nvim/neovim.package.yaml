@@ -1,0 +1,8 @@
+name: ecthelionvi/NeoComposer.nvim
+description: Simplify macro management, enhance productivity, and create harmonious workflows.
+homepage: https://github.com/ecthelionvi/NeoComposer.nvim
+repository: https://github.com/ecthelionvi/NeoComposer.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

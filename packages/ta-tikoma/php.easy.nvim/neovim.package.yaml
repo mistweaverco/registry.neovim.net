@@ -1,0 +1,9 @@
+name: ta-tikoma/php.easy.nvim
+description: 'Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.'
+homepage: https://github.com/ta-tikoma/php.easy.nvim
+repository: https://github.com/ta-tikoma/php.easy.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - php

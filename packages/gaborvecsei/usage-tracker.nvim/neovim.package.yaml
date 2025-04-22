@@ -1,0 +1,8 @@
+name: gaborvecsei/usage-tracker.nvim
+description: Track your Neovim usage and visualize statistics easily.
+homepage: https://github.com/gaborvecsei/usage-tracker.nvim
+repository: https://github.com/gaborvecsei/usage-tracker.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

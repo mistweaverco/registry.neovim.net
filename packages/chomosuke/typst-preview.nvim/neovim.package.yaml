@@ -1,0 +1,8 @@
+name: chomosuke/typst-preview.nvim
+description: Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
+homepage: https://github.com/chomosuke/typst-preview.nvim
+repository: https://github.com/chomosuke/typst-preview.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support

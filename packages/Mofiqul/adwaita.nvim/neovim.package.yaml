@@ -1,0 +1,8 @@
+name: Mofiqul/adwaita.nvim
+description: Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+homepage: https://github.com/Mofiqul/adwaita.nvim
+repository: https://github.com/Mofiqul/adwaita.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

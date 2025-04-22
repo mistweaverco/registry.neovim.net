@@ -1,0 +1,8 @@
+name: kevinhwang91/nvim-hlslens
+description: Helps you better glance searched information, seamlessly jump matched instances.
+homepage: https://github.com/kevinhwang91/nvim-hlslens
+repository: https://github.com/kevinhwang91/nvim-hlslens
+license: BSD-3-Clause
+category: plugin
+tags:
+  - search

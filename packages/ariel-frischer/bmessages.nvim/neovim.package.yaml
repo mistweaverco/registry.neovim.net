@@ -1,0 +1,8 @@
+name: ariel-frischer/bmessages.nvim
+description: Replace the default :messages window with a configurable, auto-updating buffer.
+homepage: https://github.com/ariel-frischer/bmessages.nvim
+repository: https://github.com/ariel-frischer/bmessages.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,9 @@
+name: kiyoon/treesitter-indent-object.nvim
+description: Context-aware indent textobject powered by Tree-sitter.
+homepage: https://github.com/kiyoon/treesitter-indent-object.nvim
+repository: https://github.com/kiyoon/treesitter-indent-object.nvim
+license: MIT
+category: plugin
+tags:
+  - motion
+  - tree-sitter-based

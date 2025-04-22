@@ -1,0 +1,9 @@
+name: alvarosevilla95/luatab.nvim
+description: A simple tabline written in Lua.
+homepage: https://github.com/alvarosevilla95/luatab.nvim
+repository: https://github.com/alvarosevilla95/luatab.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

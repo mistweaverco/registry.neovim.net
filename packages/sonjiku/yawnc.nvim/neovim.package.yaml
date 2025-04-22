@@ -1,0 +1,8 @@
+name: sonjiku/yawnc.nvim
+description: Theming using pywal, with a Base16 twist.
+homepage: https://github.com/sonjiku/yawnc.nvim
+repository: https://github.com/sonjiku/yawnc.nvim
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

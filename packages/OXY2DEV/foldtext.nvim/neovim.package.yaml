@@ -1,0 +1,8 @@
+name: OXY2DEV/foldtext.nvim
+description: Dynamic & stylized foldtext.
+homepage: https://github.com/OXY2DEV/foldtext.nvim
+repository: https://github.com/OXY2DEV/foldtext.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - editing-support

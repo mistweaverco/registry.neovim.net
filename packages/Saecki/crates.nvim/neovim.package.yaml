@@ -1,0 +1,8 @@
+name: Saecki/crates.nvim
+description: Rust dependency management forCargo.toml.
+homepage: https://github.com/Saecki/crates.nvim
+repository: https://github.com/Saecki/crates.nvim
+license: MIT
+category: plugin
+tags:
+  - dependency-management

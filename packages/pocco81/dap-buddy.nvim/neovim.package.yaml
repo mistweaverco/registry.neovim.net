@@ -1,0 +1,8 @@
+name: pocco81/dap-buddy.nvim
+description: Manage several debuggers for nvim-dap.
+homepage: https://github.com/pocco81/dap-buddy.nvim
+repository: https://github.com/pocco81/dap-buddy.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - debugging

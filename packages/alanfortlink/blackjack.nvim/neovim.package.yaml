@@ -1,0 +1,8 @@
+name: alanfortlink/blackjack.nvim
+description: Classic Black Jack game.
+homepage: https://github.com/alanfortlink/blackjack.nvim
+repository: https://github.com/alanfortlink/blackjack.nvim
+license: MIT
+category: plugin
+tags:
+  - game

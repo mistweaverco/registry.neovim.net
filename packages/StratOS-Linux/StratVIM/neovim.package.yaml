@@ -1,0 +1,8 @@
+name: StratOS-Linux/StratVIM
+description: A full-fledged Neovim distribution included by default inStratOS, an upcoming Arch-based Linux distro.
+homepage: https://github.com/StratOS-Linux/StratVIM
+repository: https://github.com/StratOS-Linux/StratVIM
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

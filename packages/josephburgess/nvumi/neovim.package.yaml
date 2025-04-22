@@ -1,0 +1,8 @@
+name: josephburgess/nvumi
+description: Natural language calculator in a scratch buffer.
+homepage: https://github.com/josephburgess/nvumi
+repository: https://github.com/josephburgess/nvumi
+license: unknown
+category: plugin
+tags:
+  - utility

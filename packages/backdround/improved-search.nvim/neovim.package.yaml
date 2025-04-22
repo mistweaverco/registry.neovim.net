@@ -1,0 +1,8 @@
+name: backdround/improved-search.nvim
+description: Add search abilities.
+homepage: https://github.com/backdround/improved-search.nvim
+repository: https://github.com/backdround/improved-search.nvim
+license: MIT
+category: plugin
+tags:
+  - search

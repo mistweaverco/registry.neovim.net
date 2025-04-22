@@ -1,0 +1,9 @@
+name: rest-nvim/rest.nvim
+description: A fast Neovim HTTP client written in Lua.
+homepage: https://github.com/rest-nvim/rest.nvim
+repository: https://github.com/rest-nvim/rest.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

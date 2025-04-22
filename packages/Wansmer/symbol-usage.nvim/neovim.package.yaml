@@ -1,0 +1,9 @@
+name: Wansmer/symbol-usage.nvim
+description: Display references, definitions and implementations of document symbols.
+homepage: https://github.com/Wansmer/symbol-usage.nvim
+repository: https://github.com/Wansmer/symbol-usage.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

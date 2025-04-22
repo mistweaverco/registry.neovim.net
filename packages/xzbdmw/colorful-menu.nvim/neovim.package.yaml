@@ -1,0 +1,8 @@
+name: xzbdmw/colorful-menu.nvim
+description: Colorize your auto completion menu using Tree-sitter.
+homepage: https://github.com/xzbdmw/colorful-menu.nvim
+repository: https://github.com/xzbdmw/colorful-menu.nvim
+license: MIT
+category: plugin
+tags:
+  - color

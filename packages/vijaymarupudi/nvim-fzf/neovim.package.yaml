@@ -1,0 +1,8 @@
+name: vijaymarupudi/nvim-fzf
+description: A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+homepage: https://github.com/vijaymarupudi/nvim-fzf
+repository: https://github.com/vijaymarupudi/nvim-fzf
+license: MIT
+category: plugin
+tags:
+  - fuzzy-finder

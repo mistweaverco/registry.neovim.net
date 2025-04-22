@@ -1,0 +1,9 @@
+name: jinzhongjia/LspUI.nvim
+description: A modern and useful UI that wraps LSP operations.
+homepage: https://github.com/jinzhongjia/LspUI.nvim
+repository: https://github.com/jinzhongjia/LspUI.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

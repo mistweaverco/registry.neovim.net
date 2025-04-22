@@ -1,0 +1,8 @@
+name: niuiic/todo.nvim
+description: Simple but powerful todo manager based on text.
+homepage: https://github.com/niuiic/todo.nvim
+repository: https://github.com/niuiic/todo.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

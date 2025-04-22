@@ -1,0 +1,9 @@
+name: karshPrime/tmux-compile.nvim
+description: Set up same key, like F5, to run any compile/run command per language, likemakefor C andcargo buildfor Rust, and have the project run or compile in a new tmux pane or window.
+homepage: https://github.com/karshPrime/tmux-compile.nvim
+repository: https://github.com/karshPrime/tmux-compile.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - split-and-window
+  - tmux

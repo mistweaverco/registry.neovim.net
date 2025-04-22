@@ -1,0 +1,8 @@
+name: tomasky/bookmarks.nvim
+description: Bookmarks with global file storage, written in Lua.
+homepage: https://github.com/tomasky/bookmarks.nvim
+repository: https://github.com/tomasky/bookmarks.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

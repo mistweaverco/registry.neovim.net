@@ -1,0 +1,9 @@
+name: akinsho/bufferline.nvim
+description: A snazzy buffer line built using Lua.
+homepage: https://github.com/akinsho/bufferline.nvim
+repository: https://github.com/akinsho/bufferline.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

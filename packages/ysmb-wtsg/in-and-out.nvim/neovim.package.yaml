@@ -1,0 +1,8 @@
+name: ysmb-wtsg/in-and-out.nvim
+description: Quick navigation in and out of surrounding characters.
+homepage: https://github.com/ysmb-wtsg/in-and-out.nvim
+repository: https://github.com/ysmb-wtsg/in-and-out.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

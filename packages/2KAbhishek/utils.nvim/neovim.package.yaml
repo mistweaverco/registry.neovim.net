@@ -1,0 +1,8 @@
+name: 2KAbhishek/utils.nvim
+description: Powerful utilities to speed up plugin development.
+homepage: https://github.com/2KAbhishek/utils.nvim
+repository: https://github.com/2KAbhishek/utils.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - neovim-lua-development

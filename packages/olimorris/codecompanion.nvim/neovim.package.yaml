@@ -1,0 +1,8 @@
+name: olimorris/codecompanion.nvim
+description: Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
+homepage: https://github.com/olimorris/codecompanion.nvim
+repository: https://github.com/olimorris/codecompanion.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

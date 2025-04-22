@@ -1,0 +1,9 @@
+name: vxpm/ferris.nvim
+description: Interact with Rust-Analyzer's LSP extensions.
+homepage: https://github.com/vxpm/ferris.nvim
+repository: https://github.com/vxpm/ferris.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

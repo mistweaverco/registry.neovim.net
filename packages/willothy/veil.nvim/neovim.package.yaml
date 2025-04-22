@@ -1,0 +1,8 @@
+name: willothy/veil.nvim
+description: A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
+homepage: https://github.com/willothy/veil.nvim
+repository: https://github.com/willothy/veil.nvim
+license: unknown
+category: plugin
+tags:
+  - startup

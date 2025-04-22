@@ -1,0 +1,8 @@
+name: zongben/proot.nvim
+description: Lightweight project navigator with telescope.
+homepage: https://github.com/zongben/proot.nvim
+repository: https://github.com/zongben/proot.nvim
+license: MIT
+category: plugin
+tags:
+  - project

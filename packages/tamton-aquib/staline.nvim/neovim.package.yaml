@@ -1,0 +1,9 @@
+name: tamton-aquib/staline.nvim
+description: A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
+homepage: https://github.com/tamton-aquib/staline.nvim
+repository: https://github.com/tamton-aquib/staline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

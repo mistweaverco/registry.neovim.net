@@ -1,0 +1,8 @@
+name: aPeoplesCalendar/apc.nvim
+description: '"On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.'
+homepage: https://github.com/aPeoplesCalendar/apc.nvim
+repository: https://github.com/aPeoplesCalendar/apc.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

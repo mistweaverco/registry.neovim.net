@@ -1,0 +1,8 @@
+name: andersevenrud/nvim_context_vt
+description: Shows virtual text of the current context.
+homepage: https://github.com/andersevenrud/nvim_context_vt
+repository: https://github.com/andersevenrud/nvim_context_vt
+license: MIT
+category: plugin
+tags:
+  - editing-support

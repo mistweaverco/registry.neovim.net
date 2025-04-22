@@ -1,0 +1,8 @@
+name: laktak/tome
+description: Interactive Script playbooks for your terminal (optionally with Tmux).
+homepage: https://github.com/laktak/tome
+repository: https://github.com/laktak/tome
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

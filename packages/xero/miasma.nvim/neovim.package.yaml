@@ -1,0 +1,8 @@
+name: xero/miasma.nvim
+description: A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+homepage: https://github.com/xero/miasma.nvim
+repository: https://github.com/xero/miasma.nvim
+license: CC0-1.0
+category: colorscheme
+tags:
+  - treesitter-colorschemes

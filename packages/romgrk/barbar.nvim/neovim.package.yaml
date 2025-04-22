@@ -1,0 +1,9 @@
+name: romgrk/barbar.nvim
+description: The Neovim tabline plugin.
+homepage: https://github.com/romgrk/barbar.nvim
+repository: https://github.com/romgrk/barbar.nvim
+license: unknown
+category: plugin
+tags:
+  - bars-and-lines
+  - tabline

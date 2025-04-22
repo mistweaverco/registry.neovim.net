@@ -1,0 +1,8 @@
+name: tversteeg/registers.nvim
+description: Non-obtrusive minimal preview of Vim registers.
+homepage: https://github.com/tversteeg/registers.nvim
+repository: https://github.com/tversteeg/registers.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - register

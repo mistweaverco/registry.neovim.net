@@ -1,0 +1,8 @@
+name: francescarpi/buffon.nvim
+description: Buffers navigation, reorganize and close.
+homepage: https://github.com/francescarpi/buffon.nvim
+repository: https://github.com/francescarpi/buffon.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

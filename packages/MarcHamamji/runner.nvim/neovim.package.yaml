@@ -1,0 +1,8 @@
+name: MarcHamamji/runner.nvim
+description: A customizable Lua code runner.
+homepage: https://github.com/MarcHamamji/runner.nvim
+repository: https://github.com/MarcHamamji/runner.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,9 @@
+name: MordechaiHadad/bob
+description: A cross platform and easy to use Neovim version manager.
+homepage: https://github.com/MordechaiHadad/bob
+repository: https://github.com/MordechaiHadad/bob
+license: MIT
+category: plugin
+tags:
+  - external
+  - version-manager

@@ -1,0 +1,9 @@
+name: SmiteshP/nvim-navbuddy
+description: A simple popup display that provides breadcrumbs like navigation features using LSP.
+homepage: https://github.com/SmiteshP/nvim-navbuddy
+repository: https://github.com/SmiteshP/nvim-navbuddy
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

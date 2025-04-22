@@ -1,0 +1,8 @@
+name: neko-night/nvim
+description: A buffet of colorschemes for every taste and mood.
+homepage: https://github.com/neko-night/nvim
+repository: https://github.com/neko-night/nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

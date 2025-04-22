@@ -1,0 +1,9 @@
+name: heilgar/nvim-http-client
+description: Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility.
+homepage: https://github.com/heilgar/nvim-http-client
+repository: https://github.com/heilgar/nvim-http-client
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - web-development

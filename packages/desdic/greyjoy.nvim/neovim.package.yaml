@@ -1,0 +1,8 @@
+name: desdic/greyjoy.nvim
+description: A modular task runner for Makefiles, vscode tasks, kitchen etc.
+homepage: https://github.com/desdic/greyjoy.nvim
+repository: https://github.com/desdic/greyjoy.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

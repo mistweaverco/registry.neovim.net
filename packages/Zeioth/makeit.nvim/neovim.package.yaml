@@ -1,0 +1,8 @@
+name: Zeioth/makeit.nvim
+description: Makefile runner based on overseer.
+homepage: https://github.com/Zeioth/makeit.nvim
+repository: https://github.com/Zeioth/makeit.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

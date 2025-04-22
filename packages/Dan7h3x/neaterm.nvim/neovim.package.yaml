@@ -1,0 +1,8 @@
+name: Dan7h3x/neaterm.nvim
+description: A little smart terminal/REPL manager with awesome features.
+homepage: https://github.com/Dan7h3x/neaterm.nvim
+repository: https://github.com/Dan7h3x/neaterm.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - terminal-integration

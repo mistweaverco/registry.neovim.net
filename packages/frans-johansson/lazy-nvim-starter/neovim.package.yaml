@@ -1,0 +1,8 @@
+name: frans-johansson/lazy-nvim-starter
+description: Starter boilerplate with lazy plugin manager.
+homepage: https://github.com/frans-johansson/lazy-nvim-starter
+repository: https://github.com/frans-johansson/lazy-nvim-starter
+license: MIT
+category: plugin
+tags:
+  - starter-templates

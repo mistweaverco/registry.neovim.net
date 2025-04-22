@@ -1,0 +1,8 @@
+name: nacro90/numb.nvim
+description: Peek lines in a non-obtrusive way.
+homepage: https://github.com/nacro90/numb.nvim
+repository: https://github.com/nacro90/numb.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

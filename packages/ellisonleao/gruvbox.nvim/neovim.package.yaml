@@ -1,0 +1,8 @@
+name: ellisonleao/gruvbox.nvim
+description: Gruvbox community colorscheme Lua port.
+homepage: https://github.com/ellisonleao/gruvbox.nvim
+repository: https://github.com/ellisonleao/gruvbox.nvim
+license: MIT
+category: colorscheme
+tags:
+  - lua-colorscheme

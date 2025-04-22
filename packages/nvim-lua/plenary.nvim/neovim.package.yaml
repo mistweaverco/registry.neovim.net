@@ -1,0 +1,8 @@
+name: nvim-lua/plenary.nvim
+description: 'Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don''t want to write twice.'
+homepage: https://github.com/nvim-lua/plenary.nvim
+repository: https://github.com/nvim-lua/plenary.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

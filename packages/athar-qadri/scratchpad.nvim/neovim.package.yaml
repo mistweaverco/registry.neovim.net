@@ -1,0 +1,8 @@
+name: athar-qadri/scratchpad.nvim
+description: Effortlessly manage scratchpads within your favorite editor.
+homepage: https://github.com/athar-qadri/scratchpad.nvim
+repository: https://github.com/athar-qadri/scratchpad.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

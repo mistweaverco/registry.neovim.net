@@ -1,0 +1,8 @@
+name: rktjmp/playtime.nvim
+description: A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+homepage: https://github.com/rktjmp/playtime.nvim
+repository: https://github.com/rktjmp/playtime.nvim
+license: MIT
+category: plugin
+tags:
+  - game

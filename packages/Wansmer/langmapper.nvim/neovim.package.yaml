@@ -1,0 +1,8 @@
+name: Wansmer/langmapper.nvim
+description: Auto translating your mappings for non-English input methods.
+homepage: https://github.com/Wansmer/langmapper.nvim
+repository: https://github.com/Wansmer/langmapper.nvim
+license: MIT
+category: plugin
+tags:
+  - keybinding

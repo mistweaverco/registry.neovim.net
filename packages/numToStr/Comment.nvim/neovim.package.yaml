@@ -1,0 +1,9 @@
+name: numToStr/Comment.nvim
+description: Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
+homepage: https://github.com/numToStr/Comment.nvim
+repository: https://github.com/numToStr/Comment.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

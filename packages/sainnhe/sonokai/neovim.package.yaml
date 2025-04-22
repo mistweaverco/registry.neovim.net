@@ -1,0 +1,8 @@
+name: sainnhe/sonokai
+description: High Contrast & Vivid Color Scheme based on Monokai Pro.
+homepage: https://github.com/sainnhe/sonokai
+repository: https://github.com/sainnhe/sonokai
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

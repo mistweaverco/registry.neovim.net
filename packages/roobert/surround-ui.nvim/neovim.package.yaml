@@ -1,0 +1,8 @@
+name: roobert/surround-ui.nvim
+description: Helper or training aid for kylechui/nvim-surround.
+homepage: https://github.com/roobert/surround-ui.nvim
+repository: https://github.com/roobert/surround-ui.nvim
+license: unknown
+category: plugin
+tags:
+  - syntax

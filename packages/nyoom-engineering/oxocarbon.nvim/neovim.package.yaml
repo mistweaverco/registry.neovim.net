@@ -1,0 +1,8 @@
+name: nyoom-engineering/oxocarbon.nvim
+description: A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+homepage: https://github.com/nyoom-engineering/oxocarbon.nvim
+repository: https://github.com/nyoom-engineering/oxocarbon.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

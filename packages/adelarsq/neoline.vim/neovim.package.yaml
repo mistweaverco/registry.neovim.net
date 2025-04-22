@@ -1,0 +1,9 @@
+name: adelarsq/neoline.vim
+description: A light statusline/tabline plugin using Lua.
+homepage: https://github.com/adelarsq/neoline.vim
+repository: https://github.com/adelarsq/neoline.vim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

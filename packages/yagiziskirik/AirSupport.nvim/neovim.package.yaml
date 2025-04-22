@@ -1,0 +1,8 @@
+name: yagiziskirik/AirSupport.nvim
+description: Searchable reminder window for your custom shortcuts and commands.
+homepage: https://github.com/yagiziskirik/AirSupport.nvim
+repository: https://github.com/yagiziskirik/AirSupport.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: Mofiqul/dracula.nvim
+description: Dracula colorscheme for Neovim written in Lua.
+homepage: https://github.com/Mofiqul/dracula.nvim
+repository: https://github.com/Mofiqul/dracula.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

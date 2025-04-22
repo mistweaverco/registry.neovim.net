@@ -1,0 +1,8 @@
+name: f-person/auto-dark-mode.nvim
+description: Follow the system appearance on macOS.
+homepage: https://github.com/f-person/auto-dark-mode.nvim
+repository: https://github.com/f-person/auto-dark-mode.nvim
+license: GPL-3.0
+category: colorscheme
+tags:
+  - colorscheme-switchers

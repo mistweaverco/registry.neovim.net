@@ -1,0 +1,8 @@
+name: rasulomaroff/reactive.nvim
+description: Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
+homepage: https://github.com/rasulomaroff/reactive.nvim
+repository: https://github.com/rasulomaroff/reactive.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - color

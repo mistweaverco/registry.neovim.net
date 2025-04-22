@@ -1,0 +1,8 @@
+name: niuiic/remote.nvim
+description: Edit remote files with local configuration.
+homepage: https://github.com/niuiic/remote.nvim
+repository: https://github.com/niuiic/remote.nvim
+license: MIT
+category: plugin
+tags:
+  - remote-development

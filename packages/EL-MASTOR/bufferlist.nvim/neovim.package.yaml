@@ -1,0 +1,8 @@
+name: EL-MASTOR/bufferlist.nvim
+description: A super fast, lightweight, minimal and super easy buffer manager.
+homepage: https://github.com/EL-MASTOR/bufferlist.nvim
+repository: https://github.com/EL-MASTOR/bufferlist.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

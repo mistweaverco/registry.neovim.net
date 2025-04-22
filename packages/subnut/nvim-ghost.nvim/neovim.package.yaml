@@ -1,0 +1,8 @@
+name: subnut/nvim-ghost.nvim
+description: GhostText support with zero dependencies.
+homepage: https://github.com/subnut/nvim-ghost.nvim
+repository: https://github.com/subnut/nvim-ghost.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

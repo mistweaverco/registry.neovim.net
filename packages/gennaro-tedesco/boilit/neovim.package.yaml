@@ -1,0 +1,9 @@
+name: gennaro-tedesco/boilit
+description: Create boilerplate structure plugins.
+homepage: https://github.com/gennaro-tedesco/boilit
+repository: https://github.com/gennaro-tedesco/boilit
+license: Apache-2.0
+category: plugin
+tags:
+  - external
+  - boilerplate

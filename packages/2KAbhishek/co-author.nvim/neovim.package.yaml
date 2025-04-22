@@ -1,0 +1,8 @@
+name: 2KAbhishek/co-author.nvim
+description: Quickly add co-authors to commits.
+homepage: https://github.com/2KAbhishek/co-author.nvim
+repository: https://github.com/2KAbhishek/co-author.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - git

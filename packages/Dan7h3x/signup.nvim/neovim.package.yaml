@@ -1,0 +1,9 @@
+name: Dan7h3x/signup.nvim
+description: a little smartlsp_signaturehelper with awesome features.
+homepage: https://github.com/Dan7h3x/signup.nvim
+repository: https://github.com/Dan7h3x/signup.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

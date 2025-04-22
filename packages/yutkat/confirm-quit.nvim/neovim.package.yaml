@@ -1,0 +1,8 @@
+name: yutkat/confirm-quit.nvim
+description: Confirm before quitting Neovim.
+homepage: https://github.com/yutkat/confirm-quit.nvim
+repository: https://github.com/yutkat/confirm-quit.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

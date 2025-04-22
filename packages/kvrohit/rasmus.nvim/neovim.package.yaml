@@ -1,0 +1,8 @@
+name: kvrohit/rasmus.nvim
+description: A dark color scheme written in Lua ported fromrsms/sublime-themetheme.
+homepage: https://github.com/kvrohit/rasmus.nvim
+repository: https://github.com/kvrohit/rasmus.nvim
+license: unknown
+category: colorscheme
+tags:
+  - treesitter-colorschemes

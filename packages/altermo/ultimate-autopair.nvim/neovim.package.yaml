@@ -1,0 +1,8 @@
+name: altermo/ultimate-autopair.nvim
+description: Autopair with extensions.
+homepage: https://github.com/altermo/ultimate-autopair.nvim
+repository: https://github.com/altermo/ultimate-autopair.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

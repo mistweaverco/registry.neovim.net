@@ -1,0 +1,8 @@
+name: Mr-LLLLL/utilities.nvim
+description: A repository to collect some little utility functions.
+homepage: https://github.com/Mr-LLLLL/utilities.nvim
+repository: https://github.com/Mr-LLLLL/utilities.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

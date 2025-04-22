@@ -1,0 +1,8 @@
+name: RutaTang/compter.nvim
+description: Power and extend the ability of<C-a>and<C-x>with customized patterns.
+homepage: https://github.com/RutaTang/compter.nvim
+repository: https://github.com/RutaTang/compter.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

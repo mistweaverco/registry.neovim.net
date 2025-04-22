@@ -1,0 +1,8 @@
+name: mohseenrm/marko.nvim
+description: Behind the scenes, global marks management for different projects.
+homepage: https://github.com/mohseenrm/marko.nvim
+repository: https://github.com/mohseenrm/marko.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

@@ -1,0 +1,9 @@
+name: shellRaining/hlchunk.nvim
+description: A Lua implementation ofnvim-hlchunk, contains more features, such as highlight{}chunk, indent line, space blank etc.
+homepage: https://github.com/shellRaining/hlchunk.nvim
+repository: https://github.com/shellRaining/hlchunk.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

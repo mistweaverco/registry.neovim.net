@@ -1,0 +1,8 @@
+name: titanzero/zephyrium
+description: A zephyr-esque theme, written in Lua, with Tree-sitter support.
+homepage: https://github.com/titanzero/zephyrium
+repository: https://github.com/titanzero/zephyrium
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

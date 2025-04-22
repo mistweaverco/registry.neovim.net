@@ -1,0 +1,8 @@
+name: bluz71/vim-moonfly-colors
+description: A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
+homepage: https://github.com/bluz71/vim-moonfly-colors
+repository: https://github.com/bluz71/vim-moonfly-colors
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

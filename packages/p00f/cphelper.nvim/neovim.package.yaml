@@ -1,0 +1,9 @@
+name: p00f/cphelper.nvim
+description: Neovim helper for competitive programming written in Lua.
+homepage: https://github.com/p00f/cphelper.nvim
+repository: https://github.com/p00f/cphelper.nvim
+license: MIT
+category: plugin
+tags:
+  - game
+  - competitive-programming

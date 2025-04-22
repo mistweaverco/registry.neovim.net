@@ -1,0 +1,8 @@
+name: samharju/synthweave.nvim
+description: Synthwave '84 colorscheme port.
+homepage: https://github.com/samharju/synthweave.nvim
+repository: https://github.com/samharju/synthweave.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

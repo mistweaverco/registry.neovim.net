@@ -1,0 +1,9 @@
+name: yaocccc/nvim-lines.lua
+description: A fast, light, customizable Neovim statusline and tabline(buffers) plugin.
+homepage: https://github.com/yaocccc/nvim-lines.lua
+repository: https://github.com/yaocccc/nvim-lines.lua
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - statusline

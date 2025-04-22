@@ -1,0 +1,8 @@
+name: windwp/nvim-projectconfig
+description: Load Neovim config depend on project directory.
+homepage: https://github.com/windwp/nvim-projectconfig
+repository: https://github.com/windwp/nvim-projectconfig
+license: MIT
+category: plugin
+tags:
+  - project

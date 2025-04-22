@@ -1,0 +1,8 @@
+name: benlubas/molten-nvim
+description: Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+homepage: https://github.com/benlubas/molten-nvim
+repository: https://github.com/benlubas/molten-nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

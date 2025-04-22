@@ -1,0 +1,9 @@
+name: ya2s/nvim-cursorline
+description: A plugin that highlights cursor words and lines.
+homepage: https://github.com/ya2s/nvim-cursorline
+repository: https://github.com/ya2s/nvim-cursorline
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines
+  - cursorline

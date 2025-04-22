@@ -1,0 +1,8 @@
+name: kiyoon/python-import.nvim
+description: Add Python import statements with Tree-sitter, LSP, and more.
+homepage: https://github.com/kiyoon/python-import.nvim
+repository: https://github.com/kiyoon/python-import.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

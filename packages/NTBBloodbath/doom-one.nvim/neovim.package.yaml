@@ -1,0 +1,8 @@
+name: NTBBloodbath/doom-one.nvim
+description: Lua port of doom-emacs' doom-one.
+homepage: https://github.com/NTBBloodbath/doom-one.nvim
+repository: https://github.com/NTBBloodbath/doom-one.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,9 @@
+name: creativenull/diagnosticls-configs-nvim
+description: An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
+homepage: https://github.com/creativenull/diagnosticls-configs-nvim
+repository: https://github.com/creativenull/diagnosticls-configs-nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

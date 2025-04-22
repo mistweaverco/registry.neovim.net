@@ -1,0 +1,8 @@
+name: nvim-neorg/neorg
+description: Modernity meets insane extensibility. The future of organizing your life.
+homepage: https://github.com/nvim-neorg/neorg
+repository: https://github.com/nvim-neorg/neorg
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

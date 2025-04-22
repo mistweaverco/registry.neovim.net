@@ -1,0 +1,8 @@
+name: neur1n/noline.nvim
+description: Fully customizable bars and lines components with no presets or constraints. Seeconstructionandsetupexamples.
+homepage: https://github.com/neur1n/noline.nvim
+repository: https://github.com/neur1n/noline.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

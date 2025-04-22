@@ -1,0 +1,9 @@
+name: idanarye/nvim-buffls
+description: Add LSP functionality to specific Neovim buffers.
+homepage: https://github.com/idanarye/nvim-buffls
+repository: https://github.com/idanarye/nvim-buffls
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

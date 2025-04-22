@@ -1,0 +1,8 @@
+name: AntonVanAssche/music-controls.nvim
+description: Quickly control your favorite music player (Spotify, VLC, and more).
+homepage: https://github.com/AntonVanAssche/music-controls.nvim
+repository: https://github.com/AntonVanAssche/music-controls.nvim
+license: MIT
+category: plugin
+tags:
+  - media

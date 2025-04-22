@@ -1,0 +1,9 @@
+name: Zeioth/markmap.nvim
+description: Visualize your Markdown as mindmaps.
+homepage: https://github.com/Zeioth/markmap.nvim
+repository: https://github.com/Zeioth/markmap.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

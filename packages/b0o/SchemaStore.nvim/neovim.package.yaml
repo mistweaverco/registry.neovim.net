@@ -1,0 +1,9 @@
+name: b0o/SchemaStore.nvim
+description: Provide access to theSchemaStorecatalog.
+homepage: https://github.com/b0o/SchemaStore.nvim
+repository: https://github.com/b0o/SchemaStore.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

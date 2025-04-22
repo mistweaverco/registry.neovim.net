@@ -1,0 +1,8 @@
+name: maxmx03/fluoromachine.nvim
+description: Synthwave x Fluoromachine port.
+homepage: https://github.com/maxmx03/fluoromachine.nvim
+repository: https://github.com/maxmx03/fluoromachine.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

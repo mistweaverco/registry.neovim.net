@@ -1,0 +1,8 @@
+name: ishan9299/modus-theme-vim
+description: This is a color scheme developed by Protesilaos Stavrou for emacs.
+homepage: https://github.com/ishan9299/modus-theme-vim
+repository: https://github.com/ishan9299/modus-theme-vim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

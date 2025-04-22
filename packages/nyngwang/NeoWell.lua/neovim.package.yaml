@@ -1,0 +1,9 @@
+name: nyngwang/NeoWell.lua
+description: Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+homepage: https://github.com/nyngwang/NeoWell.lua
+repository: https://github.com/nyngwang/NeoWell.lua
+license: unknown
+category: plugin
+tags:
+  - debugging
+  - quickfix

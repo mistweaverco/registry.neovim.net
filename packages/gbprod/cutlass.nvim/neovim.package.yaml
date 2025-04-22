@@ -1,0 +1,8 @@
+name: gbprod/cutlass.nvim
+description: Plugin that adds a 'cut' operation separate from 'delete'.
+homepage: https://github.com/gbprod/cutlass.nvim
+repository: https://github.com/gbprod/cutlass.nvim
+license: WTFPL
+category: plugin
+tags:
+  - editing-support

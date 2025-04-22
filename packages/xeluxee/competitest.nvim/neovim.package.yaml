@@ -1,0 +1,9 @@
+name: xeluxee/competitest.nvim
+description: A plugin to automate testcases management and checking for Competitive Programming contests.
+homepage: https://github.com/xeluxee/competitest.nvim
+repository: https://github.com/xeluxee/competitest.nvim
+license: LGPL-3.0
+category: plugin
+tags:
+  - game
+  - competitive-programming

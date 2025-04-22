@@ -1,0 +1,8 @@
+name: LmanTW/themify.nvim
+description: A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
+homepage: https://github.com/LmanTW/themify.nvim
+repository: https://github.com/LmanTW/themify.nvim
+license: GPL-3.0
+category: colorscheme
+tags:
+  - colorscheme-switchers

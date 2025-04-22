@@ -1,0 +1,8 @@
+name: udayvir-singh/tangerine.nvim
+description: Tangerine provides a painless way to add fennel to your config.
+homepage: https://github.com/udayvir-singh/tangerine.nvim
+repository: https://github.com/udayvir-singh/tangerine.nvim
+license: MIT
+category: plugin
+tags:
+  - fennel

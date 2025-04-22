@@ -1,0 +1,8 @@
+name: axieax/urlview.nvim
+description: Browse all URLs in the current buffer.
+homepage: https://github.com/axieax/urlview.nvim
+repository: https://github.com/axieax/urlview.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

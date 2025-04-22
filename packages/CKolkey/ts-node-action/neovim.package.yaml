@@ -1,0 +1,8 @@
+name: CKolkey/ts-node-action
+description: A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
+homepage: https://github.com/CKolkey/ts-node-action
+repository: https://github.com/CKolkey/ts-node-action
+license: unknown
+category: plugin
+tags:
+  - editing-support

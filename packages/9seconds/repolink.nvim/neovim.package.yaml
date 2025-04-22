@@ -1,0 +1,8 @@
+name: 9seconds/repolink.nvim
+description: Generate shareable HTTP permalinks for various Git web frontends.
+homepage: https://github.com/9seconds/repolink.nvim
+repository: https://github.com/9seconds/repolink.nvim
+license: MIT
+category: plugin
+tags:
+  - git

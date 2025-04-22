@@ -1,0 +1,8 @@
+name: gbprod/yanky.nvim
+description: Improved Yank and Put functionalities.
+homepage: https://github.com/gbprod/yanky.nvim
+repository: https://github.com/gbprod/yanky.nvim
+license: WTFPL
+category: plugin
+tags:
+  - editing-support

@@ -1,0 +1,8 @@
+name: rockyzhang24/arctic.nvim
+description: A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+homepage: https://github.com/rockyzhang24/arctic.nvim
+repository: https://github.com/rockyzhang24/arctic.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

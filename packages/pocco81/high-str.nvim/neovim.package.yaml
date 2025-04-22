@@ -1,0 +1,8 @@
+name: pocco81/high-str.nvim
+description: Highlight visual selections like in a normal document editor!
+homepage: https://github.com/pocco81/high-str.nvim
+repository: https://github.com/pocco81/high-str.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

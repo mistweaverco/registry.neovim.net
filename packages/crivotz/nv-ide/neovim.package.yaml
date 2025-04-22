@@ -1,0 +1,8 @@
+name: crivotz/nv-ide
+description: Neovim custom configuration, oriented for full stack developers (Rails, Ruby, PHP, HTML, CSS, SCSS, JavaScript).
+homepage: https://github.com/crivotz/nv-ide
+repository: https://github.com/crivotz/nv-ide
+license: unknown
+category: plugin
+tags:
+  - preconfigured-configuration

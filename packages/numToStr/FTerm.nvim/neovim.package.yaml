@@ -1,0 +1,8 @@
+name: numToStr/FTerm.nvim
+description: No nonsense floating terminal written in Lua.
+homepage: https://github.com/numToStr/FTerm.nvim
+repository: https://github.com/numToStr/FTerm.nvim
+license: MIT
+category: plugin
+tags:
+  - terminal-integration

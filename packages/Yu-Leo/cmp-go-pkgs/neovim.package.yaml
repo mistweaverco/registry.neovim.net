@@ -1,0 +1,9 @@
+name: Yu-Leo/cmp-go-pkgs
+description: Cmp source providing the names of Go packages to import.
+homepage: https://github.com/Yu-Leo/cmp-go-pkgs
+repository: https://github.com/Yu-Leo/cmp-go-pkgs
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

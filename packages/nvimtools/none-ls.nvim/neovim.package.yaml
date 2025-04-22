@@ -1,0 +1,9 @@
+name: nvimtools/none-ls.nvim
+description: Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+homepage: https://github.com/nvimtools/none-ls.nvim
+repository: https://github.com/nvimtools/none-ls.nvim
+license: Unlicense
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

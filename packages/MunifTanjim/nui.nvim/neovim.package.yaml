@@ -1,0 +1,8 @@
+name: MunifTanjim/nui.nvim
+description: UI Component Library.
+homepage: https://github.com/MunifTanjim/nui.nvim
+repository: https://github.com/MunifTanjim/nui.nvim
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

@@ -1,0 +1,8 @@
+name: bennypowers/splitjoin.nvim
+description: Split and join various syntax structures.
+homepage: https://github.com/bennypowers/splitjoin.nvim
+repository: https://github.com/bennypowers/splitjoin.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

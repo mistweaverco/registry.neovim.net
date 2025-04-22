@@ -1,0 +1,8 @@
+name: echasnovski/mini.nvim
+description: Module ofmini.nvimfor buffer removing (unshow, delete, wipeout) while saving window layout.
+homepage: https://github.com/echasnovski/mini.nvim
+repository: https://github.com/echasnovski/mini.nvim
+license: MIT
+category: plugin
+tags:
+  - split-and-window

@@ -1,0 +1,9 @@
+name: theKnightsOfRohan/csvlens.nvim
+description: A port ofYS-L/csvlens, for easy previewing of tabular data.
+homepage: https://github.com/theKnightsOfRohan/csvlens.nvim
+repository: https://github.com/theKnightsOfRohan/csvlens.nvim
+license: MIT
+category: plugin
+tags:
+  - utility
+  - csv-files

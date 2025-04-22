@@ -1,0 +1,8 @@
+name: niuiic/multiple-session.nvim
+description: Provides multi-session management capabilities.
+homepage: https://github.com/niuiic/multiple-session.nvim
+repository: https://github.com/niuiic/multiple-session.nvim
+license: MIT
+category: plugin
+tags:
+  - session

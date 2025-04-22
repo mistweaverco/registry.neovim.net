@@ -1,0 +1,9 @@
+name: lukas-reineke/indent-blankline.nvim
+description: IndentLine replacement in Lua with more features and Tree-sitter support.
+homepage: https://github.com/lukas-reineke/indent-blankline.nvim
+repository: https://github.com/lukas-reineke/indent-blankline.nvim
+license: MIT
+category: plugin
+tags:
+  - formatting
+  - indent

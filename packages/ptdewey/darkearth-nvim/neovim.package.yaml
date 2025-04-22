@@ -1,0 +1,8 @@
+name: ptdewey/darkearth-nvim
+description: A dark and earthy colorscheme supporting Tree-sitter and LSP.
+homepage: https://github.com/ptdewey/darkearth-nvim
+repository: https://github.com/ptdewey/darkearth-nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

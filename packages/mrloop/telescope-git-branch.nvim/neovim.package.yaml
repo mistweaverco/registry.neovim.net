@@ -1,0 +1,8 @@
+name: mrloop/telescope-git-branch.nvim
+description: A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+homepage: https://github.com/mrloop/telescope-git-branch.nvim
+repository: https://github.com/mrloop/telescope-git-branch.nvim
+license: MIT
+category: plugin
+tags:
+  - git

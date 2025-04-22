@@ -1,0 +1,8 @@
+name: clojure-vim/jazz.nvim
+description: Acid + Impromptu = Jazz.
+homepage: https://github.com/clojure-vim/jazz.nvim
+repository: https://github.com/clojure-vim/jazz.nvim
+license: unknown
+category: plugin
+tags:
+  - utility

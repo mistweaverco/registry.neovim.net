@@ -1,0 +1,8 @@
+name: andersevenrud/nordic.nvim
+description: A nord-esque colorscheme.
+homepage: https://github.com/andersevenrud/nordic.nvim
+repository: https://github.com/andersevenrud/nordic.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

@@ -1,0 +1,8 @@
+name: chrisgrieser/nvim-scissors
+description: Automagical editing and creation of snippets.
+homepage: https://github.com/chrisgrieser/nvim-scissors
+repository: https://github.com/chrisgrieser/nvim-scissors
+license: MIT
+category: plugin
+tags:
+  - snippet

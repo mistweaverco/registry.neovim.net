@@ -1,0 +1,8 @@
+name: davidyz/vectorcode
+description: Supercharge your LLM experience with repository-level RAG.
+homepage: https://github.com/davidyz/vectorcode
+repository: https://github.com/davidyz/vectorcode
+license: MIT
+category: plugin
+tags:
+  - ai

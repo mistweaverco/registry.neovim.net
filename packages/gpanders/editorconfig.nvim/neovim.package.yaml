@@ -1,0 +1,8 @@
+name: gpanders/editorconfig.nvim
+description: An EditorConfig plugin written in Fennel.
+homepage: https://github.com/gpanders/editorconfig.nvim
+repository: https://github.com/gpanders/editorconfig.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - formatting

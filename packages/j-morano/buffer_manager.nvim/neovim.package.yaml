@@ -1,0 +1,8 @@
+name: j-morano/buffer_manager.nvim
+description: Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+homepage: https://github.com/j-morano/buffer_manager.nvim
+repository: https://github.com/j-morano/buffer_manager.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

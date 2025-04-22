@@ -1,0 +1,8 @@
+name: davidgranstrom/scnvim
+description: Neovim frontend for SuperCollider.
+homepage: https://github.com/davidgranstrom/scnvim
+repository: https://github.com/davidgranstrom/scnvim
+license: GPL-3.0
+category: plugin
+tags:
+  - media

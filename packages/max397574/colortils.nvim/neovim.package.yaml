@@ -1,0 +1,8 @@
+name: max397574/colortils.nvim
+description: A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+homepage: https://github.com/max397574/colortils.nvim
+repository: https://github.com/max397574/colortils.nvim
+license: GPL-2.0
+category: plugin
+tags:
+  - color

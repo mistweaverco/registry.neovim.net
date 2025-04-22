@@ -1,0 +1,8 @@
+name: SuperBo/fugit2.nvim
+description: Git GUI powered bylibgit2.
+homepage: https://github.com/SuperBo/fugit2.nvim
+repository: https://github.com/SuperBo/fugit2.nvim
+license: MIT
+category: plugin
+tags:
+  - git

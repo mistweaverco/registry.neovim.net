@@ -1,0 +1,8 @@
+name: jghauser/papis.nvim
+description: Manage your bibliography from within your favourite editor.
+homepage: https://github.com/jghauser/papis.nvim
+repository: https://github.com/jghauser/papis.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - note-taking

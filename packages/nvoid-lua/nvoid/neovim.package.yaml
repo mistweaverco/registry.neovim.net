@@ -1,0 +1,8 @@
+name: nvoid-lua/nvoid
+description: Simple Neovim config written in Lua with all the modern features available in anyIDE
+homepage: https://github.com/nvoid-lua/nvoid
+repository: https://github.com/nvoid-lua/nvoid
+license: GPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

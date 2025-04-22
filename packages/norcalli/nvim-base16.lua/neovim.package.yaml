@@ -1,0 +1,8 @@
+name: norcalli/nvim-base16.lua
+description: Programmatic Lua library for setting base16 themes.
+homepage: https://github.com/norcalli/nvim-base16.lua
+repository: https://github.com/norcalli/nvim-base16.lua
+license: NOASSERTION
+category: colorscheme
+tags:
+  - colorscheme-creation

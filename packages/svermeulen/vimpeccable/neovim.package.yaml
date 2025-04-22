@@ -1,0 +1,8 @@
+name: svermeulen/vimpeccable
+description: Commands to help write your .vimrc in Lua or any Lua based language.
+homepage: https://github.com/svermeulen/vimpeccable
+repository: https://github.com/svermeulen/vimpeccable
+license: MIT
+category: plugin
+tags:
+  - neovim-lua-development

@@ -1,0 +1,8 @@
+name: loganswartz/polychrome.nvim
+description: A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+homepage: https://github.com/loganswartz/polychrome.nvim
+repository: https://github.com/loganswartz/polychrome.nvim
+license: MIT
+category: colorscheme
+tags:
+  - colorscheme-creation

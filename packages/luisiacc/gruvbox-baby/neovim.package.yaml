@@ -1,0 +1,8 @@
+name: luisiacc/gruvbox-baby
+description: A modern gruvbox theme with full Tree-sitter support.
+homepage: https://github.com/luisiacc/gruvbox-baby
+repository: https://github.com/luisiacc/gruvbox-baby
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

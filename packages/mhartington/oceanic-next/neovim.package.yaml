@@ -1,0 +1,8 @@
+name: mhartington/oceanic-next
+description: Oceanic Next theme.
+homepage: https://github.com/mhartington/oceanic-next
+repository: https://github.com/mhartington/oceanic-next
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

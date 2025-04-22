@@ -1,0 +1,8 @@
+name: Exafunction/codeium.nvim
+description: Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
+homepage: https://github.com/Exafunction/codeium.nvim
+repository: https://github.com/Exafunction/codeium.nvim
+license: MIT
+category: plugin
+tags:
+  - ai

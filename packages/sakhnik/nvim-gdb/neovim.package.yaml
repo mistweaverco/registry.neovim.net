@@ -1,0 +1,8 @@
+name: sakhnik/nvim-gdb
+description: Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
+homepage: https://github.com/sakhnik/nvim-gdb
+repository: https://github.com/sakhnik/nvim-gdb
+license: unknown
+category: plugin
+tags:
+  - debugging

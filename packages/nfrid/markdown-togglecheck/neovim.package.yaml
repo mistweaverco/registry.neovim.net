@@ -1,0 +1,9 @@
+name: nfrid/markdown-togglecheck
+description: Simple Neovim plugin for toggling check boxes using Tree-sitter.
+homepage: https://github.com/nfrid/markdown-togglecheck
+repository: https://github.com/nfrid/markdown-togglecheck
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

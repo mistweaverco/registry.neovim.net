@@ -1,0 +1,8 @@
+name: jim-at-jibba/micropython.nvim
+description: Enhances the development experience for developers using Micro-python for IoT and maker projects.
+homepage: https://github.com/jim-at-jibba/micropython.nvim
+repository: https://github.com/jim-at-jibba/micropython.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support

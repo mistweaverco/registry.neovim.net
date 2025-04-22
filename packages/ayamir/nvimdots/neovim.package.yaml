@@ -1,0 +1,8 @@
+name: ayamir/nvimdots
+description: A well-configured and structured configuration with NixOS support.
+homepage: https://github.com/ayamir/nvimdots
+repository: https://github.com/ayamir/nvimdots
+license: BSD-3-Clause
+category: plugin
+tags:
+  - preconfigured-configuration

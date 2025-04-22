@@ -1,0 +1,8 @@
+name: smzm/hydrovim
+description: Run Python code inside Neovim.
+homepage: https://github.com/smzm/hydrovim
+repository: https://github.com/smzm/hydrovim
+license: unknown
+category: plugin
+tags:
+  - code-runner

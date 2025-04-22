@@ -1,0 +1,8 @@
+name: jghauser/mkdir.nvim
+description: Automatically create missing directories when saving files.
+homepage: https://github.com/jghauser/mkdir.nvim
+repository: https://github.com/jghauser/mkdir.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

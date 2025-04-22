@@ -1,0 +1,8 @@
+name: AckslD/nvim-gfold.lua
+description: Plugin usinggfoldto switch repo and have statusline component.
+homepage: https://github.com/AckslD/nvim-gfold.lua
+repository: https://github.com/AckslD/nvim-gfold.lua
+license: MIT
+category: plugin
+tags:
+  - git

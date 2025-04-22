@@ -1,0 +1,8 @@
+name: mawkler/hml.nvim
+description: AddsH/M/Lindicators to your line numbers.
+homepage: https://github.com/mawkler/hml.nvim
+repository: https://github.com/mawkler/hml.nvim
+license: MIT
+category: plugin
+tags:
+  - bars-and-lines

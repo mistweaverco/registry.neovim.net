@@ -1,0 +1,8 @@
+name: zbirenbaum/copilot.lua
+description: Fully featured Lua replacement forGitHub/copilot.vim.
+homepage: https://github.com/zbirenbaum/copilot.lua
+repository: https://github.com/zbirenbaum/copilot.lua
+license: MIT
+category: plugin
+tags:
+  - completion

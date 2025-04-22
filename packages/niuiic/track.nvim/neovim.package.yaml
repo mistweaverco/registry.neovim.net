@@ -1,0 +1,8 @@
+name: niuiic/track.nvim
+description: Enhanced mark with description. Track the thought process of reading source code.
+homepage: https://github.com/niuiic/track.nvim
+repository: https://github.com/niuiic/track.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

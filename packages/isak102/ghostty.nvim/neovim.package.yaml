@@ -1,0 +1,8 @@
+name: isak102/ghostty.nvim
+description: Automatically validate your Ghostty configuration on save.
+homepage: https://github.com/isak102/ghostty.nvim
+repository: https://github.com/isak102/ghostty.nvim
+license: unknown
+category: plugin
+tags:
+  - terminal-integration

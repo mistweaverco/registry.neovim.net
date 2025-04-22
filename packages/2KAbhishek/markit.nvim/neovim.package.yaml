@@ -1,0 +1,8 @@
+name: 2KAbhishek/markit.nvim
+description: Improved global marks and project wide bookmarks, to quickly navigate files.
+homepage: https://github.com/2KAbhishek/markit.nvim
+repository: https://github.com/2KAbhishek/markit.nvim
+license: MIT
+category: plugin
+tags:
+  - marks

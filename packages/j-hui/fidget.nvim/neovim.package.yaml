@@ -1,0 +1,9 @@
+name: j-hui/fidget.nvim
+description: Standalone UI for LSP progress.
+homepage: https://github.com/j-hui/fidget.nvim
+repository: https://github.com/j-hui/fidget.nvim
+license: MIT
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

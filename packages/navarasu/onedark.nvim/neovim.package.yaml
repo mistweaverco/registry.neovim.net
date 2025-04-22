@@ -1,0 +1,8 @@
+name: navarasu/onedark.nvim
+description: A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
+homepage: https://github.com/navarasu/onedark.nvim
+repository: https://github.com/navarasu/onedark.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

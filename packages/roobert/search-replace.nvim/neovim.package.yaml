@@ -1,0 +1,8 @@
+name: roobert/search-replace.nvim
+description: Builds on the native search and replace experience.
+homepage: https://github.com/roobert/search-replace.nvim
+repository: https://github.com/roobert/search-replace.nvim
+license: unknown
+category: plugin
+tags:
+  - search

@@ -1,0 +1,8 @@
+name: rcarriga/nvim-dap-ui
+description: A UI for nvim-dap.
+homepage: https://github.com/rcarriga/nvim-dap-ui
+repository: https://github.com/rcarriga/nvim-dap-ui
+license: MIT
+category: plugin
+tags:
+  - debugging

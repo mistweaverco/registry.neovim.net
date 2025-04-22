@@ -1,0 +1,8 @@
+name: 4e554c4c/darkman.nvim
+description: Follow the system dark-mode setting on Linux.
+homepage: https://github.com/4e554c4c/darkman.nvim
+repository: https://github.com/4e554c4c/darkman.nvim
+license: MIT
+category: colorscheme
+tags:
+  - colorscheme-switchers

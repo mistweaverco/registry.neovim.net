@@ -1,0 +1,9 @@
+name: kevinhwang91/nvim-bqf
+description: The goal of nvim-bqf is to make Neovim's quickfix window better.
+homepage: https://github.com/kevinhwang91/nvim-bqf
+repository: https://github.com/kevinhwang91/nvim-bqf
+license: BSD-3-Clause
+category: plugin
+tags:
+  - debugging
+  - quickfix

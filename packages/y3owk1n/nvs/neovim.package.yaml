@@ -1,0 +1,9 @@
+name: y3owk1n/nvs
+description: Another Neovim version manager with config switcher.
+homepage: https://github.com/y3owk1n/nvs
+repository: https://github.com/y3owk1n/nvs
+license: MIT
+category: plugin
+tags:
+  - external
+  - version-manager

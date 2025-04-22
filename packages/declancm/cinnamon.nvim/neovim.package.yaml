@@ -1,0 +1,8 @@
+name: declancm/cinnamon.nvim
+description: Smooth scrolling for any movement command.
+homepage: https://github.com/declancm/cinnamon.nvim
+repository: https://github.com/declancm/cinnamon.nvim
+license: MIT
+category: plugin
+tags:
+  - scrolling

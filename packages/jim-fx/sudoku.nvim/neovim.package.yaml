@@ -1,0 +1,8 @@
+name: jim-fx/sudoku.nvim
+description: Classic sudoku puzzle.
+homepage: https://github.com/jim-fx/sudoku.nvim
+repository: https://github.com/jim-fx/sudoku.nvim
+license: MIT
+category: plugin
+tags:
+  - game

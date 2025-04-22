@@ -1,0 +1,8 @@
+name: alec-gibson/nvim-tetris
+description: Bringing emacs' greatest feature to Neovim - Tetris!.
+homepage: https://github.com/alec-gibson/nvim-tetris
+repository: https://github.com/alec-gibson/nvim-tetris
+license: GPL-3.0
+category: plugin
+tags:
+  - game

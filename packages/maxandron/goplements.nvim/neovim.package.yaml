@@ -1,0 +1,9 @@
+name: maxandron/goplements.nvim
+description: Visualize Go struct and interface implementations.
+homepage: https://github.com/maxandron/goplements.nvim
+repository: https://github.com/maxandron/goplements.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - programming-languages-support
+  - golang

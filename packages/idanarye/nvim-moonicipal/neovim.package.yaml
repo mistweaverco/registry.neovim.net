@@ -1,0 +1,8 @@
+name: idanarye/nvim-moonicipal
+description: Task runner with focus on rapidly changing personal tasks.
+homepage: https://github.com/idanarye/nvim-moonicipal
+repository: https://github.com/idanarye/nvim-moonicipal
+license: MIT
+category: plugin
+tags:
+  - code-runner

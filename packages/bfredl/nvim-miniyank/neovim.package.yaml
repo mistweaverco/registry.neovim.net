@@ -1,0 +1,8 @@
+name: bfredl/nvim-miniyank
+description: The killring-alike plugin with no default mappings.
+homepage: https://github.com/bfredl/nvim-miniyank
+repository: https://github.com/bfredl/nvim-miniyank
+license: MIT
+category: plugin
+tags:
+  - utility

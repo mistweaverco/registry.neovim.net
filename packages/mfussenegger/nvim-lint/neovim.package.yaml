@@ -1,0 +1,9 @@
+name: mfussenegger/nvim-lint
+description: An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+homepage: https://github.com/mfussenegger/nvim-lint
+repository: https://github.com/mfussenegger/nvim-lint
+license: GPL-3.0
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5

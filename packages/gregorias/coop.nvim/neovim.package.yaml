@@ -1,0 +1,8 @@
+name: gregorias/coop.nvim
+description: Structured concurrency with Lua coroutines.
+homepage: https://github.com/gregorias/coop.nvim
+repository: https://github.com/gregorias/coop.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - neovim-lua-development

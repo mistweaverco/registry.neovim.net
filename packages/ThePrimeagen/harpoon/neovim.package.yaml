@@ -1,0 +1,8 @@
+name: ThePrimeagen/harpoon
+description: A per project, auto updating and editable marks utility for fast file navigation.
+homepage: https://github.com/ThePrimeagen/harpoon
+repository: https://github.com/ThePrimeagen/harpoon
+license: MIT
+category: plugin
+tags:
+  - marks

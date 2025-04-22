@@ -1,0 +1,8 @@
+name: f-person/git-blame.nvim
+description: Show Git blame info.
+homepage: https://github.com/f-person/git-blame.nvim
+repository: https://github.com/f-person/git-blame.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - git

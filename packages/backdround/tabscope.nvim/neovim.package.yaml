@@ -1,0 +1,8 @@
+name: backdround/tabscope.nvim
+description: Make tab-local buffers.
+homepage: https://github.com/backdround/tabscope.nvim
+repository: https://github.com/backdround/tabscope.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

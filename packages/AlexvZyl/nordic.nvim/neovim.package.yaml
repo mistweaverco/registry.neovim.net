@@ -1,0 +1,8 @@
+name: AlexvZyl/nordic.nvim
+description: Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+homepage: https://github.com/AlexvZyl/nordic.nvim
+repository: https://github.com/AlexvZyl/nordic.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

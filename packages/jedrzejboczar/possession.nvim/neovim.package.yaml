@@ -1,0 +1,8 @@
+name: jedrzejboczar/possession.nvim
+description: Flexible session management with arbitrary persistent data stored as JSON.
+homepage: https://github.com/jedrzejboczar/possession.nvim
+repository: https://github.com/jedrzejboczar/possession.nvim
+license: MIT
+category: plugin
+tags:
+  - session

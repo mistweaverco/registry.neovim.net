@@ -1,0 +1,8 @@
+name: max397574/better-escape.nvim
+description: Create shortcuts to escape insert mode without getting delay.
+homepage: https://github.com/max397574/better-escape.nvim
+repository: https://github.com/max397574/better-escape.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - keybinding

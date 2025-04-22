@@ -1,0 +1,8 @@
+name: niuiic/task.nvim
+description: Another highly configurable task manager that enables seamless interaction with tasks.
+homepage: https://github.com/niuiic/task.nvim
+repository: https://github.com/niuiic/task.nvim
+license: MIT
+category: plugin
+tags:
+  - code-runner

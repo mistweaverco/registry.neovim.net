@@ -1,0 +1,10 @@
+name: anott03/nvim-lspinstall
+description: Easy to install language servers.
+homepage: https://github.com/anott03/nvim-lspinstall
+repository: https://github.com/anott03/nvim-lspinstall
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - lsp-installer

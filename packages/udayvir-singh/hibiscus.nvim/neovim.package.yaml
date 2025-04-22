@@ -1,0 +1,8 @@
+name: udayvir-singh/hibiscus.nvim
+description: Highly opinionated macros to elegantly write your config.
+homepage: https://github.com/udayvir-singh/hibiscus.nvim
+repository: https://github.com/udayvir-singh/hibiscus.nvim
+license: MIT
+category: plugin
+tags:
+  - fennel

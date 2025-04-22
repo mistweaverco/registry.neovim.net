@@ -1,0 +1,8 @@
+name: Shatur/neovim-tasks
+description: A stateful task manager focused on integration with build systems.
+homepage: https://github.com/Shatur/neovim-tasks
+repository: https://github.com/Shatur/neovim-tasks
+license: GPL-3.0
+category: plugin
+tags:
+  - code-runner

@@ -1,0 +1,8 @@
+name: folke/lazydev.nvim
+description: Faster LuaLS setup.
+homepage: https://github.com/folke/lazydev.nvim
+repository: https://github.com/folke/lazydev.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - neovim-lua-development

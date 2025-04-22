@@ -1,0 +1,8 @@
+name: otavioschwanck/telescope-alternate.nvim
+description: Alternate between common files using telescope.
+homepage: https://github.com/otavioschwanck/telescope-alternate.nvim
+repository: https://github.com/otavioschwanck/telescope-alternate.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - project

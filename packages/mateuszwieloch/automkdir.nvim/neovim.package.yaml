@@ -1,0 +1,8 @@
+name: mateuszwieloch/automkdir.nvim
+description: Automatically create non-existent parent directories when writing a file.
+homepage: https://github.com/mateuszwieloch/automkdir.nvim
+repository: https://github.com/mateuszwieloch/automkdir.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - utility

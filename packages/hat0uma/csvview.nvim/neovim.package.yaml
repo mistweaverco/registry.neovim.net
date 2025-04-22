@@ -1,0 +1,9 @@
+name: hat0uma/csvview.nvim
+description: An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
+homepage: https://github.com/hat0uma/csvview.nvim
+repository: https://github.com/hat0uma/csvview.nvim
+license: MIT
+category: plugin
+tags:
+  - utility
+  - csv-files

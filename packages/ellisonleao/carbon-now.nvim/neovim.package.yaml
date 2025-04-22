@@ -1,0 +1,8 @@
+name: ellisonleao/carbon-now.nvim
+description: Create beautiful code snippets directly from Neovim.
+homepage: https://github.com/ellisonleao/carbon-now.nvim
+repository: https://github.com/ellisonleao/carbon-now.nvim
+license: unknown
+category: plugin
+tags:
+  - snippet

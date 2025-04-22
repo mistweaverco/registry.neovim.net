@@ -1,0 +1,8 @@
+name: wsdjeg/nvim-plug
+description: Asynchronous Neovim plugin manager written in Lua.
+homepage: https://github.com/wsdjeg/nvim-plug
+repository: https://github.com/wsdjeg/nvim-plug
+license: GPL-3.0
+category: plugin
+tags:
+  - plugin-manager

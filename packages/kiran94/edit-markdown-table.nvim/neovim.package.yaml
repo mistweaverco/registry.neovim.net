@@ -1,0 +1,9 @@
+name: kiran94/edit-markdown-table.nvim
+description: Edit Markdown Tables using Tree-sitter.
+homepage: https://github.com/kiran94/edit-markdown-table.nvim
+repository: https://github.com/kiran94/edit-markdown-table.nvim
+license: MIT
+category: plugin
+tags:
+  - programming-languages-support
+  - markdown-and-latex

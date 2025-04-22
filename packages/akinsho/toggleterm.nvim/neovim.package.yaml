@@ -1,0 +1,8 @@
+name: akinsho/toggleterm.nvim
+description: Easily manage multiple terminal windows.
+homepage: https://github.com/akinsho/toggleterm.nvim
+repository: https://github.com/akinsho/toggleterm.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - terminal-integration

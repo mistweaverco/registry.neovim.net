@@ -1,0 +1,8 @@
+name: pocco81/true-zen.nvim
+description: Clean and elegant distraction-free writing.
+homepage: https://github.com/pocco81/true-zen.nvim
+repository: https://github.com/pocco81/true-zen.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - editing-support

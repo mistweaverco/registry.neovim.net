@@ -1,0 +1,8 @@
+name: ghillb/cybu.nvim
+description: Displays a notification window with context when cycling buffers.
+homepage: https://github.com/ghillb/cybu.nvim
+repository: https://github.com/ghillb/cybu.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

@@ -1,0 +1,8 @@
+name: ovk/endec.nvim
+description: Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
+homepage: https://github.com/ovk/endec.nvim
+repository: https://github.com/ovk/endec.nvim
+license: MIT
+category: plugin
+tags:
+  - utility

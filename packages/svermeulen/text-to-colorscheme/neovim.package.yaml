@@ -1,0 +1,8 @@
+name: svermeulen/text-to-colorscheme
+description: Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+homepage: https://github.com/svermeulen/text-to-colorscheme
+repository: https://github.com/svermeulen/text-to-colorscheme
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

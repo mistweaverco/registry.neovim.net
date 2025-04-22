@@ -1,0 +1,8 @@
+name: sindrets/winshift.nvim
+description: Rearrange your windows with ease.
+homepage: https://github.com/sindrets/winshift.nvim
+repository: https://github.com/sindrets/winshift.nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - split-and-window

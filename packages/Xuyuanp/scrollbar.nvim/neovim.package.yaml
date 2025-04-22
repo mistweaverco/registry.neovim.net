@@ -1,0 +1,9 @@
+name: Xuyuanp/scrollbar.nvim
+description: Scrollbar.
+homepage: https://github.com/Xuyuanp/scrollbar.nvim
+repository: https://github.com/Xuyuanp/scrollbar.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - scrolling
+  - scrollbar

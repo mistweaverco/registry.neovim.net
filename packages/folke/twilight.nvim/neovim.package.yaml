@@ -1,0 +1,8 @@
+name: folke/twilight.nvim
+description: Dim inactive portions of the code you're editing using Tree-sitter.
+homepage: https://github.com/folke/twilight.nvim
+repository: https://github.com/folke/twilight.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - color

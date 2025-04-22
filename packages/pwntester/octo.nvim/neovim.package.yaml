@@ -1,0 +1,9 @@
+name: pwntester/octo.nvim
+description: Work with GitHub issues and PRs from Neovim. Just edit the issue description.
+homepage: https://github.com/pwntester/octo.nvim
+repository: https://github.com/pwntester/octo.nvim
+license: MIT
+category: plugin
+tags:
+  - git
+  - github

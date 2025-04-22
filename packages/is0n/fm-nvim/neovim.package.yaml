@@ -1,0 +1,8 @@
+name: is0n/fm-nvim
+description: Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders).
+homepage: https://github.com/is0n/fm-nvim
+repository: https://github.com/is0n/fm-nvim
+license: GPL-3.0
+category: plugin
+tags:
+  - file-explorer

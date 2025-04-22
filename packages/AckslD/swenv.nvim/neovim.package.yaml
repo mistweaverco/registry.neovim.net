@@ -1,0 +1,8 @@
+name: AckslD/swenv.nvim
+description: Tiny plugin to quickly switch Python virtual environments without restarting.
+homepage: https://github.com/AckslD/swenv.nvim
+repository: https://github.com/AckslD/swenv.nvim
+license: unknown
+category: plugin
+tags:
+  - programming-languages-support

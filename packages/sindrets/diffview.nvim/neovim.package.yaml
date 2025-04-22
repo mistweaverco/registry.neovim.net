@@ -1,0 +1,8 @@
+name: sindrets/diffview.nvim
+description: Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
+homepage: https://github.com/sindrets/diffview.nvim
+repository: https://github.com/sindrets/diffview.nvim
+license: NOASSERTION
+category: plugin
+tags:
+  - git

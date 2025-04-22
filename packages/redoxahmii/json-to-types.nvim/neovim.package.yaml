@@ -1,0 +1,8 @@
+name: redoxahmii/json-to-types.nvim
+description: Convert JSON objects to type definitions for multiple languages.
+homepage: https://github.com/redoxahmii/json-to-types.nvim
+repository: https://github.com/redoxahmii/json-to-types.nvim
+license: Apache-2.0
+category: plugin
+tags:
+  - utility

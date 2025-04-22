@@ -1,0 +1,8 @@
+name: theniceboy/nvim-deus
+description: Vim-deus with Tree-sitter support.
+homepage: https://github.com/theniceboy/nvim-deus
+repository: https://github.com/theniceboy/nvim-deus
+license: NOASSERTION
+category: colorscheme
+tags:
+  - treesitter-colorschemes

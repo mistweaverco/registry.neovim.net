@@ -1,0 +1,10 @@
+name: piersolenski/wtf.nvim
+description: AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
+homepage: https://github.com/piersolenski/wtf.nvim
+repository: https://github.com/piersolenski/wtf.nvim
+license: unknown
+category: plugin
+tags:
+  - lsp
+  - neovim-0.5
+  - diagnostics

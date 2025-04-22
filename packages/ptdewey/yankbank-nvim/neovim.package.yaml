@@ -1,0 +1,8 @@
+name: ptdewey/yankbank-nvim
+description: Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+homepage: https://github.com/ptdewey/yankbank-nvim
+repository: https://github.com/ptdewey/yankbank-nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support

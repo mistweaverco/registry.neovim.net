@@ -1,0 +1,9 @@
+name: kawre/leetcode.nvim
+description: Solve Leetcode problems.
+homepage: https://github.com/kawre/leetcode.nvim
+repository: https://github.com/kawre/leetcode.nvim
+license: MIT
+category: plugin
+tags:
+  - game
+  - competitive-programming

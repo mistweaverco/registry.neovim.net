@@ -1,0 +1,8 @@
+name: backdround/global-note.nvim
+description: One global note in a floating window.
+homepage: https://github.com/backdround/global-note.nvim
+repository: https://github.com/backdround/global-note.nvim
+license: MIT
+category: plugin
+tags:
+  - note-taking

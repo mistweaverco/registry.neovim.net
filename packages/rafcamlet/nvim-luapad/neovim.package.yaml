@@ -1,0 +1,8 @@
+name: rafcamlet/nvim-luapad
+description: Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
+homepage: https://github.com/rafcamlet/nvim-luapad
+repository: https://github.com/rafcamlet/nvim-luapad
+license: unknown
+category: plugin
+tags:
+  - neovim-lua-development

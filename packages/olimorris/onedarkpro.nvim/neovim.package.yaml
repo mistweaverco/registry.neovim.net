@@ -1,0 +1,8 @@
+name: olimorris/onedarkpro.nvim
+description: Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
+homepage: https://github.com/olimorris/onedarkpro.nvim
+repository: https://github.com/olimorris/onedarkpro.nvim
+license: MIT
+category: colorscheme
+tags:
+  - treesitter-colorschemes

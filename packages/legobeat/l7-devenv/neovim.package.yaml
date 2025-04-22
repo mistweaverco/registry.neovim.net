@@ -1,0 +1,8 @@
+name: legobeat/l7-devenv
+description: Security-focused IDE with a hackable (in the right way) framework based on Neovim and shell.
+homepage: https://github.com/legobeat/l7-devenv
+repository: https://github.com/legobeat/l7-devenv
+license: AGPL-3.0
+category: plugin
+tags:
+  - preconfigured-configuration

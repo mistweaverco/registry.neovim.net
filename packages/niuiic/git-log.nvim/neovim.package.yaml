@@ -1,0 +1,8 @@
+name: niuiic/git-log.nvim
+description: Check Git log of the selected code.
+homepage: https://github.com/niuiic/git-log.nvim
+repository: https://github.com/niuiic/git-log.nvim
+license: MIT
+category: plugin
+tags:
+  - git

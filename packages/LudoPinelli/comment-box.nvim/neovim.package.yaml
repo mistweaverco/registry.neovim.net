@@ -1,0 +1,9 @@
+name: LudoPinelli/comment-box.nvim
+description: Clarify and beautify your comments using boxes and lines.
+homepage: https://github.com/LudoPinelli/comment-box.nvim
+repository: https://github.com/LudoPinelli/comment-box.nvim
+license: MIT
+category: plugin
+tags:
+  - editing-support
+  - comment

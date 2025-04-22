@@ -1,0 +1,9 @@
+name: ziontee113/syntax-tree-surfer
+description: Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
+homepage: https://github.com/ziontee113/syntax-tree-surfer
+repository: https://github.com/ziontee113/syntax-tree-surfer
+license: MIT
+category: plugin
+tags:
+  - motion
+  - tree-sitter-based
